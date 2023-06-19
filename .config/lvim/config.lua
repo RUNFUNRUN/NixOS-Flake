@@ -7,7 +7,7 @@ lvim.plugins = {
   },
   { "machakann/vim-sandwich" },
   { "nvimdev/lspsaga.nvim" },
-  { "suan/vim-instant-markdown" },
+  -- { "suan/vim-instant-markdown" },
   { "uga-rosa/ccc.nvim" },
   { "windwp/nvim-ts-autotag" },
   { "jsborjesson/vim-uppercase-sql" },
