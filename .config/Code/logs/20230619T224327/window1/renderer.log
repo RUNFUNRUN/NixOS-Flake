@@ -1,8 +1,0 @@
-2023-06-19 22:43:31.500 [error] Extension 'github.copilot' appears in product.json but enables LESS API proposals than the extension wants.
-package.json (LOSES): inlineCompletionsAdditions, terminalDataWriteEvent
-product.json (WINS): inlineCompletionsAdditions
-2023-06-19 22:43:31.524 [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
-2023-06-19 22:43:32.059 [error] [Extension Host] (node:174039) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
-(Use `exe --trace-deprecation ...` to show where the warning was created)
-2023-06-19 22:43:34.047 [info] [perf] Render performance baseline is 15ms
-2023-06-19 22:43:36.789 [error] [Extension Host] [ERROR] [default] [2023-06-19T13:43:36.787Z] You are not signed in to GitHub. Please sign in to use Copilot.
