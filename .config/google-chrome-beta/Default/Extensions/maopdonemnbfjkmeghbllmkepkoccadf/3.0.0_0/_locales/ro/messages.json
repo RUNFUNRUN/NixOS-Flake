@@ -1,0 +1,47 @@
+{
+   "AppDesc": {
+      "message": "It splits your browser windows into two by just 2 clicks"
+   },
+   "AppName": {
+      "message": "Dualless for Google Chrome™"
+   },
+   "DistributeTabs": {
+      "message": "Distribuiți filele între noile ferestre"
+   },
+   "HelpText": {
+      "message": "Alegeți cum doriți să fie organizate ferestrele browserului dvs"
+   },
+   "IdentifyScreens": {
+      "message": "Identificarea ecranelor"
+   },
+   "MinimizeNote": {
+      "message": "\u003Cem>Notă:\u003C/em> Dacă aveți mai multe ferestre decât cele configurate, depășirea ferestrelor va fi minimizată."
+   },
+   "MoreInSettings": {
+      "message": "Doriți mai multe configurații? Adăugați mai multe în Setări."
+   },
+   "OneScreen": {
+      "message": "1 Ecran"
+   },
+   "RateUs": {
+      "message": "Ne evalua"
+   },
+   "ScreenMulti": {
+      "message": "{0} Ecrane"
+   },
+   "ScreenPrimary": {
+      "message": "Primar"
+   },
+   "Settings": {
+      "message": "Setări"
+   },
+   "SingleScreenCurrent": {
+      "message": "Utilizați ecranul în care se află fereastra curentă"
+   },
+   "SingleScreenPrimary": {
+      "message": "Utilizați ecranul principal (configurat în sistemul de operare)"
+   },
+   "SingleScreenSelect": {
+      "message": "Pentru Configurarea unui ecran"
+   }
+}

@@ -1,0 +1,21 @@
+2023/06/19-22:45:12.426 14aaa Reusing MANIFEST /home/runfunrun/.config/google-chrome-beta/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/19-22:45:12.426 14aaa Recovering log #26
+2023/06/19-22:45:12.426 14aaa Reusing old log /home/runfunrun/.config/google-chrome-beta/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000026.log 
+2023/06/19-22:45:12.496 14a9b Compacting 1@1 + 1@2 files
+2023/06/19-22:45:12.499 14a9b Generated table #29@1: 611 keys, 48010 bytes
+2023/06/19-22:45:12.499 14a9b Compacted 1@1 + 1@2 files => 48010 bytes
+2023/06/19-22:45:12.501 14a9b compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/06/19-22:45:12.501 14a9b Delete type=2 #27
+2023/06/19-22:45:12.501 14a9b Delete type=2 #25
+2023/06/19-23:18:30.153 14a9a Level-0 table #31: started
+2023/06/19-23:18:30.156 14a9a Level-0 table #31: 685791 bytes OK
+2023/06/19-23:18:30.158 14a9a Delete type=0 #26
+2023/06/19-23:18:30.158 14a9a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/06/19-23:18:30.158 14a9a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x09\x01\x1f\x03\xcd$\xf9\xf8\xb8\x02yB\x00\x01\x1c\x00y\x00t\x00-\x00m\x00i\x00n\x00i\x00p\x00l\x00a\x00y\x00e\x00r\x00-\x00s\x00h\x00o\x00w\x00n\x00-\x00v\x00i\x00d\x00e\x00o\x00-\x00i\x00d' @ 23544 : 1
+2023/06/19-23:18:30.158 14a9a Compacting 1@1 + 1@2 files
+2023/06/19-23:18:30.160 14a9a Generated table #32@1: 358 keys, 40207 bytes
+2023/06/19-23:18:30.160 14a9a Compacted 1@1 + 1@2 files => 40207 bytes
+2023/06/19-23:18:30.162 14a9a compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/06/19-23:18:30.162 14a9a Delete type=2 #29
+2023/06/19-23:18:30.162 14a9a Delete type=2 #31
+2023/06/19-23:18:30.162 14a9a Manual compaction at level-1 from '\x00\x09\x01\x1f\x03\xcd$\xf9\xf8\xb8\x02yB\x00\x01\x1c\x00y\x00t\x00-\x00m\x00i\x00n\x00i\x00p\x00l\x00a\x00y\x00e\x00r\x00-\x00s\x00h\x00o\x00w\x00n\x00-\x00v\x00i\x00d\x00e\x00o\x00-\x00i\x00d' @ 23544 : 1 .. (end); will stop at (end)

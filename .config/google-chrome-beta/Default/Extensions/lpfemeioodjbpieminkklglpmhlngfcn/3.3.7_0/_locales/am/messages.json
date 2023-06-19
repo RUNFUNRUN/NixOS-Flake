@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "በድጋሜ የቻትGPT ጥያቄዎችን ያበጁት በድረ-ገጹ የውብ ዝርዝር እየተመረጡ ይጠቀሙ።"
+   },
+   "appName": {
+      "message": "WebChatGPT: ChatGPT with internet access"
+   },
+   "toggleWebAccess": {
+      "message": "Toggle Web Access"
+   }
+}

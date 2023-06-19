@@ -1,0 +1,29 @@
+{
+   "Apply": {
+      "message": "應用"
+   },
+   "AutoReload": {
+      "message": "每次自動重新加載此選項卡："
+   },
+   "Connecting": {
+      "message": "正在連接到選項卡..."
+   },
+   "Inject_Error": {
+      "message": "連接到選項卡時出錯。請重新加載選項卡並再次打開此彈出窗口。請注意，我們無法使用包括 Chrome Webstore 在內的一些特殊標籤。"
+   },
+   "NextReload": {
+      "message": "下一次重新加載："
+   },
+   "NoReload": {
+      "message": "沒有自動重新加載"
+   },
+   "RateUs": {
+      "message": "評價我們"
+   },
+   "application_description": {
+      "message": "設置您希望應用程序自動重新加載 Chrome 瀏覽器的時間"
+   },
+   "application_title": {
+      "message": "標籤自動刷新"
+   }
+}

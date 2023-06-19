@@ -1,0 +1,92 @@
+2023-06-19 18:06:36.429 [info] Extension host with pid 8116 started
+2023-06-19 18:06:36.453 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-06-19 18:06:36.453 [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css, startup: true, activationEvent: '*'
+2023-06-19 18:06:36.466 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2023-06-19 18:06:36.474 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2023-06-19 18:06:36.487 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2023-06-19 18:06:36.533 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-06-19 18:06:36.542 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-06-19 18:06:36.542 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-06-19 18:06:36.738 [info] Eager extensions activated
+2023-06-19 18:06:36.739 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-06-19 18:06:36.746 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-06-19 18:06:36.746 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-06-19 18:06:36.746 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2023-06-19 18:06:36.754 [info] ExtensionService#_doActivateExtension BrandonKirbyson.vscode-animations, startup: false, activationEvent: 'onStartupFinished'
+2023-06-19 18:06:36.756 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2023-06-19 18:06:36.760 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-06-19 18:06:36.775 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2023-06-19 18:06:36.825 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2023-06-19 18:06:36.825 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2023-06-19 18:06:36.825 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-06-19 18:06:36.904 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: ritwickdey.LiveServer
+2023-06-19 18:06:36.956 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-06-19 18:06:36.957 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-06-19 18:06:36.957 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-06-19 18:06:37.536 [error] Error: ENOENT: no such file or directory, open '/home/runfunrun/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2023-06-19 18:06:46.767 [info] Extension host terminating: renderer closed the MessagePort
+2023-06-19 18:06:46.778 [error] Canceled: Canceled
+    at new l (/nix/store/f6cqvhc1lli6bqz0v3pwqb0c4b7bch3y-vscode-1.79.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:105905)
+    at s.O (/nix/store/f6cqvhc1lli6bqz0v3pwqb0c4b7bch3y-vscode-1.79.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:11754)
+    at Proxy.$.<computed>.j.charCodeAt.$.<computed> (/nix/store/f6cqvhc1lli6bqz0v3pwqb0c4b7bch3y-vscode-1.79.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:9029)
+    at e.ExtHostCommands.g (/nix/store/f6cqvhc1lli6bqz0v3pwqb0c4b7bch3y-vscode-1.79.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:130078)
+    at e.ExtHostCommands.executeCommand (/nix/store/f6cqvhc1lli6bqz0v3pwqb0c4b7bch3y-vscode-1.79.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:129454)
+    at k.registerCommand.description (/nix/store/f6cqvhc1lli6bqz0v3pwqb0c4b7bch3y-vscode-1.79.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:128747)
+    at e.ExtHostCommands.h (/nix/store/f6cqvhc1lli6bqz0v3pwqb0c4b7bch3y-vscode-1.79.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:130664)
+    at e.ExtHostCommands.g (/nix/store/f6cqvhc1lli6bqz0v3pwqb0c4b7bch3y-vscode-1.79.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:129554)
+    at e.ExtHostCommands.executeCommand (/nix/store/f6cqvhc1lli6bqz0v3pwqb0c4b7bch3y-vscode-1.79.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:129454)
+    at Object.executeCommand (/nix/store/f6cqvhc1lli6bqz0v3pwqb0c4b7bch3y-vscode-1.79.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:24230)
+    at /home/runfunrun/.vscode/extensions/github.copilot-1.89.156/dist/extension.js:8:1050268
+    at n (/home/runfunrun/.vscode/extensions/github.copilot-1.89.156/dist/extension.js:8:1050328)
+    at t.activate (/home/runfunrun/.vscode/extensions/github.copilot-1.89.156/dist/extension.js:8:1051593)
+    at b.n (/nix/store/f6cqvhc1lli6bqz0v3pwqb0c4b7bch3y-vscode-1.79.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:6644)
+    at b.m (/nix/store/f6cqvhc1lli6bqz0v3pwqb0c4b7bch3y-vscode-1.79.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:6607)
+    at b.l (/nix/store/f6cqvhc1lli6bqz0v3pwqb0c4b7bch3y-vscode-1.79.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:6064) setContext undefined
+2023-06-19 18:06:46.795 [error] Error: ENOENT: no such file or directory, open '/home/runfunrun/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2023-06-19 18:06:46.796 [info] Extension host with pid 8116 exiting with code 0
+2023-06-19 18:06:47.233 [info] Extension host with pid 8318 started
+2023-06-19 18:06:47.233 [info] Skipping acquiring lock for /home/runfunrun/.config/Code/User/workspaceStorage/8ba2d97c9a3572f89030155d0ca73498.
+2023-06-19 18:06:47.308 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-06-19 18:06:47.309 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2023-06-19 18:06:47.313 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2023-06-19 18:06:47.359 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-06-19 18:06:47.362 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-06-19 18:06:47.375 [info] Eager extensions activated
+2023-06-19 18:06:47.401 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-06-19 18:06:47.402 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-06-19 18:06:47.402 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-06-19 18:06:47.415 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2023-06-19 18:06:47.416 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2023-06-19 18:06:47.453 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-06-19 18:06:48.350 [error] Error: ENOENT: no such file or directory, open '/home/runfunrun/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2023-06-19 18:06:50.973 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-06-19 18:06:50.974 [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css, startup: false, activationEvent: '*'
+2023-06-19 18:06:50.984 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2023-06-19 18:06:50.991 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2023-06-19 18:06:50.995 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2023-06-19 18:06:51.045 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: false, activationEvent: '*'
+2023-06-19 18:06:51.050 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-06-19 18:06:51.085 [info] ExtensionService#_doActivateExtension BrandonKirbyson.vscode-animations, startup: false, activationEvent: 'onStartupFinished'
+2023-06-19 18:06:51.129 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: ritwickdey.LiveServer
+2023-06-19 18:06:51.216 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-06-19 18:06:51.216 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-06-19 18:06:51.217 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-06-19 18:11:31.749 [info] Extension host terminating: renderer closed the MessagePort
+2023-06-19 18:11:31.760 [error] Canceled: Canceled
+    at new l (/nix/store/f6cqvhc1lli6bqz0v3pwqb0c4b7bch3y-vscode-1.79.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:105905)
+    at s.O (/nix/store/f6cqvhc1lli6bqz0v3pwqb0c4b7bch3y-vscode-1.79.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:11754)
+    at Proxy.$.<computed>.j.charCodeAt.$.<computed> (/nix/store/f6cqvhc1lli6bqz0v3pwqb0c4b7bch3y-vscode-1.79.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:9029)
+    at e.ExtHostCommands.g (/nix/store/f6cqvhc1lli6bqz0v3pwqb0c4b7bch3y-vscode-1.79.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:130078)
+    at e.ExtHostCommands.executeCommand (/nix/store/f6cqvhc1lli6bqz0v3pwqb0c4b7bch3y-vscode-1.79.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:129454)
+    at k.registerCommand.description (/nix/store/f6cqvhc1lli6bqz0v3pwqb0c4b7bch3y-vscode-1.79.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:128747)
+    at e.ExtHostCommands.h (/nix/store/f6cqvhc1lli6bqz0v3pwqb0c4b7bch3y-vscode-1.79.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:130664)
+    at e.ExtHostCommands.g (/nix/store/f6cqvhc1lli6bqz0v3pwqb0c4b7bch3y-vscode-1.79.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:129554)
+    at e.ExtHostCommands.executeCommand (/nix/store/f6cqvhc1lli6bqz0v3pwqb0c4b7bch3y-vscode-1.79.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:129454)
+    at Object.executeCommand (/nix/store/f6cqvhc1lli6bqz0v3pwqb0c4b7bch3y-vscode-1.79.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:24230)
+    at /home/runfunrun/.vscode/extensions/github.copilot-1.89.156/dist/extension.js:8:1050268
+    at n (/home/runfunrun/.vscode/extensions/github.copilot-1.89.156/dist/extension.js:8:1050328)
+    at t.activate (/home/runfunrun/.vscode/extensions/github.copilot-1.89.156/dist/extension.js:8:1051593)
+    at b.n (/nix/store/f6cqvhc1lli6bqz0v3pwqb0c4b7bch3y-vscode-1.79.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:6644)
+    at b.m (/nix/store/f6cqvhc1lli6bqz0v3pwqb0c4b7bch3y-vscode-1.79.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:6607)
+    at b.l (/nix/store/f6cqvhc1lli6bqz0v3pwqb0c4b7bch3y-vscode-1.79.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:6064) setContext undefined
+2023-06-19 18:11:31.778 [info] Extension host with pid 8318 exiting with code 0

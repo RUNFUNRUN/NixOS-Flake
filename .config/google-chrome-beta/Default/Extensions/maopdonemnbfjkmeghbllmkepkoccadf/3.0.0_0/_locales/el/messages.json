@@ -1,0 +1,47 @@
+{
+   "AppDesc": {
+      "message": "It splits your browser windows into two by just 2 clicks"
+   },
+   "AppName": {
+      "message": "Dualless for Google Chrome™"
+   },
+   "DistributeTabs": {
+      "message": "Διανομή καρτελών μεταξύ των νέων Windows"
+   },
+   "HelpText": {
+      "message": "Επιλέξτε πώς θέλετε να είναι οργανωμένα τα παράθυρα του προγράμματος περιήγησής σας"
+   },
+   "IdentifyScreens": {
+      "message": "Προσδιορισμός οθονών"
+   },
+   "MinimizeNote": {
+      "message": "\u003Cem>Σημείωση:\u003C/em> Εάν έχετε περισσότερα παράθυρα από τις ρυθμίσεις, η υπέρβαση των παραθύρων θα ελαχιστοποιηθεί."
+   },
+   "MoreInSettings": {
+      "message": "Θέλετε περισσότερες ρυθμίσεις; Προσθέστε περισσότερα στις Ρυθμίσεις."
+   },
+   "OneScreen": {
+      "message": "1 Οθόνη"
+   },
+   "RateUs": {
+      "message": "Βαθμολογήστε μας"
+   },
+   "ScreenMulti": {
+      "message": "{0} Οθόνες"
+   },
+   "ScreenPrimary": {
+      "message": "Πρωταρχικός"
+   },
+   "Settings": {
+      "message": "Ρυθμίσεις"
+   },
+   "SingleScreenCurrent": {
+      "message": "Χρησιμοποιήστε το τρέχον παράθυρο στην οθόνη"
+   },
+   "SingleScreenPrimary": {
+      "message": "Χρησιμοποιήστε την Κύρια οθόνη (που έχει διαμορφωθεί στο λειτουργικό σας σύστημα)"
+   },
+   "SingleScreenSelect": {
+      "message": "Για 1 Ρύθμιση οθόνης"
+   }
+}

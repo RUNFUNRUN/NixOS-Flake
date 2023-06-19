@@ -1,0 +1,29 @@
+{
+   "Apply": {
+      "message": "Appliquer"
+   },
+   "AutoReload": {
+      "message": "Rechargez automatiquement cet onglet toutes les :"
+   },
+   "Connecting": {
+      "message": "Connexion à l&#39;onglet..."
+   },
+   "Inject_Error": {
+      "message": "Une erreur s&#39;est produite lors de la connexion à l&#39;onglet. Veuillez recharger l&#39;onglet et ouvrir à nouveau cette fenêtre contextuelle. Veuillez noter que nous ne pouvons pas travailler avec quelques onglets spéciaux, y compris Chrome Webstore."
+   },
+   "NextReload": {
+      "message": "Prochain rechargement dans :"
+   },
+   "NoReload": {
+      "message": "Pas de rechargement automatique"
+   },
+   "RateUs": {
+      "message": "Évaluez nous"
+   },
+   "application_description": {
+      "message": "Définissez l&#39;heure à laquelle vous souhaitez que l&#39;application recharge automatiquement votre navigateur Chrome"
+   },
+   "application_title": {
+      "message": "Actualisation automatique de l&#39;onglet"
+   }
+}

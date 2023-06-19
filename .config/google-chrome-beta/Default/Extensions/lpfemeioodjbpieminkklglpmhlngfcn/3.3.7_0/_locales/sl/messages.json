@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "Povečajte svoje ChatGPT povabila z relevantnimi rezultati iskanja po spletu prek brskanja po spletu."
+   },
+   "appName": {
+      "message": "WebChatGPT: ChatGPT z dostopom do interneta"
+   },
+   "toggleWebAccess": {
+      "message": "Preklopi dostop do spleta"
+   }
+}

@@ -1,0 +1,29 @@
+{
+   "Apply": {
+      "message": "Kandideeri"
+   },
+   "AutoReload": {
+      "message": "Laadi see vahekaart automaatselt uuesti iga kord:"
+   },
+   "Connecting": {
+      "message": "Ühenduse loomine vahekaardiga..."
+   },
+   "Inject_Error": {
+      "message": "Vahekaardiga ühenduse loomisel ilmnes viga. Laadige vahekaart uuesti ja avage see hüpikaken uuesti. Pange tähele, et me ei saa töötada mõne erivahekaardiga, sealhulgas Chrome&#39;i veebipoega."
+   },
+   "NextReload": {
+      "message": "Järgmine uuesti laadimine:"
+   },
+   "NoReload": {
+      "message": "Automaatset uuesti laadimist pole"
+   },
+   "RateUs": {
+      "message": "Hinda meid"
+   },
+   "application_description": {
+      "message": "Määrake aeg, millal rakendus teie Chrome&#39;i brauseri automaatselt uuesti laadib"
+   },
+   "application_title": {
+      "message": "Vahekaardi automaatne värskendamine"
+   }
+}

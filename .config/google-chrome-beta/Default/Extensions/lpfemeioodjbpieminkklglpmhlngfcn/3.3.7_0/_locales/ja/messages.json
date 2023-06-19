@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "ウェブブラウジングを通じて関連するウェブ検索結果でChatGPTのプロンプトを強化してください。"
+   },
+   "appName": {
+      "message": "WebChatGPT：インターネットアクセス付きのChatGPT"
+   },
+   "toggleWebAccess": {
+      "message": "ウェブアクセスを切り替える"
+   }
+}

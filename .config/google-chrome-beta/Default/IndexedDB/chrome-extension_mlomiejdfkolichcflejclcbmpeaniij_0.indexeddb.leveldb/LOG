@@ -1,0 +1,15 @@
+2023/06/19-23:24:28.023 34e9f Reusing MANIFEST /home/runfunrun/.config/google-chrome-beta/Default/IndexedDB/chrome-extension_mlomiejdfkolichcflejclcbmpeaniij_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/19-23:24:28.024 34e9f Recovering log #122
+2023/06/19-23:24:28.030 34e9f Reusing old log /home/runfunrun/.config/google-chrome-beta/Default/IndexedDB/chrome-extension_mlomiejdfkolichcflejclcbmpeaniij_0.indexeddb.leveldb/000122.log 
+2023/06/19-23:24:28.030 34e9f Delete type=2 #121
+2023/06/19-23:24:28.030 34e9f Delete type=2 #123
+2023/06/19-23:24:28.215 34e9e Level-0 table #127: started
+2023/06/19-23:24:28.219 34e9e Level-0 table #127: 499456 bytes OK
+2023/06/19-23:24:28.221 34e9e Delete type=0 #122
+2023/06/19-23:24:28.221 34e93 Manual compaction at level-0 from '\x00&\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00'\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/06/19-23:24:29.272 34e93 Compacting 1@1 + 1@2 files
+2023/06/19-23:24:29.281 34e93 Generated table #128@1: 10561 keys, 812383 bytes
+2023/06/19-23:24:29.281 34e93 Compacted 1@1 + 1@2 files => 812383 bytes
+2023/06/19-23:24:29.284 34e93 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/06/19-23:24:29.284 34e93 Delete type=2 #127
+2023/06/19-23:24:29.284 34e93 Delete type=2 #124

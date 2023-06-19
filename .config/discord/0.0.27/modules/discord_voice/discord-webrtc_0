@@ -1,0 +1,983 @@
+ices
+[2023-06-19 23:25:55.416] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:25:55.416] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:25:55.981] [89032] (connection.cpp:1028): Received inbound estimate: 12082496 [bps], loss rate: 0 [%]
+[2023-06-19 23:25:56.981] [89032] (connection.cpp:1028): Received inbound estimate: 12082496 [bps], loss rate: 0 [%]
+[2023-06-19 23:25:57.981] [89032] (connection.cpp:1028): Received inbound estimate: 12082496 [bps], loss rate: 0 [%]
+[2023-06-19 23:25:58.337] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 31
+[2023-06-19 23:25:58.343] [89038] (audio_device_buffer.cc:411): [REC : 10010msec, 48kHz] callbacks: 1002, samples: 480960, rate: 48048, rate diff: 0%, level: 322
+[2023-06-19 23:25:58.343] [89038] (audio_device_buffer.cc:437): [PLAY: 10010msec, 48kHz] callbacks: 1001, samples: 480480, rate: 48000, rate diff: 0%, level: 30033
+[2023-06-19 23:25:58.346] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 31, rtt: 9
+[2023-06-19 23:25:58.419] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:25:58.419] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:25:58.419] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:25:58.461] [89040] (captured_audio_processor.cpp:86): Audio frames processed: 15018, noise canceller process time: 0 [ms]
+[2023-06-19 23:25:58.461] [89040] (captured_audio_processor.cpp:97): Audio frame: 15018, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 43
+[2023-06-19 23:25:58.930] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 123848, packets received: 4621, lost: 0, audio frames normal: 6767, silent: 7718, expand: 65, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:25:58.930] [89032] (connection.cpp:669): Inbound stats for user: 916300992612540467, audio ssrc: 123414, packets received: 215, lost: 0, audio frames normal: 376, silent: 14618, expand: 16, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:25:58.930] [89032] (connection.cpp:669): Inbound stats for user: 844731493023481886, audio ssrc: 122102, packets received: 278, lost: 0, audio frames normal: 427, silent: 14479, expand: 2, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:25:58.930] [89032] (connection.cpp:669): Inbound stats for user: 480193139462635550, audio ssrc: 123861, packets received: 883, lost: 0, audio frames normal: 1267, silent: 13298, expand: 10, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:25:58.930] [89032] (connection.cpp:669): Inbound stats for user: 487844141259161600, audio ssrc: 124427, packets received: 1964, lost: 0, audio frames normal: 3216, silent: 11062, expand: 37, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:25:58.930] [89032] (connection.cpp:669): Inbound stats for user: 414562442329456651, audio ssrc: 122613, packets received: 952, lost: 0, audio frames normal: 1647, silent: 12249, expand: 6, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:25:58.930] [89032] (connection.cpp:669): Inbound stats for user: 550977272585256980, audio ssrc: 126334, packets received: 655, lost: 0, audio frames normal: 1126, silent: 11115, expand: 9, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:25:58.930] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:25:58.930] [89032] (connection.cpp:703):   Audio ssrc: 128559, packets sent: 2448, packets lost: 0
+[2023-06-19 23:25:58.930] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 9 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0 [bps], ssrcs: 128559: {seq: 46837, tseq: -1}, 
+[2023-06-19 23:25:58.930] [89032] (connection.cpp:823): Memory usage: 459 MB, CPU usage: 35%
+[2023-06-19 23:25:58.981] [89032] (connection.cpp:1028): Received inbound estimate: 12082496 [bps], loss rate: 0 [%]
+[2023-06-19 23:25:59.431] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2023-06-19 23:25:59.440] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2023-06-19 23:25:59.981] [89032] (connection.cpp:1028): Received inbound estimate: 12082496 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:00.271] [89032] (rtp_video_stream_receiver2.cc:667): Packet received on SSRC: 110402 with payload type: 103, timestamp: 3586640972, sequence number: 27456, arrival time: 13988371, toffset: 1620, abs send time: 11174914
+[2023-06-19 23:26:00.308] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 31
+[2023-06-19 23:26:00.317] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 31, rtt: 8
+[2023-06-19 23:26:00.935] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 110401, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 110402, packets received: 99477, lost: 3, video frames received (key/delta): 3/7576, decoded: 7578, dropped: 0, resolution: 1280 x 720, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:00.935] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:26:00.935] [89032] (connection.cpp:703):   Audio ssrc: 111873, packets sent: 10, packets lost: 0
+[2023-06-19 23:26:00.935] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 9 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 12082496 [bps], ssrcs: 111873: {seq: 31629, tseq: -1}, 
+[2023-06-19 23:26:00.935] [89032] (connection.cpp:823): Memory usage: 460 MB, CPU usage: 27%
+[2023-06-19 23:26:00.981] [89032] (connection.cpp:1028): Received inbound estimate: 12082496 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:01.422] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:01.422] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:01.422] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:26:01.431] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2023-06-19 23:26:01.439] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2023-06-19 23:26:01.982] [89032] (connection.cpp:1028): Received inbound estimate: 12082496 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:02.981] [89032] (connection.cpp:1028): Received inbound estimate: 12082496 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:03.337] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 32
+[2023-06-19 23:26:03.347] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 32, rtt: 9
+[2023-06-19 23:26:03.981] [89032] (connection.cpp:1028): Received inbound estimate: 12082496 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:04.228] [89032] (rtp_streams_synchronizer2.cc:127): Sync info stats: 13992328, {ssrc: 110401, cur_delay_ms: 0, capture_time_ntp_secs: 3896173557, capture_time_ntp_frac: 3646427234, capture_time_source_clock: 3611255349, latest_received_capture_timestamp: 3611575365, latest_receive_time_ms: 13992322} {ssrc: 110402, cur_delay_ms: 45, capture_time_ntp_secs: 3896173564, capture_time_ntp_frac: 1387274436, capture_time_source_clock: 3586973162, latest_received_capture_timestamp: 3586996472, latest_receive_time_ms: 13992323} {relative_delay_ms: -64} 
+[2023-06-19 23:26:04.425] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:04.425] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:04.425] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:26:04.981] [89032] (connection.cpp:1028): Received inbound estimate: 12082496 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:05.309] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 32
+[2023-06-19 23:26:05.318] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 32, rtt: 8
+[2023-06-19 23:26:05.981] [89032] (connection.cpp:1028): Received inbound estimate: 12082496 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:06.980] [89032] (connection.cpp:1028): Received inbound estimate: 12082496 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:07.428] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:07.428] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:07.428] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:26:07.981] [89032] (connection.cpp:1028): Received inbound estimate: 12082496 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:08.337] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 33
+[2023-06-19 23:26:08.346] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 33, rtt: 9
+[2023-06-19 23:26:08.353] [89038] (audio_device_buffer.cc:411): [REC : 10010msec, 48kHz] callbacks: 999, samples: 479520, rate: 47904, rate diff: 0%, level: 1439
+[2023-06-19 23:26:08.353] [89038] (audio_device_buffer.cc:437): [PLAY: 10010msec, 48kHz] callbacks: 1001, samples: 480480, rate: 48000, rate diff: 0%, level: 30033
+[2023-06-19 23:26:08.466] [89040] (captured_audio_processor.cpp:86): Audio frames processed: 16020, noise canceller process time: 0 [ms]
+[2023-06-19 23:26:08.466] [89040] (captured_audio_processor.cpp:97): Audio frame: 16020, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 58
+[2023-06-19 23:26:08.951] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 123848, packets received: 4943, lost: 0, audio frames normal: 7232, silent: 8201, expand: 70, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:08.951] [89032] (connection.cpp:669): Inbound stats for user: 916300992612540467, audio ssrc: 123414, packets received: 215, lost: 0, audio frames normal: 376, silent: 15619, expand: 16, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:08.951] [89032] (connection.cpp:669): Inbound stats for user: 844731493023481886, audio ssrc: 122102, packets received: 440, lost: 0, audio frames normal: 702, silent: 15193, expand: 2, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:08.951] [89032] (connection.cpp:669): Inbound stats for user: 480193139462635550, audio ssrc: 123861, packets received: 914, lost: 0, audio frames normal: 1321, silent: 14245, expand: 10, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:08.951] [89032] (connection.cpp:669): Inbound stats for user: 487844141259161600, audio ssrc: 124427, packets received: 2143, lost: 0, audio frames normal: 3531, silent: 11743, expand: 40, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:08.951] [89032] (connection.cpp:669): Inbound stats for user: 414562442329456651, audio ssrc: 122613, packets received: 1058, lost: 0, audio frames normal: 1838, silent: 13056, expand: 8, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:08.951] [89032] (connection.cpp:669): Inbound stats for user: 550977272585256980, audio ssrc: 126334, packets received: 655, lost: 0, audio frames normal: 1126, silent: 12116, expand: 9, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:08.951] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:26:08.951] [89032] (connection.cpp:703):   Audio ssrc: 128559, packets sent: 2797, packets lost: 0
+[2023-06-19 23:26:08.951] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 9 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0 [bps], ssrcs: 128559: {seq: 47162, tseq: -1}, 
+[2023-06-19 23:26:08.951] [89032] (connection.cpp:823): Memory usage: 464 MB, CPU usage: 29%
+[2023-06-19 23:26:08.980] [89032] (connection.cpp:1028): Received inbound estimate: 12223488 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:09.980] [89032] (connection.cpp:1028): Received inbound estimate: 12223488 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:10.276] [89032] (rtp_video_stream_receiver2.cc:667): Packet received on SSRC: 110402 with payload type: 103, timestamp: 3587541062, sequence number: 35512, arrival time: 13998376, toffset: 2070, abs send time: 13797728
+[2023-06-19 23:26:10.309] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 33
+[2023-06-19 23:26:10.319] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 33, rtt: 9
+[2023-06-19 23:26:10.431] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:10.431] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:10.431] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:26:10.955] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 110401, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 110402, packets received: 107580, lost: 3, video frames received (key/delta): 3/8096, decoded: 8097, dropped: 0, resolution: 1280 x 720, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:10.955] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:26:10.955] [89032] (connection.cpp:703):   Audio ssrc: 111873, packets sent: 10, packets lost: 0
+[2023-06-19 23:26:10.955] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 9 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 12223488 [bps], ssrcs: 111873: {seq: 31629, tseq: -1}, 
+[2023-06-19 23:26:10.955] [89032] (connection.cpp:823): Memory usage: 463 MB, CPU usage: 30%
+[2023-06-19 23:26:10.981] [89032] (connection.cpp:1028): Received inbound estimate: 12223488 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:11.981] [89032] (connection.cpp:1028): Received inbound estimate: 12223488 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:12.981] [89032] (connection.cpp:1028): Received inbound estimate: 12223488 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:13.181] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2023-06-19 23:26:13.192] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2023-06-19 23:26:13.338] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 34
+[2023-06-19 23:26:13.348] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 34, rtt: 9
+[2023-06-19 23:26:13.434] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:13.434] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:13.434] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:26:13.981] [89032] (connection.cpp:1028): Received inbound estimate: 12223488 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:14.981] [89032] (connection.cpp:1028): Received inbound estimate: 12223488 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:15.181] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2023-06-19 23:26:15.190] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2023-06-19 23:26:15.309] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 34
+[2023-06-19 23:26:15.318] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 34, rtt: 9
+[2023-06-19 23:26:15.981] [89032] (connection.cpp:1028): Received inbound estimate: 12223488 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:16.437] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:16.437] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:16.437] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:26:16.981] [89032] (connection.cpp:1028): Received inbound estimate: 12223488 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:17.981] [89032] (connection.cpp:1028): Received inbound estimate: 12223488 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:18.338] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 35
+[2023-06-19 23:26:18.348] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 35, rtt: 10
+[2023-06-19 23:26:18.363] [89038] (audio_device_buffer.cc:411): [REC : 10010msec, 48kHz] callbacks: 1002, samples: 480960, rate: 48048, rate diff: 0%, level: 256
+[2023-06-19 23:26:18.363] [89038] (audio_device_buffer.cc:437): [PLAY: 10010msec, 48kHz] callbacks: 1000, samples: 480000, rate: 47952, rate diff: 0%, level: 30722
+[2023-06-19 23:26:18.471] [89040] (captured_audio_processor.cpp:86): Audio frames processed: 17019, noise canceller process time: 0 [ms]
+[2023-06-19 23:26:18.471] [89040] (captured_audio_processor.cpp:97): Audio frame: 17019, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 52
+[2023-06-19 23:26:18.981] [89032] (connection.cpp:1028): Received inbound estimate: 12223488 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:19.004] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 123848, packets received: 5102, lost: 0, audio frames normal: 7455, silent: 8961, expand: 74, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:19.004] [89032] (connection.cpp:669): Inbound stats for user: 916300992612540467, audio ssrc: 123414, packets received: 215, lost: 0, audio frames normal: 376, silent: 16625, expand: 16, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:19.004] [89032] (connection.cpp:669): Inbound stats for user: 844731493023481886, audio ssrc: 122102, packets received: 661, lost: 0, audio frames normal: 1077, silent: 15819, expand: 3, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:19.004] [89032] (connection.cpp:669): Inbound stats for user: 480193139462635550, audio ssrc: 123861, packets received: 1211, lost: 0, audio frames normal: 1849, silent: 14718, expand: 11, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:19.004] [89032] (connection.cpp:669): Inbound stats for user: 487844141259161600, audio ssrc: 124427, packets received: 2294, lost: 0, audio frames normal: 3758, silent: 12512, expand: 42, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:19.004] [89032] (connection.cpp:669): Inbound stats for user: 414562442329456651, audio ssrc: 122613, packets received: 1311, lost: 0, audio frames normal: 2250, silent: 13640, expand: 13, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:19.004] [89032] (connection.cpp:669): Inbound stats for user: 550977272585256980, audio ssrc: 126334, packets received: 655, lost: 0, audio frames normal: 1126, silent: 13122, expand: 9, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:19.005] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:26:19.005] [89032] (connection.cpp:703):   Audio ssrc: 128559, packets sent: 2850, packets lost: 0
+[2023-06-19 23:26:19.005] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 9 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0 [bps], ssrcs: 128559: {seq: 47219, tseq: -1}, 
+[2023-06-19 23:26:19.005] [89032] (connection.cpp:823): Memory usage: 479 MB, CPU usage: 31%
+[2023-06-19 23:26:19.440] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:19.440] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:19.440] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:26:19.981] [89032] (connection.cpp:1028): Received inbound estimate: 12223488 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:20.281] [89032] (rtp_video_stream_receiver2.cc:667): Packet received on SSRC: 110402 with payload type: 103, timestamp: 3588442502, sequence number: 43313, arrival time: 14008380, toffset: 1080, abs send time: 16420267
+[2023-06-19 23:26:20.309] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 35
+[2023-06-19 23:26:20.317] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 35, rtt: 8
+[2023-06-19 23:26:20.981] [89032] (connection.cpp:1028): Received inbound estimate: 12223488 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:21.009] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 110401, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 110402, packets received: 115388, lost: 3, video frames received (key/delta): 3/8602, decoded: 8603, dropped: 0, resolution: 1280 x 720, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:21.009] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:26:21.009] [89032] (connection.cpp:703):   Audio ssrc: 111873, packets sent: 10, packets lost: 0
+[2023-06-19 23:26:21.009] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 9 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 12223488 [bps], ssrcs: 111873: {seq: 31629, tseq: -1}, 
+[2023-06-19 23:26:21.009] [89032] (connection.cpp:823): Memory usage: 473 MB, CPU usage: 25%
+[2023-06-19 23:26:21.981] [89032] (connection.cpp:1028): Received inbound estimate: 12223488 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:22.443] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:22.443] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:22.443] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:26:22.981] [89032] (connection.cpp:1028): Received inbound estimate: 12223488 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:23.338] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 36
+[2023-06-19 23:26:23.347] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 36, rtt: 9
+[2023-06-19 23:26:23.981] [89032] (connection.cpp:1028): Received inbound estimate: 12223488 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:24.981] [89032] (connection.cpp:1028): Received inbound estimate: 12223488 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:25.309] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 36
+[2023-06-19 23:26:25.319] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 36, rtt: 10
+[2023-06-19 23:26:25.446] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:25.446] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:25.446] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:26:25.981] [89032] (connection.cpp:1028): Received inbound estimate: 12223488 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:26.931] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2023-06-19 23:26:26.941] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2023-06-19 23:26:26.981] [89032] (connection.cpp:1028): Received inbound estimate: 12223488 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:27.981] [89032] (connection.cpp:1028): Received inbound estimate: 12223488 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:28.234] [216317] (udp_socket.cpp:625): Reconnection started, sending echo
+[2023-06-19 23:26:28.245] [216317] (udp_socket.cpp:207): ReconnectionAttemptFinished: succeeded, local address: 110.233.110.114:35267
+[2023-06-19 23:26:28.339] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 37
+[2023-06-19 23:26:28.347] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 37, rtt: 8
+[2023-06-19 23:26:28.373] [89038] (audio_device_buffer.cc:411): [REC : 10010msec, 48kHz] callbacks: 1002, samples: 480960, rate: 48048, rate diff: 0%, level: 1116
+[2023-06-19 23:26:28.373] [89038] (audio_device_buffer.cc:437): [PLAY: 10010msec, 48kHz] callbacks: 1002, samples: 480960, rate: 48048, rate diff: 0%, level: 16160
+[2023-06-19 23:26:28.449] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:28.449] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:28.449] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:26:28.477] [89040] (captured_audio_processor.cpp:86): Audio frames processed: 18021, noise canceller process time: 0 [ms]
+[2023-06-19 23:26:28.477] [89040] (captured_audio_processor.cpp:97): Audio frame: 18021, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 66
+[2023-06-19 23:26:28.932] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2023-06-19 23:26:28.939] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2023-06-19 23:26:28.981] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:29.024] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 123848, packets received: 5455, lost: 0, audio frames normal: 8065, silent: 9316, expand: 78, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:29.025] [89032] (connection.cpp:669): Inbound stats for user: 916300992612540467, audio ssrc: 123414, packets received: 215, lost: 0, audio frames normal: 376, silent: 17627, expand: 16, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:29.025] [89032] (connection.cpp:669): Inbound stats for user: 844731493023481886, audio ssrc: 122102, packets received: 800, lost: 0, audio frames normal: 1320, silent: 16576, expand: 3, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:29.025] [89032] (connection.cpp:669): Inbound stats for user: 480193139462635550, audio ssrc: 123861, packets received: 1335, lost: 0, audio frames normal: 2073, silent: 15494, expand: 12, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:29.025] [89032] (connection.cpp:669): Inbound stats for user: 487844141259161600, audio ssrc: 124427, packets received: 2294, lost: 0, audio frames normal: 3758, silent: 13514, expand: 42, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:29.025] [89032] (connection.cpp:669): Inbound stats for user: 414562442329456651, audio ssrc: 122613, packets received: 1414, lost: 0, audio frames normal: 2413, silent: 14470, expand: 17, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:29.025] [89032] (connection.cpp:669): Inbound stats for user: 550977272585256980, audio ssrc: 126334, packets received: 655, lost: 0, audio frames normal: 1126, silent: 14124, expand: 9, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:29.025] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:26:29.025] [89032] (connection.cpp:703):   Audio ssrc: 128559, packets sent: 3043, packets lost: 0
+[2023-06-19 23:26:29.025] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 9 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0 [bps], ssrcs: 128559: {seq: 47401, tseq: -1}, 
+[2023-06-19 23:26:29.025] [89032] (connection.cpp:823): Memory usage: 456 MB, CPU usage: 53%
+[2023-06-19 23:26:29.981] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:30.206] [216326] (udp_socket.cpp:625): Reconnection started, sending echo
+[2023-06-19 23:26:30.219] [216326] (udp_socket.cpp:207): ReconnectionAttemptFinished: succeeded, local address: 110.233.110.114:56332
+[2023-06-19 23:26:30.281] [89032] (rtp_video_stream_receiver2.cc:667): Packet received on SSRC: 110402 with payload type: 103, timestamp: 3589342412, sequence number: 51226, arrival time: 14018381, toffset: 1260, abs send time: 2264791
+[2023-06-19 23:26:30.308] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 37
+[2023-06-19 23:26:30.318] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 37, rtt: 9
+[2023-06-19 23:26:30.980] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:31.030] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 110401, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 110402, packets received: 123259, lost: 3, video frames received (key/delta): 4/9112, decoded: 9115, dropped: 0, resolution: 1280 x 720, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:31.030] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:26:31.030] [89032] (connection.cpp:703):   Audio ssrc: 111873, packets sent: 10, packets lost: 0
+[2023-06-19 23:26:31.030] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 9 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 12276096 [bps], ssrcs: 111873: {seq: 31629, tseq: -1}, 
+[2023-06-19 23:26:31.030] [89032] (connection.cpp:823): Memory usage: 456 MB, CPU usage: 33%
+[2023-06-19 23:26:31.452] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:31.452] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:31.452] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:26:31.980] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:32.981] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:33.339] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 38
+[2023-06-19 23:26:33.348] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 38, rtt: 8
+[2023-06-19 23:26:33.981] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:34.455] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:34.455] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:34.455] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:26:34.981] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:35.228] [89032] (rtp_streams_synchronizer2.cc:127): Sync info stats: 14023327, {ssrc: 110401, cur_delay_ms: 0, capture_time_ntp_secs: 3896173592, capture_time_ntp_frac: 3590592659, capture_time_source_clock: 3612934629, latest_received_capture_timestamp: 3613063365, latest_receive_time_ms: 14023320} {ssrc: 110402, cur_delay_ms: 45, capture_time_ntp_secs: 3896173595, capture_time_ntp_frac: 1408749273, capture_time_source_clock: 3589763702, latest_received_capture_timestamp: 3589788002, latest_receive_time_ms: 14023327} {relative_delay_ms: -75} 
+[2023-06-19 23:26:35.309] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 38
+[2023-06-19 23:26:35.318] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 38, rtt: 8
+[2023-06-19 23:26:35.980] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:36.980] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:37.458] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:37.458] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:37.458] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:26:37.981] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:38.338] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 39
+[2023-06-19 23:26:38.348] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 39, rtt: 9
+[2023-06-19 23:26:38.383] [89038] (audio_device_buffer.cc:411): [REC : 10010msec, 48kHz] callbacks: 1002, samples: 480960, rate: 48048, rate diff: 0%, level: 1992
+[2023-06-19 23:26:38.383] [89038] (audio_device_buffer.cc:437): [PLAY: 10010msec, 48kHz] callbacks: 997, samples: 478560, rate: 47808, rate diff: 0%, level: 3107
+[2023-06-19 23:26:38.482] [89040] (captured_audio_processor.cpp:86): Audio frames processed: 19020, noise canceller process time: 0 [ms]
+[2023-06-19 23:26:38.482] [89040] (captured_audio_processor.cpp:97): Audio frame: 19020, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 88
+[2023-06-19 23:26:38.980] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:39.053] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 123848, packets received: 5892, lost: 0, audio frames normal: 8744, silent: 9562, expand: 84, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:39.053] [89032] (connection.cpp:669): Inbound stats for user: 916300992612540467, audio ssrc: 123414, packets received: 215, lost: 0, audio frames normal: 376, silent: 18626, expand: 16, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:39.053] [89032] (connection.cpp:669): Inbound stats for user: 844731493023481886, audio ssrc: 122102, packets received: 836, lost: 0, audio frames normal: 1359, silent: 17523, expand: 3, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:39.053] [89032] (connection.cpp:669): Inbound stats for user: 480193139462635550, audio ssrc: 123861, packets received: 1357, lost: 0, audio frames normal: 2084, silent: 16482, expand: 12, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:39.053] [89032] (connection.cpp:669): Inbound stats for user: 487844141259161600, audio ssrc: 124427, packets received: 2294, lost: 0, audio frames normal: 3758, silent: 14513, expand: 42, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:39.053] [89032] (connection.cpp:669): Inbound stats for user: 414562442329456651, audio ssrc: 122613, packets received: 1414, lost: 0, audio frames normal: 2413, silent: 15469, expand: 17, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:39.053] [89032] (connection.cpp:669): Inbound stats for user: 550977272585256980, audio ssrc: 126334, packets received: 655, lost: 0, audio frames normal: 1126, silent: 15123, expand: 9, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:39.054] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:26:39.054] [89032] (connection.cpp:703):   Audio ssrc: 128559, packets sent: 3463, packets lost: 0
+[2023-06-19 23:26:39.054] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 9 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0 [bps], ssrcs: 128559: {seq: 47832, tseq: -1}, 
+[2023-06-19 23:26:39.054] [89032] (connection.cpp:823): Memory usage: 455 MB, CPU usage: 49%
+[2023-06-19 23:26:39.981] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:40.286] [89032] (rtp_video_stream_receiver2.cc:667): Packet received on SSRC: 110402 with payload type: 103, timestamp: 3590242412, sequence number: 58984, arrival time: 14028386, toffset: 1710, abs send time: 4887481
+[2023-06-19 23:26:40.308] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 39
+[2023-06-19 23:26:40.317] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 39, rtt: 8
+[2023-06-19 23:26:40.461] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:40.461] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:40.461] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:26:40.681] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2023-06-19 23:26:40.689] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2023-06-19 23:26:40.980] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:41.058] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 110401, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 110402, packets received: 131067, lost: 3, video frames received (key/delta): 4/9632, decoded: 9633, dropped: 0, resolution: 1280 x 720, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:41.058] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:26:41.058] [89032] (connection.cpp:703):   Audio ssrc: 111873, packets sent: 10, packets lost: 0
+[2023-06-19 23:26:41.058] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 8 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 12276096 [bps], ssrcs: 111873: {seq: 31629, tseq: -1}, 
+[2023-06-19 23:26:41.058] [89032] (connection.cpp:823): Memory usage: 455 MB, CPU usage: 33%
+[2023-06-19 23:26:41.980] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:42.681] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2023-06-19 23:26:42.692] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2023-06-19 23:26:42.981] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:43.338] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 40
+[2023-06-19 23:26:43.347] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 40, rtt: 8
+[2023-06-19 23:26:43.464] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:43.464] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:43.464] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:26:43.980] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:44.980] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:45.309] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 40
+[2023-06-19 23:26:45.317] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 40, rtt: 8
+[2023-06-19 23:26:45.980] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:46.467] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:46.467] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:46.467] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:26:46.981] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:47.980] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:48.338] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 41
+[2023-06-19 23:26:48.347] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 41, rtt: 8
+[2023-06-19 23:26:48.393] [89038] (audio_device_buffer.cc:411): [REC : 10009msec, 48kHz] callbacks: 999, samples: 479520, rate: 47909, rate diff: 0%, level: 1417
+[2023-06-19 23:26:48.393] [89038] (audio_device_buffer.cc:437): [PLAY: 10009msec, 48kHz] callbacks: 1001, samples: 480480, rate: 48005, rate diff: 0%, level: 10414
+[2023-06-19 23:26:48.487] [89040] (captured_audio_processor.cpp:86): Audio frames processed: 20022, noise canceller process time: 0 [ms]
+[2023-06-19 23:26:48.487] [89040] (captured_audio_processor.cpp:97): Audio frame: 20022, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 37
+[2023-06-19 23:26:48.981] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:49.074] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 123848, packets received: 6291, lost: 0, audio frames normal: 9365, silent: 9926, expand: 92, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:49.074] [89032] (connection.cpp:669): Inbound stats for user: 916300992612540467, audio ssrc: 123414, packets received: 215, lost: 0, audio frames normal: 376, silent: 19628, expand: 16, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:49.074] [89032] (connection.cpp:669): Inbound stats for user: 844731493023481886, audio ssrc: 122102, packets received: 836, lost: 0, audio frames normal: 1359, silent: 18525, expand: 3, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:49.074] [89032] (connection.cpp:669): Inbound stats for user: 480193139462635550, audio ssrc: 123861, packets received: 1357, lost: 0, audio frames normal: 2084, silent: 17484, expand: 12, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:49.074] [89032] (connection.cpp:669): Inbound stats for user: 487844141259161600, audio ssrc: 124427, packets received: 2480, lost: 0, audio frames normal: 4037, silent: 15203, expand: 45, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:49.074] [89032] (connection.cpp:669): Inbound stats for user: 414562442329456651, audio ssrc: 122613, packets received: 1453, lost: 0, audio frames normal: 2470, silent: 16412, expand: 19, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:49.074] [89032] (connection.cpp:669): Inbound stats for user: 550977272585256980, audio ssrc: 126334, packets received: 677, lost: 0, audio frames normal: 1149, silent: 16100, expand: 10, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:49.075] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:26:49.075] [89032] (connection.cpp:703):   Audio ssrc: 128559, packets sent: 3678, packets lost: 0
+[2023-06-19 23:26:49.075] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 9 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0 [bps], ssrcs: 128559: {seq: 48045, tseq: -1}, 
+[2023-06-19 23:26:49.075] [89032] (connection.cpp:823): Memory usage: 456 MB, CPU usage: 35%
+[2023-06-19 23:26:49.470] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:49.470] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:49.470] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:26:49.980] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:50.290] [89032] (rtp_video_stream_receiver2.cc:667): Packet received on SSRC: 110402 with payload type: 103, timestamp: 3591144032, sequence number: 465, arrival time: 14038390, toffset: 540, abs send time: 7510024
+[2023-06-19 23:26:50.309] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 41
+[2023-06-19 23:26:50.317] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 41, rtt: 8
+[2023-06-19 23:26:50.980] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:51.079] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 110401, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 110402, packets received: 138130, lost: 3, video frames received (key/delta): 4/10141, decoded: 10144, dropped: 0, resolution: 1280 x 720, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:51.079] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:26:51.079] [89032] (connection.cpp:703):   Audio ssrc: 111873, packets sent: 10, packets lost: 0
+[2023-06-19 23:26:51.079] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 8 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 12276096 [bps], ssrcs: 111873: {seq: 31629, tseq: -1}, 
+[2023-06-19 23:26:51.079] [89032] (connection.cpp:823): Memory usage: 459 MB, CPU usage: 42%
+[2023-06-19 23:26:51.152] [89032] (socket_client_adapter.cpp:125): Send RTCP NACK with sender ssrc: 111874 for media ssrc: 110402: 1164 1165 
+[2023-06-19 23:26:51.980] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:52.473] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:52.473] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:52.473] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:26:52.981] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:53.339] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 42
+[2023-06-19 23:26:53.348] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 42, rtt: 9
+[2023-06-19 23:26:53.981] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:54.432] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2023-06-19 23:26:54.440] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2023-06-19 23:26:54.980] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:55.309] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 42
+[2023-06-19 23:26:55.317] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 42, rtt: 8
+[2023-06-19 23:26:55.476] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:55.476] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:55.476] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:26:55.981] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:56.431] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2023-06-19 23:26:56.440] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2023-06-19 23:26:56.980] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:57.980] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:58.339] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 43
+[2023-06-19 23:26:58.348] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 43, rtt: 8
+[2023-06-19 23:26:58.402] [89038] (audio_device_buffer.cc:411): [REC : 10010msec, 48kHz] callbacks: 1002, samples: 480960, rate: 48048, rate diff: 0%, level: 233
+[2023-06-19 23:26:58.402] [89038] (audio_device_buffer.cc:437): [PLAY: 10010msec, 48kHz] callbacks: 1001, samples: 480480, rate: 48000, rate diff: 0%, level: 10683
+[2023-06-19 23:26:58.480] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:58.480] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:26:58.480] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:26:58.513] [89040] (captured_audio_processor.cpp:86): Audio frames processed: 21024, noise canceller process time: 0 [ms]
+[2023-06-19 23:26:58.513] [89040] (captured_audio_processor.cpp:97): Audio frame: 21024, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 32
+[2023-06-19 23:26:58.980] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:26:59.094] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 123848, packets received: 6764, lost: 0, audio frames normal: 10182, silent: 10086, expand: 92, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:59.094] [89032] (connection.cpp:669): Inbound stats for user: 916300992612540467, audio ssrc: 123414, packets received: 215, lost: 0, audio frames normal: 376, silent: 20631, expand: 16, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:59.095] [89032] (connection.cpp:669): Inbound stats for user: 844731493023481886, audio ssrc: 122102, packets received: 836, lost: 0, audio frames normal: 1359, silent: 19528, expand: 3, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:59.095] [89032] (connection.cpp:669): Inbound stats for user: 480193139462635550, audio ssrc: 123861, packets received: 1357, lost: 0, audio frames normal: 2084, silent: 18487, expand: 12, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:59.095] [89032] (connection.cpp:669): Inbound stats for user: 487844141259161600, audio ssrc: 124427, packets received: 2671, lost: 0, audio frames normal: 4321, silent: 15900, expand: 48, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:59.095] [89032] (connection.cpp:669): Inbound stats for user: 414562442329456651, audio ssrc: 122613, packets received: 1453, lost: 0, audio frames normal: 2470, silent: 17415, expand: 19, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:59.095] [89032] (connection.cpp:669): Inbound stats for user: 550977272585256980, audio ssrc: 126334, packets received: 677, lost: 0, audio frames normal: 1149, silent: 17103, expand: 10, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:26:59.095] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:26:59.095] [89032] (connection.cpp:703):   Audio ssrc: 128559, packets sent: 4041, packets lost: 0
+[2023-06-19 23:26:59.095] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 9 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0 [bps], ssrcs: 128559: {seq: 48431, tseq: -1}, 
+[2023-06-19 23:26:59.095] [89032] (connection.cpp:823): Memory usage: 461 MB, CPU usage: 35%
+[2023-06-19 23:26:59.980] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:00.295] [89032] (rtp_video_stream_receiver2.cc:667): Packet received on SSRC: 110402 with payload type: 103, timestamp: 3592044032, sequence number: 8372, arrival time: 14048395, toffset: 990, abs send time: 10132739
+[2023-06-19 23:27:00.309] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 43
+[2023-06-19 23:27:00.318] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 43, rtt: 8
+[2023-06-19 23:27:00.980] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:01.100] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 110401, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 110402, packets received: 146023, lost: 5, video frames received (key/delta): 4/10653, decoded: 10655, dropped: 0, resolution: 1280 x 720, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:01.100] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:27:01.100] [89032] (connection.cpp:703):   Audio ssrc: 111873, packets sent: 10, packets lost: 0
+[2023-06-19 23:27:01.100] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 8 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 12276096 [bps], ssrcs: 111873: {seq: 31629, tseq: -1}, 
+[2023-06-19 23:27:01.100] [89032] (connection.cpp:823): Memory usage: 461 MB, CPU usage: 32%
+[2023-06-19 23:27:01.483] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:01.483] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:01.483] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:27:01.981] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:02.980] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:03.339] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 44
+[2023-06-19 23:27:03.347] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 44, rtt: 8
+[2023-06-19 23:27:03.980] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:04.486] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:04.486] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:04.486] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:27:04.981] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:05.237] [89032] (rtp_streams_synchronizer2.cc:127): Sync info stats: 14053337, {ssrc: 110401, cur_delay_ms: 0, capture_time_ntp_secs: 3896173621, capture_time_ntp_frac: 3169685864, capture_time_source_clock: 3614321925, latest_received_capture_timestamp: 3614504325, latest_receive_time_ms: 14053337} {ssrc: 110402, cur_delay_ms: 45, capture_time_ntp_secs: 3896173625, capture_time_ntp_frac: 1382979469, capture_time_source_clock: 3592463072, latest_received_capture_timestamp: 3592486472, latest_receive_time_ms: 14053320} {relative_delay_ms: -62} 
+[2023-06-19 23:27:05.309] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 44
+[2023-06-19 23:27:05.318] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 44, rtt: 8
+[2023-06-19 23:27:05.980] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:06.980] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:07.489] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:07.489] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:07.489] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:27:07.980] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:08.181] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2023-06-19 23:27:08.189] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2023-06-19 23:27:08.339] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 45
+[2023-06-19 23:27:08.348] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 45, rtt: 8
+[2023-06-19 23:27:08.412] [89038] (audio_device_buffer.cc:411): [REC : 10010msec, 48kHz] callbacks: 1001, samples: 480480, rate: 48000, rate diff: 0%, level: 299
+[2023-06-19 23:27:08.412] [89038] (audio_device_buffer.cc:437): [PLAY: 10010msec, 48kHz] callbacks: 1001, samples: 480480, rate: 48000, rate diff: 0%, level: 16502
+[2023-06-19 23:27:08.540] [89040] (captured_audio_processor.cpp:86): Audio frames processed: 22026, noise canceller process time: 0 [ms]
+[2023-06-19 23:27:08.540] [89040] (captured_audio_processor.cpp:97): Audio frame: 22026, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 116
+[2023-06-19 23:27:08.980] [89032] (connection.cpp:1028): Received inbound estimate: 12276096 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:09.117] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 123848, packets received: 7122, lost: 0, audio frames normal: 10712, silent: 10527, expand: 92, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:09.117] [89032] (connection.cpp:669): Inbound stats for user: 916300992612540467, audio ssrc: 123414, packets received: 215, lost: 0, audio frames normal: 376, silent: 21632, expand: 16, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:09.117] [89032] (connection.cpp:669): Inbound stats for user: 844731493023481886, audio ssrc: 122102, packets received: 885, lost: 0, audio frames normal: 1436, silent: 20452, expand: 3, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:09.117] [89032] (connection.cpp:669): Inbound stats for user: 480193139462635550, audio ssrc: 123861, packets received: 1357, lost: 0, audio frames normal: 2084, silent: 19488, expand: 12, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:09.117] [89032] (connection.cpp:669): Inbound stats for user: 487844141259161600, audio ssrc: 124427, packets received: 2832, lost: 0, audio frames normal: 4602, silent: 16617, expand: 50, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:09.117] [89032] (connection.cpp:669): Inbound stats for user: 414562442329456651, audio ssrc: 122613, packets received: 1453, lost: 0, audio frames normal: 2470, silent: 18416, expand: 19, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:09.117] [89032] (connection.cpp:669): Inbound stats for user: 550977272585256980, audio ssrc: 126334, packets received: 677, lost: 0, audio frames normal: 1149, silent: 18104, expand: 10, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:09.117] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:27:09.117] [89032] (connection.cpp:703):   Audio ssrc: 128559, packets sent: 4230, packets lost: 0
+[2023-06-19 23:27:09.117] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 9 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0 [bps], ssrcs: 128559: {seq: 48603, tseq: -1}, 
+[2023-06-19 23:27:09.117] [89032] (connection.cpp:823): Memory usage: 459 MB, CPU usage: 29%
+[2023-06-19 23:27:09.981] [89032] (connection.cpp:1028): Received inbound estimate: 12280064 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:10.181] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2023-06-19 23:27:10.190] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2023-06-19 23:27:10.297] [89032] (rtp_video_stream_receiver2.cc:667): Packet received on SSRC: 110402 with payload type: 103, timestamp: 3592944032, sequence number: 16255, arrival time: 14058397, toffset: 1080, abs send time: 12754627
+[2023-06-19 23:27:10.308] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 45
+[2023-06-19 23:27:10.317] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 45, rtt: 8
+[2023-06-19 23:27:10.491] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:10.491] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:10.491] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:27:10.980] [89032] (connection.cpp:1028): Received inbound estimate: 12280064 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:11.122] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 110401, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 110402, packets received: 153956, lost: 5, video frames received (key/delta): 4/11172, decoded: 11174, dropped: 0, resolution: 1280 x 720, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:11.122] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:27:11.122] [89032] (connection.cpp:703):   Audio ssrc: 111873, packets sent: 10, packets lost: 0
+[2023-06-19 23:27:11.122] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 8 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 12280064 [bps], ssrcs: 111873: {seq: 31629, tseq: -1}, 
+[2023-06-19 23:27:11.122] [89032] (connection.cpp:823): Memory usage: 429 MB, CPU usage: 51%
+[2023-06-19 23:27:11.981] [89032] (connection.cpp:1028): Received inbound estimate: 12280064 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:12.980] [89032] (connection.cpp:1028): Received inbound estimate: 12280064 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:13.339] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 46
+[2023-06-19 23:27:13.348] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 46, rtt: 8
+[2023-06-19 23:27:13.494] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:13.494] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:13.494] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:27:13.980] [89032] (connection.cpp:1028): Received inbound estimate: 12280064 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:14.981] [89032] (connection.cpp:1028): Received inbound estimate: 12280064 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:15.309] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 46
+[2023-06-19 23:27:15.317] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 46, rtt: 8
+[2023-06-19 23:27:15.980] [89032] (connection.cpp:1028): Received inbound estimate: 12280064 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:16.497] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:16.497] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:16.497] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:27:16.980] [89032] (connection.cpp:1028): Received inbound estimate: 12280064 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:17.981] [89032] (connection.cpp:1028): Received inbound estimate: 12280064 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:18.339] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 47
+[2023-06-19 23:27:18.348] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 47, rtt: 8
+[2023-06-19 23:27:18.422] [89038] (audio_device_buffer.cc:411): [REC : 10010msec, 48kHz] callbacks: 1000, samples: 480000, rate: 47952, rate diff: 0%, level: 6721
+[2023-06-19 23:27:18.422] [89038] (audio_device_buffer.cc:437): [PLAY: 10010msec, 48kHz] callbacks: 1001, samples: 480480, rate: 48000, rate diff: 0%, level: 10219
+[2023-06-19 23:27:18.545] [89040] (captured_audio_processor.cpp:86): Audio frames processed: 23028, noise canceller process time: 0 [ms]
+[2023-06-19 23:27:18.545] [89040] (captured_audio_processor.cpp:97): Audio frame: 23028, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 95
+[2023-06-19 23:27:18.980] [89032] (connection.cpp:1028): Received inbound estimate: 12280064 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:19.138] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 123848, packets received: 7597, lost: 0, audio frames normal: 11512, silent: 10711, expand: 92, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:19.138] [89032] (connection.cpp:669): Inbound stats for user: 916300992612540467, audio ssrc: 123414, packets received: 215, lost: 0, audio frames normal: 376, silent: 22635, expand: 16, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:19.138] [89032] (connection.cpp:669): Inbound stats for user: 844731493023481886, audio ssrc: 122102, packets received: 885, lost: 0, audio frames normal: 1436, silent: 21455, expand: 3, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:19.138] [89032] (connection.cpp:669): Inbound stats for user: 480193139462635550, audio ssrc: 123861, packets received: 1357, lost: 0, audio frames normal: 2084, silent: 20491, expand: 12, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:19.138] [89032] (connection.cpp:669): Inbound stats for user: 487844141259161600, audio ssrc: 124427, packets received: 2832, lost: 0, audio frames normal: 4602, silent: 17620, expand: 50, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:19.138] [89032] (connection.cpp:669): Inbound stats for user: 414562442329456651, audio ssrc: 122613, packets received: 1561, lost: 0, audio frames normal: 2644, silent: 19239, expand: 21, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:19.138] [89032] (connection.cpp:669): Inbound stats for user: 550977272585256980, audio ssrc: 126334, packets received: 677, lost: 0, audio frames normal: 1149, silent: 19107, expand: 10, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:19.139] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:27:19.139] [89032] (connection.cpp:703):   Audio ssrc: 128559, packets sent: 4370, packets lost: 0
+[2023-06-19 23:27:19.139] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 9 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0 [bps], ssrcs: 128559: {seq: 48728, tseq: -1}, 
+[2023-06-19 23:27:19.139] [89032] (connection.cpp:823): Memory usage: 444 MB, CPU usage: 26%
+[2023-06-19 23:27:19.500] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:19.500] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:19.500] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:27:19.980] [89032] (connection.cpp:1028): Received inbound estimate: 12280064 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:20.298] [89032] (rtp_video_stream_receiver2.cc:667): Packet received on SSRC: 110402 with payload type: 103, timestamp: 3593844032, sequence number: 24159, arrival time: 14068398, toffset: 1170, abs send time: 15376565
+[2023-06-19 23:27:20.309] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 47
+[2023-06-19 23:27:20.318] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 47, rtt: 8
+[2023-06-19 23:27:20.980] [89032] (connection.cpp:1028): Received inbound estimate: 12280064 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:21.143] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 110401, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 110402, packets received: 161875, lost: 5, video frames received (key/delta): 4/11691, decoded: 11693, dropped: 0, resolution: 1280 x 720, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:21.143] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:27:21.143] [89032] (connection.cpp:703):   Audio ssrc: 111873, packets sent: 10, packets lost: 0
+[2023-06-19 23:27:21.143] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 8 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 12280064 [bps], ssrcs: 111873: {seq: 31629, tseq: -1}, 
+[2023-06-19 23:27:21.143] [89032] (connection.cpp:823): Memory usage: 448 MB, CPU usage: 48%
+[2023-06-19 23:27:21.931] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2023-06-19 23:27:21.939] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2023-06-19 23:27:21.980] [89032] (connection.cpp:1028): Received inbound estimate: 12280064 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:22.503] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:22.503] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:22.503] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:27:22.980] [89032] (connection.cpp:1028): Received inbound estimate: 12280064 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:23.340] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 48
+[2023-06-19 23:27:23.350] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 48, rtt: 9
+[2023-06-19 23:27:23.754] [89032] (socket_client_adapter.cpp:125): Send RTCP NACK with sender ssrc: 111874 for media ssrc: 110402: 26888 
+[2023-06-19 23:27:23.761] [89032] (socket_client_adapter.cpp:125): Send RTCP NACK with sender ssrc: 111874 for media ssrc: 110402: 26896 26897 
+[2023-06-19 23:27:23.769] [89032] (socket_client_adapter.cpp:125): Send RTCP NACK with sender ssrc: 111874 for media ssrc: 110402: 26899 
+[2023-06-19 23:27:23.775] [89032] (socket_client_adapter.cpp:125): Send RTCP NACK with sender ssrc: 111874 for media ssrc: 110402: 26888 26896 26897 
+[2023-06-19 23:27:23.790] [89032] (socket_client_adapter.cpp:125): Send RTCP NACK with sender ssrc: 111874 for media ssrc: 110402: 26896 26897 26899 
+[2023-06-19 23:27:23.931] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2023-06-19 23:27:23.940] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2023-06-19 23:27:23.981] [89032] (connection.cpp:1028): Received inbound estimate: 6069472 [bps], loss rate: 17.9688 [%]
+[2023-06-19 23:27:24.980] [89032] (connection.cpp:1028): Received inbound estimate: 6532640 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:25.309] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 48
+[2023-06-19 23:27:25.318] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 48, rtt: 8
+[2023-06-19 23:27:25.506] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:25.506] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:25.506] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:27:25.981] [89032] (connection.cpp:1028): Received inbound estimate: 7055744 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:26.980] [89032] (connection.cpp:1028): Received inbound estimate: 7620960 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:27.980] [89032] (connection.cpp:1028): Received inbound estimate: 8231648 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:28.233] [216317] (udp_socket.cpp:625): Reconnection started, sending echo
+[2023-06-19 23:27:28.246] [216317] (udp_socket.cpp:207): ReconnectionAttemptFinished: succeeded, local address: 110.233.110.114:44365
+[2023-06-19 23:27:28.340] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 49
+[2023-06-19 23:27:28.350] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 49, rtt: 9
+[2023-06-19 23:27:28.432] [89038] (audio_device_buffer.cc:411): [REC : 10010msec, 48kHz] callbacks: 1002, samples: 480960, rate: 48048, rate diff: 0%, level: 19536
+[2023-06-19 23:27:28.432] [89038] (audio_device_buffer.cc:437): [PLAY: 10010msec, 48kHz] callbacks: 1001, samples: 480480, rate: 48000, rate diff: 0%, level: 10167
+[2023-06-19 23:27:28.509] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:28.509] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:28.509] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:27:28.550] [89040] (captured_audio_processor.cpp:86): Audio frames processed: 24027, noise canceller process time: 0 [ms]
+[2023-06-19 23:27:28.550] [89040] (captured_audio_processor.cpp:97): Audio frame: 24027, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 1092
+[2023-06-19 23:27:28.980] [89032] (connection.cpp:1028): Received inbound estimate: 8392064 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:29.159] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 123848, packets received: 8081, lost: 0, audio frames normal: 12413, silent: 10810, expand: 92, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:29.159] [89032] (connection.cpp:669): Inbound stats for user: 916300992612540467, audio ssrc: 123414, packets received: 215, lost: 0, audio frames normal: 376, silent: 23636, expand: 16, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:29.159] [89032] (connection.cpp:669): Inbound stats for user: 844731493023481886, audio ssrc: 122102, packets received: 885, lost: 0, audio frames normal: 1436, silent: 22456, expand: 3, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:29.159] [89032] (connection.cpp:669): Inbound stats for user: 480193139462635550, audio ssrc: 123861, packets received: 1474, lost: 0, audio frames normal: 2298, silent: 21276, expand: 14, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:29.159] [89032] (connection.cpp:669): Inbound stats for user: 487844141259161600, audio ssrc: 124427, packets received: 2832, lost: 0, audio frames normal: 4602, silent: 18621, expand: 50, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:29.159] [89032] (connection.cpp:669): Inbound stats for user: 414562442329456651, audio ssrc: 122613, packets received: 1604, lost: 0, audio frames normal: 2710, silent: 20171, expand: 22, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:29.159] [89032] (connection.cpp:669): Inbound stats for user: 550977272585256980, audio ssrc: 126334, packets received: 677, lost: 0, audio frames normal: 1149, silent: 20108, expand: 10, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:29.159] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:27:29.159] [89032] (connection.cpp:703):   Audio ssrc: 128559, packets sent: 4676, packets lost: 0
+[2023-06-19 23:27:29.159] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 9 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0 [bps], ssrcs: 128559: {seq: 49069, tseq: -1}, 
+[2023-06-19 23:27:29.159] [89032] (connection.cpp:823): Memory usage: 449 MB, CPU usage: 20%
+[2023-06-19 23:27:29.980] [89032] (connection.cpp:1028): Received inbound estimate: 8891584 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:30.207] [216326] (udp_socket.cpp:625): Reconnection started, sending echo
+[2023-06-19 23:27:30.219] [216326] (udp_socket.cpp:207): ReconnectionAttemptFinished: succeeded, local address: 110.233.110.114:37847
+[2023-06-19 23:27:30.299] [89032] (rtp_video_stream_receiver2.cc:667): Packet received on SSRC: 110402 with payload type: 103, timestamp: 3594743942, sequence number: 31267, arrival time: 14078399, toffset: 1350, abs send time: 1220839
+[2023-06-19 23:27:30.310] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 49
+[2023-06-19 23:27:30.319] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 49, rtt: 8
+[2023-06-19 23:27:30.980] [89032] (connection.cpp:1028): Received inbound estimate: 9493952 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:31.164] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 110401, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 110402, packets received: 168912, lost: 9, video frames received (key/delta): 5/12206, decoded: 12210, dropped: 0, resolution: 1280 x 720, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:31.165] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:27:31.165] [89032] (connection.cpp:703):   Audio ssrc: 111873, packets sent: 10, packets lost: 0
+[2023-06-19 23:27:31.165] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 8 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 9493952 [bps], ssrcs: 111873: {seq: 31629, tseq: -1}, 
+[2023-06-19 23:27:31.165] [89032] (connection.cpp:823): Memory usage: 449 MB, CPU usage: 41%
+[2023-06-19 23:27:31.512] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:31.512] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:31.512] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:27:31.982] [89032] (connection.cpp:1028): Received inbound estimate: 10253696 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:32.981] [89032] (connection.cpp:1028): Received inbound estimate: 10739648 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:33.340] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 50
+[2023-06-19 23:27:33.349] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 50, rtt: 8
+[2023-06-19 23:27:33.981] [89032] (connection.cpp:1028): Received inbound estimate: 11221504 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:34.515] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:34.515] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:34.515] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:27:34.981] [89032] (connection.cpp:1028): Received inbound estimate: 11572480 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:35.309] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 50
+[2023-06-19 23:27:35.324] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 50, rtt: 14
+[2023-06-19 23:27:35.681] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2023-06-19 23:27:35.690] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2023-06-19 23:27:35.981] [89032] (connection.cpp:1028): Received inbound estimate: 11798272 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:36.232] [89032] (rtp_streams_synchronizer2.cc:127): Sync info stats: 14084331, {ssrc: 110401, cur_delay_ms: 0, capture_time_ntp_secs: 3896173655, capture_time_ntp_frac: 369367187, capture_time_source_clock: 3615922629, latest_received_capture_timestamp: 3615991365, latest_receive_time_ms: 14084321} {ssrc: 110402, cur_delay_ms: 45, capture_time_ntp_secs: 3896173656, capture_time_ntp_frac: 1434519076, capture_time_source_clock: 3595254152, latest_received_capture_timestamp: 3595278002, latest_receive_time_ms: 14084327} {relative_delay_ms: -75} 
+[2023-06-19 23:27:36.987] [89032] (connection.cpp:1028): Received inbound estimate: 11910144 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:37.518] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:37.518] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:37.518] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:27:37.681] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2023-06-19 23:27:37.700] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2023-06-19 23:27:37.993] [89032] (connection.cpp:1028): Received inbound estimate: 12007104 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:38.340] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 51
+[2023-06-19 23:27:38.362] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 51, rtt: 21
+[2023-06-19 23:27:38.442] [89038] (audio_device_buffer.cc:411): [REC : 10010msec, 48kHz] callbacks: 999, samples: 479520, rate: 47904, rate diff: 0%, level: 5053
+[2023-06-19 23:27:38.442] [89038] (audio_device_buffer.cc:437): [PLAY: 10010msec, 48kHz] callbacks: 1002, samples: 480960, rate: 48048, rate diff: 0%, level: 6023
+[2023-06-19 23:27:38.555] [89040] (captured_audio_processor.cpp:86): Audio frames processed: 25029, noise canceller process time: 0 [ms]
+[2023-06-19 23:27:38.555] [89040] (captured_audio_processor.cpp:97): Audio frame: 25029, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 89
+[2023-06-19 23:27:38.997] [89032] (connection.cpp:1028): Received inbound estimate: 12007104 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:39.180] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 123848, packets received: 8167, lost: 0, audio frames normal: 12506, silent: 11676, expand: 92, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:39.180] [89032] (connection.cpp:669): Inbound stats for user: 916300992612540467, audio ssrc: 123414, packets received: 215, lost: 0, audio frames normal: 376, silent: 24639, expand: 16, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:39.180] [89032] (connection.cpp:669): Inbound stats for user: 844731493023481886, audio ssrc: 122102, packets received: 885, lost: 0, audio frames normal: 1436, silent: 23459, expand: 3, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:39.180] [89032] (connection.cpp:669): Inbound stats for user: 480193139462635550, audio ssrc: 123861, packets received: 1587, lost: 0, audio frames normal: 2471, silent: 22097, expand: 16, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:39.180] [89032] (connection.cpp:669): Inbound stats for user: 487844141259161600, audio ssrc: 124427, packets received: 2832, lost: 0, audio frames normal: 4602, silent: 19624, expand: 50, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:39.180] [89032] (connection.cpp:669): Inbound stats for user: 414562442329456651, audio ssrc: 122613, packets received: 1604, lost: 0, audio frames normal: 2710, silent: 21174, expand: 22, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:39.180] [89032] (connection.cpp:669): Inbound stats for user: 550977272585256980, audio ssrc: 126334, packets received: 798, lost: 0, audio frames normal: 1322, silent: 20930, expand: 12, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:39.180] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:27:39.180] [89032] (connection.cpp:703):   Audio ssrc: 128559, packets sent: 4909, packets lost: 0
+[2023-06-19 23:27:39.180] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 12 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0 [bps], ssrcs: 128559: {seq: 49279, tseq: -1}, 
+[2023-06-19 23:27:39.180] [89032] (connection.cpp:823): Memory usage: 448 MB, CPU usage: 30%
+[2023-06-19 23:27:39.999] [89032] (connection.cpp:1028): Received inbound estimate: 12007104 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:40.301] [89032] (rtp_video_stream_receiver2.cc:667): Packet received on SSRC: 110402 with payload type: 103, timestamp: 3595642412, sequence number: 39145, arrival time: 14088401, toffset: 1260, abs send time: 3837641
+[2023-06-19 23:27:40.310] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 51
+[2023-06-19 23:27:40.338] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 51, rtt: 28
+[2023-06-19 23:27:40.521] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:40.521] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:40.521] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:27:41.003] [89032] (connection.cpp:1028): Received inbound estimate: 12007104 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:41.184] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 110401, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 110402, packets received: 176842, lost: 9, video frames received (key/delta): 5/12721, decoded: 12725, dropped: 0, resolution: 1280 x 720, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:41.184] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:27:41.184] [89032] (connection.cpp:703):   Audio ssrc: 111873, packets sent: 10, packets lost: 0
+[2023-06-19 23:27:41.184] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 20 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 12007104 [bps], ssrcs: 111873: {seq: 31629, tseq: -1}, 
+[2023-06-19 23:27:41.184] [89032] (connection.cpp:823): Memory usage: 447 MB, CPU usage: 24%
+[2023-06-19 23:27:41.981] [89032] (connection.cpp:1028): Received inbound estimate: 12007104 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:42.981] [89032] (connection.cpp:1028): Received inbound estimate: 12007104 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:43.340] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 52
+[2023-06-19 23:27:43.349] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 52, rtt: 8
+[2023-06-19 23:27:43.524] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:43.524] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:43.524] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:27:43.982] [89032] (connection.cpp:1028): Received inbound estimate: 12007104 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:44.982] [89032] (connection.cpp:1028): Received inbound estimate: 12007104 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:45.310] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 52
+[2023-06-19 23:27:45.319] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 52, rtt: 8
+[2023-06-19 23:27:45.982] [89032] (connection.cpp:1028): Received inbound estimate: 12147392 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:46.527] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:46.527] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:46.527] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:27:46.982] [89032] (connection.cpp:1028): Received inbound estimate: 12147392 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:47.983] [89032] (connection.cpp:1028): Received inbound estimate: 12147392 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:48.341] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 53
+[2023-06-19 23:27:48.350] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 53, rtt: 8
+[2023-06-19 23:27:48.452] [89038] (audio_device_buffer.cc:411): [REC : 10010msec, 48kHz] callbacks: 1002, samples: 480960, rate: 48048, rate diff: 0%, level: 1316
+[2023-06-19 23:27:48.452] [89038] (audio_device_buffer.cc:437): [PLAY: 10010msec, 48kHz] callbacks: 1000, samples: 480000, rate: 47952, rate diff: 0%, level: 4238
+[2023-06-19 23:27:48.560] [89040] (captured_audio_processor.cpp:86): Audio frames processed: 26028, noise canceller process time: 0 [ms]
+[2023-06-19 23:27:48.560] [89040] (captured_audio_processor.cpp:97): Audio frame: 26028, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 69
+[2023-06-19 23:27:48.982] [89032] (connection.cpp:1028): Received inbound estimate: 12147392 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:49.199] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 123848, packets received: 8206, lost: 0, audio frames normal: 12546, silent: 12603, expand: 92, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:49.199] [89032] (connection.cpp:669): Inbound stats for user: 916300992612540467, audio ssrc: 123414, packets received: 215, lost: 0, audio frames normal: 376, silent: 25641, expand: 16, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:49.199] [89032] (connection.cpp:669): Inbound stats for user: 844731493023481886, audio ssrc: 122102, packets received: 885, lost: 0, audio frames normal: 1436, silent: 24461, expand: 3, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:49.199] [89032] (connection.cpp:669): Inbound stats for user: 480193139462635550, audio ssrc: 123861, packets received: 1717, lost: 0, audio frames normal: 2694, silent: 22876, expand: 16, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:49.199] [89032] (connection.cpp:669): Inbound stats for user: 487844141259161600, audio ssrc: 124427, packets received: 2832, lost: 0, audio frames normal: 4602, silent: 20626, expand: 50, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:49.199] [89032] (connection.cpp:669): Inbound stats for user: 414562442329456651, audio ssrc: 122613, packets received: 1604, lost: 0, audio frames normal: 2710, silent: 22176, expand: 22, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:49.199] [89032] (connection.cpp:669): Inbound stats for user: 550977272585256980, audio ssrc: 126334, packets received: 798, lost: 0, audio frames normal: 1322, silent: 21932, expand: 12, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:49.199] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:27:49.199] [89032] (connection.cpp:703):   Audio ssrc: 128559, packets sent: 5122, packets lost: 0
+[2023-06-19 23:27:49.199] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 9 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0 [bps], ssrcs: 128559: {seq: 49506, tseq: -1}, 
+[2023-06-19 23:27:49.199] [89032] (connection.cpp:823): Memory usage: 450 MB, CPU usage: 28%
+[2023-06-19 23:27:49.431] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2023-06-19 23:27:49.439] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2023-06-19 23:27:49.530] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:49.530] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:49.530] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:27:49.982] [89032] (connection.cpp:1028): Received inbound estimate: 12147392 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:50.309] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 53
+[2023-06-19 23:27:50.309] [89032] (rtp_video_stream_receiver2.cc:667): Packet received on SSRC: 110402 with payload type: 103, timestamp: 3596545472, sequence number: 47034, arrival time: 14098409, toffset: 720, abs send time: 6466255
+[2023-06-19 23:27:50.318] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 53, rtt: 9
+[2023-06-19 23:27:50.981] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:51.203] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 110401, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 110402, packets received: 184761, lost: 9, video frames received (key/delta): 5/13239, decoded: 13243, dropped: 0, resolution: 1280 x 720, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:51.203] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:27:51.203] [89032] (connection.cpp:703):   Audio ssrc: 111873, packets sent: 10, packets lost: 0
+[2023-06-19 23:27:51.203] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 9 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 12289472 [bps], ssrcs: 111873: {seq: 31629, tseq: -1}, 
+[2023-06-19 23:27:51.203] [89032] (connection.cpp:823): Memory usage: 452 MB, CPU usage: 27%
+[2023-06-19 23:27:51.431] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2023-06-19 23:27:51.440] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2023-06-19 23:27:51.981] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:52.533] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:52.533] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:52.533] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:27:52.982] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:53.341] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 54
+[2023-06-19 23:27:53.350] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 54, rtt: 8
+[2023-06-19 23:27:53.981] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:54.982] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:55.310] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 54
+[2023-06-19 23:27:55.319] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 54, rtt: 8
+[2023-06-19 23:27:55.536] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:55.536] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:55.536] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:27:55.982] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:56.981] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:57.981] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:58.340] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 55
+[2023-06-19 23:27:58.349] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 55, rtt: 8
+[2023-06-19 23:27:58.462] [89038] (audio_device_buffer.cc:411): [REC : 10010msec, 48kHz] callbacks: 1002, samples: 480960, rate: 48048, rate diff: 0%, level: 629
+[2023-06-19 23:27:58.462] [89038] (audio_device_buffer.cc:437): [PLAY: 10010msec, 48kHz] callbacks: 1001, samples: 480480, rate: 48000, rate diff: 0%, level: 10109
+[2023-06-19 23:27:58.539] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:58.539] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:27:58.539] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:27:58.565] [89040] (captured_audio_processor.cpp:86): Audio frames processed: 27030, noise canceller process time: 0 [ms]
+[2023-06-19 23:27:58.565] [89040] (captured_audio_processor.cpp:97): Audio frame: 27030, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 110
+[2023-06-19 23:27:58.981] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:27:59.218] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 123848, packets received: 8596, lost: 0, audio frames normal: 13102, silent: 12923, expand: 92, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:59.218] [89032] (connection.cpp:669): Inbound stats for user: 916300992612540467, audio ssrc: 123414, packets received: 215, lost: 0, audio frames normal: 376, silent: 26642, expand: 16, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:59.218] [89032] (connection.cpp:669): Inbound stats for user: 844731493023481886, audio ssrc: 122102, packets received: 885, lost: 0, audio frames normal: 1436, silent: 25462, expand: 3, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:59.218] [89032] (connection.cpp:669): Inbound stats for user: 480193139462635550, audio ssrc: 123861, packets received: 1766, lost: 0, audio frames normal: 2782, silent: 23789, expand: 16, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:59.219] [89032] (connection.cpp:669): Inbound stats for user: 487844141259161600, audio ssrc: 124427, packets received: 2832, lost: 0, audio frames normal: 4602, silent: 21627, expand: 50, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:59.219] [89032] (connection.cpp:669): Inbound stats for user: 414562442329456651, audio ssrc: 122613, packets received: 1604, lost: 0, audio frames normal: 2710, silent: 23177, expand: 22, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:59.219] [89032] (connection.cpp:669): Inbound stats for user: 550977272585256980, audio ssrc: 126334, packets received: 798, lost: 0, audio frames normal: 1322, silent: 22933, expand: 12, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:27:59.219] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:27:59.219] [89032] (connection.cpp:703):   Audio ssrc: 128559, packets sent: 5216, packets lost: 0
+[2023-06-19 23:27:59.219] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 9 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0 [bps], ssrcs: 128559: {seq: 49570, tseq: -1}, 
+[2023-06-19 23:27:59.219] [89032] (connection.cpp:823): Memory usage: 451 MB, CPU usage: 32%
+[2023-06-19 23:27:59.981] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:00.310] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 55
+[2023-06-19 23:28:00.314] [89032] (rtp_video_stream_receiver2.cc:667): Packet received on SSRC: 110402 with payload type: 103, timestamp: 3597445472, sequence number: 54869, arrival time: 14108414, toffset: 1170, abs send time: 9089176
+[2023-06-19 23:28:00.319] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 55, rtt: 8
+[2023-06-19 23:28:00.982] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:01.223] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 110401, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 110402, packets received: 192494, lost: 9, video frames received (key/delta): 5/13738, decoded: 13742, dropped: 0, resolution: 1280 x 720, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:01.223] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:28:01.223] [89032] (connection.cpp:703):   Audio ssrc: 111873, packets sent: 10, packets lost: 0
+[2023-06-19 23:28:01.223] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 9 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 12289472 [bps], ssrcs: 111873: {seq: 31629, tseq: -1}, 
+[2023-06-19 23:28:01.223] [89032] (connection.cpp:823): Memory usage: 451 MB, CPU usage: 38%
+[2023-06-19 23:28:01.542] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:01.542] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:01.542] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:28:01.981] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:02.981] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:03.181] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2023-06-19 23:28:03.188] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2023-06-19 23:28:03.340] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 56
+[2023-06-19 23:28:03.349] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 56, rtt: 8
+[2023-06-19 23:28:03.981] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:04.545] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:04.545] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:04.545] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:28:04.981] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:05.181] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2023-06-19 23:28:05.190] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2023-06-19 23:28:05.310] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 56
+[2023-06-19 23:28:05.319] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 56, rtt: 8
+[2023-06-19 23:28:05.981] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:06.981] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:07.229] [89032] (rtp_streams_synchronizer2.cc:127): Sync info stats: 14115328, {ssrc: 110401, cur_delay_ms: 0, capture_time_ntp_secs: 3896173683, capture_time_ntp_frac: 2001454759, capture_time_source_clock: 3617284917, latest_received_capture_timestamp: 3617479365, latest_receive_time_ms: 14115314} {ssrc: 110402, cur_delay_ms: 45, capture_time_ntp_secs: 3896173687, capture_time_ntp_frac: 1503238553, capture_time_source_clock: 3598045592, latest_received_capture_timestamp: 3598067912, latest_receive_time_ms: 14115328} {relative_delay_ms: -67} 
+[2023-06-19 23:28:07.548] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:07.548] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:07.548] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:28:07.981] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:08.341] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 57
+[2023-06-19 23:28:08.350] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 57, rtt: 9
+[2023-06-19 23:28:08.472] [89038] (audio_device_buffer.cc:411): [REC : 10010msec, 48kHz] callbacks: 1002, samples: 480960, rate: 48048, rate diff: 0%, level: 1421
+[2023-06-19 23:28:08.472] [89038] (audio_device_buffer.cc:437): [PLAY: 10010msec, 48kHz] callbacks: 1001, samples: 480480, rate: 48000, rate diff: 0%, level: 12522
+[2023-06-19 23:28:08.592] [89040] (captured_audio_processor.cpp:86): Audio frames processed: 28032, noise canceller process time: 0 [ms]
+[2023-06-19 23:28:08.592] [89040] (captured_audio_processor.cpp:97): Audio frame: 28032, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 73
+[2023-06-19 23:28:08.981] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:09.241] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 123848, packets received: 8872, lost: 0, audio frames normal: 13475, silent: 13530, expand: 92, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:09.241] [89032] (connection.cpp:669): Inbound stats for user: 916300992612540467, audio ssrc: 123414, packets received: 215, lost: 0, audio frames normal: 376, silent: 27645, expand: 16, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:09.241] [89032] (connection.cpp:669): Inbound stats for user: 844731493023481886, audio ssrc: 122102, packets received: 885, lost: 0, audio frames normal: 1436, silent: 26465, expand: 3, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:09.241] [89032] (connection.cpp:669): Inbound stats for user: 480193139462635550, audio ssrc: 123861, packets received: 2085, lost: 0, audio frames normal: 3282, silent: 24280, expand: 18, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:09.241] [89032] (connection.cpp:669): Inbound stats for user: 487844141259161600, audio ssrc: 124427, packets received: 2928, lost: 0, audio frames normal: 4773, silent: 22457, expand: 52, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:09.241] [89032] (connection.cpp:669): Inbound stats for user: 414562442329456651, audio ssrc: 122613, packets received: 1662, lost: 0, audio frames normal: 2787, silent: 24101, expand: 23, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:09.241] [89032] (connection.cpp:669): Inbound stats for user: 550977272585256980, audio ssrc: 126334, packets received: 798, lost: 0, audio frames normal: 1322, silent: 23936, expand: 12, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:09.241] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:28:09.241] [89032] (connection.cpp:703):   Audio ssrc: 128559, packets sent: 5466, packets lost: 0
+[2023-06-19 23:28:09.241] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 9 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0 [bps], ssrcs: 128559: {seq: 49830, tseq: -1}, 
+[2023-06-19 23:28:09.241] [89032] (connection.cpp:823): Memory usage: 457 MB, CPU usage: 21%
+[2023-06-19 23:28:09.982] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:10.310] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 57
+[2023-06-19 23:28:10.319] [89032] (rtp_video_stream_receiver2.cc:667): Packet received on SSRC: 110402 with payload type: 103, timestamp: 3598345472, sequence number: 62639, arrival time: 14118418, toffset: 1710, abs send time: 11711753
+[2023-06-19 23:28:10.319] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 57, rtt: 9
+[2023-06-19 23:28:10.551] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:10.551] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:10.551] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:28:10.982] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:11.245] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 110401, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 110402, packets received: 200402, lost: 9, video frames received (key/delta): 5/14251, decoded: 14254, dropped: 0, resolution: 1280 x 720, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:11.245] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:28:11.245] [89032] (connection.cpp:703):   Audio ssrc: 111873, packets sent: 10, packets lost: 0
+[2023-06-19 23:28:11.245] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 9 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 12289472 [bps], ssrcs: 111873: {seq: 31629, tseq: -1}, 
+[2023-06-19 23:28:11.245] [89032] (connection.cpp:823): Memory usage: 457 MB, CPU usage: 31%
+[2023-06-19 23:28:11.981] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:12.981] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:13.340] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 58
+[2023-06-19 23:28:13.349] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 58, rtt: 8
+[2023-06-19 23:28:13.554] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:13.554] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:13.554] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:28:13.981] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:14.981] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:15.309] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 58
+[2023-06-19 23:28:15.318] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 58, rtt: 8
+[2023-06-19 23:28:15.981] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:16.557] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:16.557] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:16.557] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:28:16.931] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2023-06-19 23:28:16.939] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2023-06-19 23:28:16.981] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:17.981] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:18.341] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 59
+[2023-06-19 23:28:18.351] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 59, rtt: 9
+[2023-06-19 23:28:18.482] [89038] (audio_device_buffer.cc:411): [REC : 10010msec, 48kHz] callbacks: 999, samples: 479520, rate: 47904, rate diff: 0%, level: 1533
+[2023-06-19 23:28:18.482] [89038] (audio_device_buffer.cc:437): [PLAY: 10010msec, 48kHz] callbacks: 1001, samples: 480480, rate: 48000, rate diff: 0%, level: 9402
+[2023-06-19 23:28:18.618] [89040] (captured_audio_processor.cpp:86): Audio frames processed: 29034, noise canceller process time: 0 [ms]
+[2023-06-19 23:28:18.618] [89040] (captured_audio_processor.cpp:97): Audio frame: 29034, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 93
+[2023-06-19 23:28:18.931] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2023-06-19 23:28:18.945] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2023-06-19 23:28:18.981] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:19.261] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 123848, packets received: 9141, lost: 0, audio frames normal: 13858, silent: 14121, expand: 92, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:19.261] [89032] (connection.cpp:669): Inbound stats for user: 916300992612540467, audio ssrc: 123414, packets received: 215, lost: 0, audio frames normal: 376, silent: 28647, expand: 16, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:19.261] [89032] (connection.cpp:669): Inbound stats for user: 844731493023481886, audio ssrc: 122102, packets received: 885, lost: 0, audio frames normal: 1436, silent: 27467, expand: 3, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:19.261] [89032] (connection.cpp:669): Inbound stats for user: 480193139462635550, audio ssrc: 123861, packets received: 2481, lost: 0, audio frames normal: 3985, silent: 24555, expand: 20, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:19.261] [89032] (connection.cpp:669): Inbound stats for user: 487844141259161600, audio ssrc: 124427, packets received: 3020, lost: 0, audio frames normal: 4924, silent: 23303, expand: 53, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:19.262] [89032] (connection.cpp:669): Inbound stats for user: 414562442329456651, audio ssrc: 122613, packets received: 1662, lost: 0, audio frames normal: 2787, silent: 25103, expand: 23, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:19.262] [89032] (connection.cpp:669): Inbound stats for user: 550977272585256980, audio ssrc: 126334, packets received: 798, lost: 0, audio frames normal: 1322, silent: 24938, expand: 12, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:19.262] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:28:19.262] [89032] (connection.cpp:703):   Audio ssrc: 128559, packets sent: 5634, packets lost: 0
+[2023-06-19 23:28:19.262] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 9 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0 [bps], ssrcs: 128559: {seq: 50004, tseq: -1}, 
+[2023-06-19 23:28:19.262] [89032] (connection.cpp:823): Memory usage: 457 MB, CPU usage: 25%
+[2023-06-19 23:28:19.560] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:19.560] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:19.560] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:28:19.982] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:20.310] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 59
+[2023-06-19 23:28:20.319] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 59, rtt: 8
+[2023-06-19 23:28:20.323] [89032] (rtp_video_stream_receiver2.cc:667): Packet received on SSRC: 110402 with payload type: 103, timestamp: 3599245472, sequence number: 4832, arrival time: 14128423, toffset: 2070, abs send time: 14334456
+[2023-06-19 23:28:20.982] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:21.266] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 110401, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 110402, packets received: 208145, lost: 9, video frames received (key/delta): 5/14752, decoded: 14755, dropped: 0, resolution: 1280 x 720, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:21.266] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:28:21.266] [89032] (connection.cpp:703):   Audio ssrc: 111873, packets sent: 10, packets lost: 0
+[2023-06-19 23:28:21.266] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 9 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 12289472 [bps], ssrcs: 111873: {seq: 31629, tseq: -1}, 
+[2023-06-19 23:28:21.266] [89032] (connection.cpp:823): Memory usage: 455 MB, CPU usage: 34%
+[2023-06-19 23:28:21.981] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:22.563] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:22.563] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:22.563] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:28:22.981] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:23.340] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 60
+[2023-06-19 23:28:23.349] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 60, rtt: 8
+[2023-06-19 23:28:23.982] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:24.981] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:25.160] [89032] (socket_client_adapter.cpp:125): Send RTCP NACK with sender ssrc: 111874 for media ssrc: 110402: 8691 
+[2023-06-19 23:28:25.168] [89032] (socket_client_adapter.cpp:125): Send RTCP NACK with sender ssrc: 111874 for media ssrc: 110402: 8696 8697 8698 
+[2023-06-19 23:28:25.311] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 60
+[2023-06-19 23:28:25.321] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 60, rtt: 9
+[2023-06-19 23:28:25.566] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:25.566] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:25.566] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:28:25.797] [89032] (socket_client_adapter.cpp:125): Send RTCP NACK with sender ssrc: 111874 for media ssrc: 110402: 9196 
+[2023-06-19 23:28:25.810] [89032] (socket_client_adapter.cpp:125): Send RTCP NACK with sender ssrc: 111874 for media ssrc: 110402: 9196 
+[2023-06-19 23:28:25.821] [89032] (socket_client_adapter.cpp:125): Send RTCP NACK with sender ssrc: 111874 for media ssrc: 110402: 9211 9212 
+[2023-06-19 23:28:25.835] [89032] (socket_client_adapter.cpp:125): Send RTCP NACK with sender ssrc: 111874 for media ssrc: 110402: 9227 
+[2023-06-19 23:28:25.985] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 9.375 [%]
+[2023-06-19 23:28:26.982] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:27.982] [89032] (connection.cpp:1028): Received inbound estimate: 12289472 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:28.233] [216317] (udp_socket.cpp:625): Reconnection started, sending echo
+[2023-06-19 23:28:28.244] [216317] (udp_socket.cpp:207): ReconnectionAttemptFinished: succeeded, local address: 110.233.110.114:52130
+[2023-06-19 23:28:28.341] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 61
+[2023-06-19 23:28:28.351] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 61, rtt: 10
+[2023-06-19 23:28:28.492] [89038] (audio_device_buffer.cc:411): [REC : 10010msec, 48kHz] callbacks: 1002, samples: 480960, rate: 48048, rate diff: 0%, level: 4084
+[2023-06-19 23:28:28.492] [89038] (audio_device_buffer.cc:437): [PLAY: 10010msec, 48kHz] callbacks: 1001, samples: 480480, rate: 48000, rate diff: 0%, level: 5672
+[2023-06-19 23:28:28.569] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:28.569] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:28.569] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:28:28.623] [89040] (captured_audio_processor.cpp:86): Audio frames processed: 30036, noise canceller process time: 0 [ms]
+[2023-06-19 23:28:28.623] [89040] (captured_audio_processor.cpp:97): Audio frame: 30036, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 296
+[2023-06-19 23:28:28.982] [89032] (connection.cpp:1028): Received inbound estimate: 12313344 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:29.284] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 123848, packets received: 9441, lost: 2, audio frames normal: 14281, silent: 14681, expand: 97, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:29.284] [89032] (connection.cpp:669): Inbound stats for user: 916300992612540467, audio ssrc: 123414, packets received: 215, lost: 0, audio frames normal: 376, silent: 29649, expand: 16, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:29.284] [89032] (connection.cpp:669): Inbound stats for user: 844731493023481886, audio ssrc: 122102, packets received: 885, lost: 0, audio frames normal: 1436, silent: 28469, expand: 3, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:29.284] [89032] (connection.cpp:669): Inbound stats for user: 480193139462635550, audio ssrc: 123861, packets received: 2746, lost: 1, audio frames normal: 4413, silent: 25090, expand: 26, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:29.284] [89032] (connection.cpp:669): Inbound stats for user: 487844141259161600, audio ssrc: 124427, packets received: 3062, lost: 0, audio frames normal: 4987, silent: 24238, expand: 56, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:29.284] [89032] (connection.cpp:669): Inbound stats for user: 414562442329456651, audio ssrc: 122613, packets received: 1662, lost: 0, audio frames normal: 2787, silent: 26105, expand: 23, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:29.284] [89032] (connection.cpp:669): Inbound stats for user: 550977272585256980, audio ssrc: 126334, packets received: 798, lost: 0, audio frames normal: 1322, silent: 25940, expand: 12, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:29.284] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:28:29.284] [89032] (connection.cpp:703):   Audio ssrc: 128559, packets sent: 5999, packets lost: 0
+[2023-06-19 23:28:29.284] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 9 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0 [bps], ssrcs: 128559: {seq: 50361, tseq: -1}, 
+[2023-06-19 23:28:29.284] [89032] (connection.cpp:823): Memory usage: 454 MB, CPU usage: 27%
+[2023-06-19 23:28:29.982] [89032] (connection.cpp:1028): Received inbound estimate: 12313344 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:30.207] [216326] (udp_socket.cpp:625): Reconnection started, sending echo
+[2023-06-19 23:28:30.218] [216326] (udp_socket.cpp:207): ReconnectionAttemptFinished: succeeded, local address: 110.233.110.114:39522
+[2023-06-19 23:28:30.311] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 61
+[2023-06-19 23:28:30.323] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 61, rtt: 12
+[2023-06-19 23:28:30.329] [89032] (rtp_video_stream_receiver2.cc:667): Packet received on SSRC: 110402 with payload type: 103, timestamp: 3600147002, sequence number: 12775, arrival time: 14138429, toffset: 630, abs send time: 178880
+[2023-06-19 23:28:30.681] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2023-06-19 23:28:30.690] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2023-06-19 23:28:30.981] [89032] (connection.cpp:1028): Received inbound estimate: 12313344 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:31.290] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 110401, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 110402, packets received: 216073, lost: 17, video frames received (key/delta): 6/15275, decoded: 15279, dropped: 0, resolution: 1280 x 720, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:31.291] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:28:31.291] [89032] (connection.cpp:703):   Audio ssrc: 111873, packets sent: 10, packets lost: 0
+[2023-06-19 23:28:31.291] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 9 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 12313344 [bps], ssrcs: 111873: {seq: 31629, tseq: -1}, 
+[2023-06-19 23:28:31.291] [89032] (connection.cpp:823): Memory usage: 456 MB, CPU usage: 38%
+[2023-06-19 23:28:31.572] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:31.572] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:31.572] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:28:31.981] [89032] (connection.cpp:1028): Received inbound estimate: 12313344 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:32.681] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2023-06-19 23:28:32.692] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2023-06-19 23:28:32.981] [89032] (connection.cpp:1028): Received inbound estimate: 12313344 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:33.342] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 62
+[2023-06-19 23:28:33.351] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 62, rtt: 9
+[2023-06-19 23:28:33.981] [89032] (connection.cpp:1028): Received inbound estimate: 12313344 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:34.575] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:34.575] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:34.575] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:28:34.981] [89032] (connection.cpp:1028): Received inbound estimate: 12313344 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:35.311] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 62
+[2023-06-19 23:28:35.320] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 62, rtt: 9
+[2023-06-19 23:28:35.982] [89032] (connection.cpp:1028): Received inbound estimate: 12313344 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:36.981] [89032] (connection.cpp:1028): Received inbound estimate: 12313344 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:37.242] [89032] (rtp_streams_synchronizer2.cc:127): Sync info stats: 14145341, {ssrc: 110401, cur_delay_ms: 0, capture_time_ntp_secs: 3896173716, capture_time_ntp_frac: 2388001816, capture_time_source_clock: 3618873285, latest_received_capture_timestamp: 3618920325, latest_receive_time_ms: 14145335} {ssrc: 110402, cur_delay_ms: 45, capture_time_ntp_secs: 3896173717, capture_time_ntp_frac: 1361504632, capture_time_source_clock: 3600742622, latest_received_capture_timestamp: 3600767912, latest_receive_time_ms: 14145341} {relative_delay_ms: -55} 
+[2023-06-19 23:28:37.578] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:37.578] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:37.578] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:28:37.982] [89032] (connection.cpp:1028): Received inbound estimate: 12313344 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:38.342] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 63
+[2023-06-19 23:28:38.351] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 63, rtt: 9
+[2023-06-19 23:28:38.502] [89038] (audio_device_buffer.cc:411): [REC : 10010msec, 48kHz] callbacks: 1002, samples: 480960, rate: 48048, rate diff: 0%, level: 670
+[2023-06-19 23:28:38.502] [89038] (audio_device_buffer.cc:437): [PLAY: 10010msec, 48kHz] callbacks: 1001, samples: 480480, rate: 48000, rate diff: 0%, level: 7104
+[2023-06-19 23:28:38.628] [89040] (captured_audio_processor.cpp:86): Audio frames processed: 31035, noise canceller process time: 0 [ms]
+[2023-06-19 23:28:38.628] [89040] (captured_audio_processor.cpp:97): Audio frame: 31035, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 182
+[2023-06-19 23:28:38.982] [89032] (connection.cpp:1028): Received inbound estimate: 12313344 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:39.311] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 123848, packets received: 9607, lost: 2, audio frames normal: 14507, silent: 15450, expand: 97, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:39.311] [89032] (connection.cpp:669): Inbound stats for user: 916300992612540467, audio ssrc: 123414, packets received: 215, lost: 0, audio frames normal: 376, silent: 30652, expand: 16, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:39.311] [89032] (connection.cpp:669): Inbound stats for user: 844731493023481886, audio ssrc: 122102, packets received: 885, lost: 0, audio frames normal: 1436, silent: 29472, expand: 3, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:39.311] [89032] (connection.cpp:669): Inbound stats for user: 480193139462635550, audio ssrc: 123861, packets received: 2823, lost: 1, audio frames normal: 4540, silent: 25962, expand: 26, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:39.311] [89032] (connection.cpp:669): Inbound stats for user: 487844141259161600, audio ssrc: 124427, packets received: 3124, lost: 0, audio frames normal: 5091, silent: 25134, expand: 58, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:39.311] [89032] (connection.cpp:669): Inbound stats for user: 414562442329456651, audio ssrc: 122613, packets received: 1814, lost: 0, audio frames normal: 3036, silent: 26853, expand: 26, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:39.311] [89032] (connection.cpp:669): Inbound stats for user: 550977272585256980, audio ssrc: 126334, packets received: 798, lost: 0, audio frames normal: 1322, silent: 26943, expand: 12, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:39.311] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:28:39.312] [89032] (connection.cpp:703):   Audio ssrc: 128559, packets sent: 6255, packets lost: 0
+[2023-06-19 23:28:39.312] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 9 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0 [bps], ssrcs: 128559: {seq: 50641, tseq: -1}, 
+[2023-06-19 23:28:39.312] [89032] (connection.cpp:823): Memory usage: 455 MB, CPU usage: 48%
+[2023-06-19 23:28:39.981] [89032] (connection.cpp:1028): Received inbound estimate: 12313344 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:40.311] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 63
+[2023-06-19 23:28:40.319] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 63, rtt: 8
+[2023-06-19 23:28:40.333] [89032] (rtp_video_stream_receiver2.cc:667): Packet received on SSRC: 110402 with payload type: 103, timestamp: 3601046912, sequence number: 20747, arrival time: 14148433, toffset: 1440, abs send time: 2802485
+[2023-06-19 23:28:40.581] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:40.581] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:40.581] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:28:40.982] [89032] (connection.cpp:1028): Received inbound estimate: 12313344 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:41.316] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 110401, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 110402, packets received: 224092, lost: 17, video frames received (key/delta): 6/15800, decoded: 15804, dropped: 0, resolution: 1280 x 720, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:41.316] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:28:41.316] [89032] (connection.cpp:703):   Audio ssrc: 111873, packets sent: 10, packets lost: 0
+[2023-06-19 23:28:41.316] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 8 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 12313344 [bps], ssrcs: 111873: {seq: 31629, tseq: -1}, 
+[2023-06-19 23:28:41.316] [89032] (connection.cpp:823): Memory usage: 455 MB, CPU usage: 40%
+[2023-06-19 23:28:41.981] [89032] (connection.cpp:1028): Received inbound estimate: 12313344 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:42.981] [89032] (connection.cpp:1028): Received inbound estimate: 12313344 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:43.341] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 64
+[2023-06-19 23:28:43.351] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 64, rtt: 9
+[2023-06-19 23:28:43.410] [89032] (receive_statistics_proxy2.cc:535): Bad call (any) end: 14151510
+[2023-06-19 23:28:43.410] [89032] (receive_statistics_proxy2.cc:553): Bad call (variance) end: 14151510
+[2023-06-19 23:28:43.584] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:43.584] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:43.584] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:28:43.981] [89032] (connection.cpp:1028): Received inbound estimate: 12313344 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:44.431] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2023-06-19 23:28:44.438] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2023-06-19 23:28:44.981] [89032] (connection.cpp:1028): Received inbound estimate: 12313344 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:45.311] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 64
+[2023-06-19 23:28:45.319] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 64, rtt: 8
+[2023-06-19 23:28:45.981] [89032] (connection.cpp:1028): Received inbound estimate: 12313344 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:46.431] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2023-06-19 23:28:46.439] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2023-06-19 23:28:46.587] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:46.587] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:46.587] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:28:46.982] [89032] (connection.cpp:1028): Received inbound estimate: 12313344 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:47.981] [89032] (connection.cpp:1028): Received inbound estimate: 12313344 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:48.342] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 65
+[2023-06-19 23:28:48.351] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 65, rtt: 9
+[2023-06-19 23:28:48.512] [89038] (audio_device_buffer.cc:411): [REC : 10010msec, 48kHz] callbacks: 999, samples: 479520, rate: 47904, rate diff: 0%, level: 526
+[2023-06-19 23:28:48.512] [89038] (audio_device_buffer.cc:437): [PLAY: 10010msec, 48kHz] callbacks: 1001, samples: 480480, rate: 48000, rate diff: 0%, level: 10473
+[2023-06-19 23:28:48.634] [89040] (captured_audio_processor.cpp:86): Audio frames processed: 32037, noise canceller process time: 0 [ms]
+[2023-06-19 23:28:48.634] [89040] (captured_audio_processor.cpp:97): Audio frame: 32037, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 100
+[2023-06-19 23:28:48.982] [89032] (connection.cpp:1028): Received inbound estimate: 12313344 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:49.331] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 123848, packets received: 10031, lost: 2, audio frames normal: 15186, silent: 15763, expand: 97, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:49.331] [89032] (connection.cpp:669): Inbound stats for user: 916300992612540467, audio ssrc: 123414, packets received: 215, lost: 0, audio frames normal: 376, silent: 31654, expand: 16, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:49.331] [89032] (connection.cpp:669): Inbound stats for user: 844731493023481886, audio ssrc: 122102, packets received: 885, lost: 0, audio frames normal: 1436, silent: 30474, expand: 3, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:49.331] [89032] (connection.cpp:669): Inbound stats for user: 480193139462635550, audio ssrc: 123861, packets received: 2866, lost: 1, audio frames normal: 4602, silent: 26900, expand: 28, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:49.331] [89032] (connection.cpp:669): Inbound stats for user: 487844141259161600, audio ssrc: 124427, packets received: 3124, lost: 0, audio frames normal: 5091, silent: 26136, expand: 58, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:49.331] [89032] (connection.cpp:669): Inbound stats for user: 414562442329456651, audio ssrc: 122613, packets received: 1814, lost: 0, audio frames normal: 3036, silent: 27855, expand: 26, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:49.331] [89032] (connection.cpp:669): Inbound stats for user: 550977272585256980, audio ssrc: 126334, packets received: 798, lost: 0, audio frames normal: 1322, silent: 27945, expand: 12, video ssrc: 0, packets received: 0, lost: 0, video frames received (key/delta): 0/0, decoded: 0, dropped: 0, resolution: 0 x 0, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:49.331] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:28:49.331] [89032] (connection.cpp:703):   Audio ssrc: 128559, packets sent: 6639, packets lost: 0
+[2023-06-19 23:28:49.331] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 10 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0 [bps], ssrcs: 128559: {seq: 51032, tseq: -1}, 
+[2023-06-19 23:28:49.331] [89032] (connection.cpp:823): Memory usage: 458 MB, CPU usage: 30%
+[2023-06-19 23:28:49.590] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:49.590] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:49.590] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:28:49.982] [89032] (connection.cpp:1028): Received inbound estimate: 12313344 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:50.311] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 65
+[2023-06-19 23:28:50.320] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 65, rtt: 8
+[2023-06-19 23:28:50.333] [89032] (rtp_video_stream_receiver2.cc:667): Packet received on SSRC: 110402 with payload type: 103, timestamp: 3601947002, sequence number: 28644, arrival time: 14158432, toffset: 1440, abs send time: 5423897
+[2023-06-19 23:28:50.981] [89032] (connection.cpp:1028): Received inbound estimate: 12313344 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:51.335] [89032] (connection.cpp:669): Inbound stats for user: 403451791318056970, audio ssrc: 110401, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 110402, packets received: 232023, lost: 17, video frames received (key/delta): 6/16321, decoded: 16325, dropped: 0, resolution: 1280 x 720, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2023-06-19 23:28:51.335] [89032] (connection.cpp:701): Outbound stats for user: 332854241964064770
+[2023-06-19 23:28:51.335] [89032] (connection.cpp:703):   Audio ssrc: 111873, packets sent: 10, packets lost: 0
+[2023-06-19 23:28:51.335] [89032] (connection.cpp:800): Transport stats for user: 332854241964064770, rtt: 8 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 12313344 [bps], ssrcs: 111873: {seq: 31629, tseq: -1}, 
+[2023-06-19 23:28:51.336] [89032] (connection.cpp:823): Memory usage: 433 MB, CPU usage: 53%
+[2023-06-19 23:28:51.982] [89032] (connection.cpp:1028): Received inbound estimate: 12313344 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:52.593] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:52.593] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:52.593] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:28:52.981] [89032] (connection.cpp:1028): Received inbound estimate: 12313344 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:53.341] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 66
+[2023-06-19 23:28:53.351] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 66, rtt: 9
+[2023-06-19 23:28:53.981] [89032] (connection.cpp:1028): Received inbound estimate: 12313344 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:54.981] [89032] (connection.cpp:1028): Received inbound estimate: 12313344 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:55.312] [216326] (udp_socket.cpp:898): Sending ping to 66.22.210.33:50005, seq: 66
+[2023-06-19 23:28:55.320] [89032] (socket_client.cpp:265): Ping received from 66.22.210.33:50005, seq: 66, rtt: 8
+[2023-06-19 23:28:55.596] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:55.596] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:55.596] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:28:55.981] [89032] (connection.cpp:1028): Received inbound estimate: 12313344 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:56.981] [89032] (connection.cpp:1028): Received inbound estimate: 12313344 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:57.981] [89032] (connection.cpp:1028): Received inbound estimate: 12313344 [bps], loss rate: 0 [%]
+[2023-06-19 23:28:58.181] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2023-06-19 23:28:58.188] [88984] (discord.cpp:658): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2023-06-19 23:28:58.341] [216317] (udp_socket.cpp:898): Sending ping to 66.22.208.8:50007, seq: 67
+[2023-06-19 23:28:58.351] [89032] (socket_client.cpp:265): Ping received from 66.22.208.8:50007, seq: 67, rtt: 9
+[2023-06-19 23:28:58.522] [89038] (audio_device_buffer.cc:411): [REC : 10010msec, 48kHz] callbacks: 1002, samples: 480960, rate: 48048, rate diff: 0%, level: 1107
+[2023-06-19 23:28:58.522] [89038] (audio_device_buffer.cc:437): [PLAY: 10010msec, 48kHz] callbacks: 1001, samples: 480480, rate: 48000, rate diff: 0%, level: 7389
+[2023-06-19 23:28:58.599] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:58.599] [89033] (device_info_linux.cc:45): NumberOfDevices
+[2023-06-19 23:28:58.599] [89033] (device_info_linux.cc:78): GetDeviceName
+[2023-06-19 23:28:58.639] [89040] (captured_audio_processor.cpp:86): Audio frames processed: 33036, noise canceller process time: 0 [ms]
+[2023-06-19 23:28:58.639] [89040] (captured_audio_processor.cpp:97): Audio frame: 33036, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 73

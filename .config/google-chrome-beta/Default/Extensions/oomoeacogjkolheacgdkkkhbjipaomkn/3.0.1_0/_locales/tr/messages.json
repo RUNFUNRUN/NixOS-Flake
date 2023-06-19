@@ -1,0 +1,29 @@
+{
+   "Apply": {
+      "message": "Uygulamak"
+   },
+   "AutoReload": {
+      "message": "Bu sekmeyi her:"
+   },
+   "Connecting": {
+      "message": "Sekmeye bağlanılıyor..."
+   },
+   "Inject_Error": {
+      "message": "Sekmeye bağlanırken bir hata oluştu. Lütfen sekmeyi yeniden yükleyin ve bu açılır pencereyi tekrar açın. Chrome Web Mağazası dahil birkaç özel sekmeyle çalışamayacağımızı lütfen unutmayın."
+   },
+   "NextReload": {
+      "message": "Sonraki Yeniden Yükleme:"
+   },
+   "NoReload": {
+      "message": "Otomatik Yeniden Yükleme Yok"
+   },
+   "RateUs": {
+      "message": "Bizi değerlendirin"
+   },
+   "application_description": {
+      "message": "Uygulamanın Chrome Tarayıcınızı otomatik olarak yeniden yüklemesini istediğiniz zamanı ayarlayın"
+   },
+   "application_title": {
+      "message": "Otomatik Sekme Yenileme"
+   }
+}

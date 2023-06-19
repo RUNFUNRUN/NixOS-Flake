@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "Εμπλουτίστε τα ChatGPT prompts σας με σχετικά αποτελέσματα αναζήτησης στον ιστό μέσω της περιήγησης στον ιστό."
+   },
+   "appName": {
+      "message": "WebChatGPT: ChatGPT με πρόσβαση στο διαδίκτυο"
+   },
+   "toggleWebAccess": {
+      "message": "Εναλλαγή πρόσβασης στον ιστό"
+   }
+}

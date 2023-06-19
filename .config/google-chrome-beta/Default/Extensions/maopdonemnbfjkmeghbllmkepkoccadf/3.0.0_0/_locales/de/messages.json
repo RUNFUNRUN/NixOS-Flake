@@ -1,0 +1,47 @@
+{
+   "AppDesc": {
+      "message": "It splits your browser windows into two by just 2 clicks"
+   },
+   "AppName": {
+      "message": "Dualless for Google Chrome™"
+   },
+   "DistributeTabs": {
+      "message": "Tabs auf neue Windows verteilen"
+   },
+   "HelpText": {
+      "message": "Wählen Sie aus, wie Ihre Browserfenster organisiert werden sollen"
+   },
+   "IdentifyScreens": {
+      "message": "Bildschirme identifizieren"
+   },
+   "MinimizeNote": {
+      "message": "\u003Cem>Hinweis:\u003C/em> Wenn Sie mehr Fenster als Setup haben, werden mehr Fenster minimiert."
+   },
+   "MoreInSettings": {
+      "message": "Möchten Sie mehr Setup? Fügen Sie mehr in den Einstellungen hinzu."
+   },
+   "OneScreen": {
+      "message": "1 Bildschirm"
+   },
+   "RateUs": {
+      "message": "Bewerten Sie uns"
+   },
+   "ScreenMulti": {
+      "message": "{0} Bildschirme"
+   },
+   "ScreenPrimary": {
+      "message": "Primär"
+   },
+   "Settings": {
+      "message": "die Einstellungen"
+   },
+   "SingleScreenCurrent": {
+      "message": "Den Bildschirm verwenden, in dem das aktuelle Fenster geöffnet ist"
+   },
+   "SingleScreenPrimary": {
+      "message": "Verwenden Sie den primären Bildschirm (in Ihrem Betriebssystem konfiguriert)"
+   },
+   "SingleScreenSelect": {
+      "message": "Für 1 Bildschirm-Setup"
+   }
+}

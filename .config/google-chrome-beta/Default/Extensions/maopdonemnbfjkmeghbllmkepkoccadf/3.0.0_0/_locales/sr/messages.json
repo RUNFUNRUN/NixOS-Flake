@@ -1,0 +1,47 @@
+{
+   "AppDesc": {
+      "message": "It splits your browser windows into two by just 2 clicks"
+   },
+   "AppName": {
+      "message": "Dualless for Google Chrome™"
+   },
+   "DistributeTabs": {
+      "message": "Дистрибуирајте картице међу новим Виндовсима"
+   },
+   "HelpText": {
+      "message": "Одаберите како желите да буду организовани прозори прегледача"
+   },
+   "IdentifyScreens": {
+      "message": "Идентификујте екране"
+   },
+   "MinimizeNote": {
+      "message": "\u003Cem>Напомена:\u003C/em> Ако имате више прозора од подешавања, прекорачење прозора ће бити минимизирано."
+   },
+   "MoreInSettings": {
+      "message": "Желите више подешавања? Додајте још у Подешавањима."
+   },
+   "OneScreen": {
+      "message": "1 Екран"
+   },
+   "RateUs": {
+      "message": "Оцените нас"
+   },
+   "ScreenMulti": {
+      "message": "{0} Екрани"
+   },
+   "ScreenPrimary": {
+      "message": "Примарни"
+   },
+   "Settings": {
+      "message": "Подешавања"
+   },
+   "SingleScreenCurrent": {
+      "message": "Користите екран на коме се тренутно налази прозор"
+   },
+   "SingleScreenPrimary": {
+      "message": "Користите примарни екран (конфигурисан у вашем ОС)"
+   },
+   "SingleScreenSelect": {
+      "message": "За подешавање 1 екрана"
+   }
+}

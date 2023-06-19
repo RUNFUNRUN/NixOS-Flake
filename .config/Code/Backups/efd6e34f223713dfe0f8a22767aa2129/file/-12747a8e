@@ -1,0 +1,13 @@
+file:///home/runfunrun/Downloads/hypr/rofi/shared/colors.rasi {"mtime":1685780709000,"ctime":1687161652989,"size":260,"etag":"3al2ek67p8c","orphaned":false,"typeId":""}
+/* Copyright (C) 2020-2023 Aditya Shakya <adi1090x@gmail.com> */
+
+/* Colors */
+
+* {
+    background:     #20262C;
+    background-alt: #343A40;
+    foreground:     #F1FCF9;
+    selected:       #B4A1DB;
+    active:         #74DD91;
+    urgent:         #DB86BA;
+}

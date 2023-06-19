@@ -1,0 +1,47 @@
+{
+   "AppDesc": {
+      "message": "It splits your browser windows into two by just 2 clicks"
+   },
+   "AppName": {
+      "message": "Dualless for Google Chrome™"
+   },
+   "DistributeTabs": {
+      "message": "הפצת כרטיסיות בין חלונות חדשים"
+   },
+   "HelpText": {
+      "message": "בחר כיצד ברצונך לארגן את חלונות הדפדפן שלך"
+   },
+   "IdentifyScreens": {
+      "message": "זיהוי מסכים"
+   },
+   "MinimizeNote": {
+      "message": "\u003Cem>הערה:\u003C/em> אם יש לך יותר חלונות מההגדרה, חריגה מהחלונות תמוזער."
+   },
+   "MoreInSettings": {
+      "message": "רוצה הגדרות נוספות? הוסף עוד בהגדרות."
+   },
+   "OneScreen": {
+      "message": "מסך 1"
+   },
+   "RateUs": {
+      "message": "דרג אותנו"
+   },
+   "ScreenMulti": {
+      "message": "{0} מסכים"
+   },
+   "ScreenPrimary": {
+      "message": "יְסוֹדִי"
+   },
+   "Settings": {
+      "message": "הגדרות"
+   },
+   "SingleScreenCurrent": {
+      "message": "השתמש במסך שבו נמצא החלון הנוכחי"
+   },
+   "SingleScreenPrimary": {
+      "message": "השתמש במסך הראשי (מוגדר במערכת ההפעלה שלך)"
+   },
+   "SingleScreenSelect": {
+      "message": "עבור הגדרת מסך אחד"
+   }
+}

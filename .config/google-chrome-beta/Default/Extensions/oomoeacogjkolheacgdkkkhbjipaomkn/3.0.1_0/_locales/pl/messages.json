@@ -1,0 +1,29 @@
+{
+   "Apply": {
+      "message": "Zastosować"
+   },
+   "AutoReload": {
+      "message": "Automatycznie ładuj ponownie tę kartę co:"
+   },
+   "Connecting": {
+      "message": "Łączenie z kartą..."
+   },
+   "Inject_Error": {
+      "message": "Wystąpił błąd podczas łączenia z kartą. Załaduj ponownie kartę i ponownie otwórz to wyskakujące okienko. Pamiętaj, że nie możemy pracować z kilkoma specjalnymi kartami, w tym z Chrome Webstore."
+   },
+   "NextReload": {
+      "message": "Następne przeładowanie za:"
+   },
+   "NoReload": {
+      "message": "Brak automatycznego ponownego ładowania"
+   },
+   "RateUs": {
+      "message": "Oceń nas"
+   },
+   "application_description": {
+      "message": "Ustaw czas, w którym aplikacja ma automatycznie ładować przeglądarkę Chrome"
+   },
+   "application_title": {
+      "message": "Automatyczne odświeżanie karty"
+   }
+}

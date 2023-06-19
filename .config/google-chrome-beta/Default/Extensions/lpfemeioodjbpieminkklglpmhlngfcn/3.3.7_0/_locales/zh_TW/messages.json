@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "透過網頁瀏覽，增強您的ChatGPT提示與相關網路搜尋結果。"
+   },
+   "appName": {
+      "message": "WebChatGPT：可連上網訪問互聯網的ChatGPT"
+   },
+   "toggleWebAccess": {
+      "message": "切換網路訪問"
+   }
+}

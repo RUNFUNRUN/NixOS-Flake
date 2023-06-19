@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "వెబ్ వీక్షణ ద్వారా సంబంధిత వెబ్ శోధన ఫలితాలతో మీరు ChatGPT మూడుగంటల్లో పూర్తి చేయగలరు."
+   },
+   "appName": {
+      "message": "WebChatGPT: ChatGPT with internet access"
+   },
+   "toggleWebAccess": {
+      "message": "Toggle Web Access"
+   }
+}

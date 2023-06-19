@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "வலைப்பகுதியில் வலுப்படுத்தப்பட்ட வலைத்தள தேடல் முடிவுகளுடன் ChatGPT முன்னோட்டங்களை வளர்ச்சி செய்யவும்."
+   },
+   "appName": {
+      "message": "WebChatGPT: ChatGPT with internet access"
+   },
+   "toggleWebAccess": {
+      "message": "Toggle Web Access"
+   }
+}

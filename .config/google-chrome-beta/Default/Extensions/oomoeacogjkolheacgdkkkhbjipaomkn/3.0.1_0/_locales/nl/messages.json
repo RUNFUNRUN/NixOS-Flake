@@ -1,0 +1,29 @@
+{
+   "Apply": {
+      "message": "Van toepassing zijn"
+   },
+   "AutoReload": {
+      "message": "Automatisch dit tabblad opnieuw laden elke:"
+   },
+   "Connecting": {
+      "message": "Verbinding maken met het tabblad..."
+   },
+   "Inject_Error": {
+      "message": "Er is een fout opgetreden bij het verbinden met de Tab. Laad het tabblad opnieuw en open deze pop-up opnieuw. Houd er rekening mee dat we niet kunnen werken met een paar speciale tabbladen, waaronder de Chrome Webstore."
+   },
+   "NextReload": {
+      "message": "Volgende Herladen in:"
+   },
+   "NoReload": {
+      "message": "Geen automatisch herladen"
+   },
+   "RateUs": {
+      "message": "Beoordeel ons"
+   },
+   "application_description": {
+      "message": "Stel de tijd in waarop u wilt dat de toepassing uw Chrome-browser automatisch opnieuw laadt"
+   },
+   "application_title": {
+      "message": "Tabblad automatisch vernieuwen"
+   }
+}

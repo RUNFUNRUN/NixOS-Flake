@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "Täienda oma ChatGPT kutsed asjakohaste veebiotsingutulemustega veebis sirvides."
+   },
+   "appName": {
+      "message": "WebChatGPT: ChatGPT Internetiühendusega"
+   },
+   "toggleWebAccess": {
+      "message": "Veebipääsu lülitamine"
+   }
+}

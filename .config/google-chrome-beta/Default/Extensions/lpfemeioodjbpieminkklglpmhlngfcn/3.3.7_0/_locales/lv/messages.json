@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "Uzlabojiet savas ChatGPT pamudinājumu ar atbilstošiem tīmekļa meklēšanas rezultātiem, pārlūkojot webu."
+   },
+   "appName": {
+      "message": "WebChatGPT: ChatGPT ar interneta piekļuvi"
+   },
+   "toggleWebAccess": {
+      "message": "Pārslēgt tīmekļa piekļuvi"
+   }
+}

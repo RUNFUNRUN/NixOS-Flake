@@ -1,0 +1,29 @@
+{
+   "Apply": {
+      "message": "申し込む"
+   },
+   "AutoReload": {
+      "message": "このタブを毎回自動リロードします。"
+   },
+   "Connecting": {
+      "message": "タブに接続しています..."
+   },
+   "Inject_Error": {
+      "message": "タブへの接続中にエラーが発生しました。タブをリロードして、このポップアップをもう一度開いてください。 Chromeウェブストアを含むいくつかの特別なタブでは動作しないことに注意してください。"
+   },
+   "NextReload": {
+      "message": "次のリロード："
+   },
+   "NoReload": {
+      "message": "自動リロードなし"
+   },
+   "RateUs": {
+      "message": "私たちを評価してください"
+   },
+   "application_description": {
+      "message": "アプリケーションがChromeブラウザを自動的にリロードする時間を設定します"
+   },
+   "application_title": {
+      "message": "タブの自動更新"
+   }
+}

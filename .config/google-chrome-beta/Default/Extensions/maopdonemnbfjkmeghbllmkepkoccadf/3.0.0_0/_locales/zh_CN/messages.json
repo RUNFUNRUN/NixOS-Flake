@@ -1,0 +1,47 @@
+{
+   "AppDesc": {
+      "message": "It splits your browser windows into two by just 2 clicks"
+   },
+   "AppName": {
+      "message": "Dualless for Google Chrome™"
+   },
+   "DistributeTabs": {
+      "message": "在新窗口之间分配选项卡"
+   },
+   "HelpText": {
+      "message": "选择您希望如何组织浏览器窗口"
+   },
+   "IdentifyScreens": {
+      "message": "识别屏幕"
+   },
+   "MinimizeNote": {
+      "message": "\u003Cem>注意：\u003C/em>如果您有比设置更多的窗口，超出的窗口将被最小化。"
+   },
+   "MoreInSettings": {
+      "message": "想要更多设置？在设置中添加更多。"
+   },
+   "OneScreen": {
+      "message": "1 屏幕"
+   },
+   "RateUs": {
+      "message": "评价我们"
+   },
+   "ScreenMulti": {
+      "message": "{0} 屏幕"
+   },
+   "ScreenPrimary": {
+      "message": "基本的"
+   },
+   "Settings": {
+      "message": "设置"
+   },
+   "SingleScreenCurrent": {
+      "message": "使用当前窗口所在的屏幕"
+   },
+   "SingleScreenPrimary": {
+      "message": "使用主屏幕（在您的操作系统中配置）"
+   },
+   "SingleScreenSelect": {
+      "message": "对于 1 个屏幕设置"
+   }
+}

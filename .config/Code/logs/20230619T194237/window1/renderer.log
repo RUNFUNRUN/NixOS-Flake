@@ -1,0 +1,14 @@
+2023-06-19 19:42:38.145 [error] Extension 'github.copilot' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): inlineCompletionsAdditions, terminalDataWriteEvent
+product.json (WINS): inlineCompletionsAdditions
+2023-06-19 19:42:38.169 [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+2023-06-19 19:42:38.710 [error] [Extension Host] (node:17033) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2023-06-19 19:42:40.722 [info] [perf] Render performance baseline is 15ms
+2023-06-19 19:42:48.089 [error] Extension 'github.copilot' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): inlineCompletionsAdditions, terminalDataWriteEvent
+product.json (WINS): inlineCompletionsAdditions
+2023-06-19 19:42:48.094 [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+2023-06-19 19:42:48.728 [error] [Extension Host] (node:17224) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2023-06-19 19:42:50.673 [info] [perf] Render performance baseline is 30ms

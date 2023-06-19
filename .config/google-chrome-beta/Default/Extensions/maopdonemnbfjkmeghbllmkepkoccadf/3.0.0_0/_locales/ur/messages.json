@@ -1,0 +1,47 @@
+{
+   "AppDesc": {
+      "message": "It splits your browser windows into two by just 2 clicks"
+   },
+   "AppName": {
+      "message": "Dualless for Google Chrome™"
+   },
+   "DistributeTabs": {
+      "message": "نئی ونڈوز میں ٹیبز تقسیم کریں۔"
+   },
+   "HelpText": {
+      "message": "منتخب کریں کہ آپ اپنے براؤزر کی ونڈوز کو کس طرح منظم کرنا چاہتے ہیں۔"
+   },
+   "IdentifyScreens": {
+      "message": "اسکرینوں کی شناخت کریں۔"
+   },
+   "MinimizeNote": {
+      "message": "\u003Cem>نوٹ:\u003C/em> اگر آپ کے پاس سیٹ اپ سے زیادہ ونڈوز ہیں، تو زیادہ ونڈوز کو کم سے کم کر دیا جائے گا۔"
+   },
+   "MoreInSettings": {
+      "message": "مزید سیٹ اپ چاہتے ہیں؟ ترتیبات میں مزید شامل کریں۔"
+   },
+   "OneScreen": {
+      "message": "1 اسکرین"
+   },
+   "RateUs": {
+      "message": "ہمیں درجہ دیں"
+   },
+   "ScreenMulti": {
+      "message": "{0} اسکرینز"
+   },
+   "ScreenPrimary": {
+      "message": "پرائمری"
+   },
+   "Settings": {
+      "message": "ترتیبات"
+   },
+   "SingleScreenCurrent": {
+      "message": "اسکرین کا استعمال کریں موجودہ ونڈو اندر ہے۔"
+   },
+   "SingleScreenPrimary": {
+      "message": "پرائمری اسکرین کا استعمال کریں (آپ کے OS میں تشکیل شدہ)"
+   },
+   "SingleScreenSelect": {
+      "message": "1 اسکرین سیٹ اپ کے لیے"
+   }
+}

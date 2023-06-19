@@ -1,0 +1,29 @@
+{
+   "Apply": {
+      "message": "Sol·licitar"
+   },
+   "AutoReload": {
+      "message": "Torna a carregar aquesta pestanya automàticament cada:"
+   },
+   "Connecting": {
+      "message": "S&#39;està connectant a la pestanya..."
+   },
+   "Inject_Error": {
+      "message": "S&#39;ha produït un error en connectar-se a la pestanya. Torneu a carregar la pestanya i torneu a obrir aquesta finestra emergent. Tingueu en compte que no podem treballar amb algunes pestanyes especials, inclosa Chrome Webstore."
+   },
+   "NextReload": {
+      "message": "Següent torna a carregar a:"
+   },
+   "NoReload": {
+      "message": "Sense recàrrega automàtica"
+   },
+   "RateUs": {
+      "message": "Puntua&#39;ns"
+   },
+   "application_description": {
+      "message": "Definiu l&#39;hora en què voleu que l&#39;aplicació torni a carregar automàticament el vostre navegador Chrome"
+   },
+   "application_title": {
+      "message": "Actualitza automàtica de la pestanya"
+   }
+}

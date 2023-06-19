@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "वेबच्या ब्राउझिंगद्वारे आपल्या ChatGPT प्रॉम्प्टवर संबंधित वेब शोध निकालांसह वाढवा."
+   },
+   "appName": {
+      "message": "WebChatGPT: इंटरनेट प्रवेशासह ChatGPT"
+   },
+   "toggleWebAccess": {
+      "message": "Toggle Web Access"
+   }
+}

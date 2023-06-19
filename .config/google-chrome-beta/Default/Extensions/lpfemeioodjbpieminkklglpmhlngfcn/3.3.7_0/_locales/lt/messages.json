@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "Sustiprinkite savo ChatGPT paskatas su tinkamais interneto paieškos rezultatais, naršydami internete."
+   },
+   "appName": {
+      "message": "WebChatGPT: ChatGPT su interneto prieiga"
+   },
+   "toggleWebAccess": {
+      "message": "Perjungti interneto prieigą"
+   }
+}

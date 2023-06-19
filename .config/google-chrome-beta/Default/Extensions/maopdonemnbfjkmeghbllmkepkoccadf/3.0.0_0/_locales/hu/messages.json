@@ -1,0 +1,47 @@
+{
+   "AppDesc": {
+      "message": "It splits your browser windows into two by just 2 clicks"
+   },
+   "AppName": {
+      "message": "Dualless for Google Chrome™"
+   },
+   "DistributeTabs": {
+      "message": "Lapok elosztása az új Windowsok között"
+   },
+   "HelpText": {
+      "message": "Válassza ki, hogyan szeretné elrendezni a böngészőablakokat"
+   },
+   "IdentifyScreens": {
+      "message": "Képernyők azonosítása"
+   },
+   "MinimizeNote": {
+      "message": "\u003Cem>Megjegyzés:\u003C/em> Ha több ablaka van, mint beállított, a túllépő ablakok minimálisra csökkennek."
+   },
+   "MoreInSettings": {
+      "message": "További beállításokat szeretne? Adjon hozzá többet a Beállításokban."
+   },
+   "OneScreen": {
+      "message": "1 Képernyő"
+   },
+   "RateUs": {
+      "message": "Értékelj minket"
+   },
+   "ScreenMulti": {
+      "message": "{0} Képernyők"
+   },
+   "ScreenPrimary": {
+      "message": "Elsődleges"
+   },
+   "Settings": {
+      "message": "Beállítások"
+   },
+   "SingleScreenCurrent": {
+      "message": "Használja az aktuális ablakot"
+   },
+   "SingleScreenPrimary": {
+      "message": "Az elsődleges képernyő használata (az operációs rendszerben konfigurálva)"
+   },
+   "SingleScreenSelect": {
+      "message": "1 képernyő beállításához"
+   }
+}

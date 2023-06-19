@@ -1,0 +1,29 @@
+{
+   "Apply": {
+      "message": "platiť"
+   },
+   "AutoReload": {
+      "message": "Automaticky znovu načítať túto kartu vždy:"
+   },
+   "Connecting": {
+      "message": "Pripája sa ku karte..."
+   },
+   "Inject_Error": {
+      "message": "Pri pripájaní ku karte sa vyskytla chyba. Znova načítajte kartu a znova otvorte toto kontextové okno. Upozorňujeme, že nemôžeme pracovať s niekoľkými špeciálnymi kartami vrátane Internetového obchodu Chrome."
+   },
+   "NextReload": {
+      "message": "Ďalšie Načítať za:"
+   },
+   "NoReload": {
+      "message": "Žiadne automatické opätovné načítanie"
+   },
+   "RateUs": {
+      "message": "Ohodnoť nás"
+   },
+   "application_description": {
+      "message": "Nastavte čas, kedy má aplikácia automaticky znova načítať váš prehliadač Chrome"
+   },
+   "application_title": {
+      "message": "Karta Automatické obnovenie"
+   }
+}

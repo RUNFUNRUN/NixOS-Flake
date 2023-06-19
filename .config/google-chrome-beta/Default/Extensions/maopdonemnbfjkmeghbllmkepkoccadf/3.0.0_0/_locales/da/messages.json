@@ -1,0 +1,47 @@
+{
+   "AppDesc": {
+      "message": "It splits your browser windows into two by just 2 clicks"
+   },
+   "AppName": {
+      "message": "Dualless for Google Chrome™"
+   },
+   "DistributeTabs": {
+      "message": "Fordel faner blandt nye Windows"
+   },
+   "HelpText": {
+      "message": "Vælg, hvordan du ønsker, at dine browservinduer skal organiseres"
+   },
+   "IdentifyScreens": {
+      "message": "Identificer skærme"
+   },
+   "MinimizeNote": {
+      "message": "\u003Cem>Bemærk:\u003C/em> Hvis du har flere vinduer end opsætning, vil overskridelse af vinduer blive minimeret."
+   },
+   "MoreInSettings": {
+      "message": "Vil du have mere opsætning? Tilføj flere i Indstillinger."
+   },
+   "OneScreen": {
+      "message": "1 skærm"
+   },
+   "RateUs": {
+      "message": "Bedøm os"
+   },
+   "ScreenMulti": {
+      "message": "{0} skærme"
+   },
+   "ScreenPrimary": {
+      "message": "Primær"
+   },
+   "Settings": {
+      "message": "Indstillinger"
+   },
+   "SingleScreenCurrent": {
+      "message": "Brug den skærm, det aktuelle vindue er i"
+   },
+   "SingleScreenPrimary": {
+      "message": "Brug den primære skærm (konfigureret i dit OS)"
+   },
+   "SingleScreenSelect": {
+      "message": "Til 1 skærmopsætning"
+   }
+}

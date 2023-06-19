@@ -1,0 +1,47 @@
+{
+   "AppDesc": {
+      "message": "It splits your browser windows into two by just 2 clicks"
+   },
+   "AppName": {
+      "message": "Dualless for Google Chrome™"
+   },
+   "DistributeTabs": {
+      "message": "Edarkan Tab di antara Windows baharu"
+   },
+   "HelpText": {
+      "message": "Pilih cara anda mahu tetingkap penyemak imbas anda disusun"
+   },
+   "IdentifyScreens": {
+      "message": "Kenal pasti Skrin"
+   },
+   "MinimizeNote": {
+      "message": "\u003Cem>Nota:\u003C/em> Jika anda mempunyai lebih banyak tetingkap daripada persediaan, melebihi tetingkap akan diminimumkan."
+   },
+   "MoreInSettings": {
+      "message": "Inginkan lebih banyak Persediaan? Tambahkan lagi dalam Tetapan."
+   },
+   "OneScreen": {
+      "message": "1 Skrin"
+   },
+   "RateUs": {
+      "message": "Nilaikan Kami"
+   },
+   "ScreenMulti": {
+      "message": "{0} Skrin"
+   },
+   "ScreenPrimary": {
+      "message": "utama"
+   },
+   "Settings": {
+      "message": "Tetapan"
+   },
+   "SingleScreenCurrent": {
+      "message": "Gunakan tetingkap semasa skrin masuk"
+   },
+   "SingleScreenPrimary": {
+      "message": "Gunakan skrin Utama (dikonfigurasikan dalam OS anda)"
+   },
+   "SingleScreenSelect": {
+      "message": "Untuk 1 Persediaan Skrin"
+   }
+}

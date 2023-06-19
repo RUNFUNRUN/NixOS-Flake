@@ -1,0 +1,47 @@
+{
+   "AppDesc": {
+      "message": "It splits your browser windows into two by just 2 clicks"
+   },
+   "AppName": {
+      "message": "Dualless for Google Chrome™"
+   },
+   "DistributeTabs": {
+      "message": "Distribuirajte kartice među novim Windowsima"
+   },
+   "HelpText": {
+      "message": "Odaberite kako želite da prozori preglednika budu organizirani"
+   },
+   "IdentifyScreens": {
+      "message": "Identificirajte zaslone"
+   },
+   "MinimizeNote": {
+      "message": "\u003Cem>Napomena:\u003C/em> Ako imate više prozora nego što je postavljeno, prekoračenje prozora bit će minimizirano."
+   },
+   "MoreInSettings": {
+      "message": "Želite više podešavanja? Dodajte još u Postavkama."
+   },
+   "OneScreen": {
+      "message": "1 Zaslon"
+   },
+   "RateUs": {
+      "message": "Ocijeni nas"
+   },
+   "ScreenMulti": {
+      "message": "{0} Zasloni"
+   },
+   "ScreenPrimary": {
+      "message": "Primarni"
+   },
+   "Settings": {
+      "message": "postavke"
+   },
+   "SingleScreenCurrent": {
+      "message": "Koristite zaslon na kojem se trenutno nalazi prozor"
+   },
+   "SingleScreenPrimary": {
+      "message": "Koristite primarni zaslon (konfiguriran u vašem OS-u)"
+   },
+   "SingleScreenSelect": {
+      "message": "Za postavljanje 1 zaslona"
+   }
+}

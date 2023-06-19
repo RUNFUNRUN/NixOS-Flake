@@ -1,0 +1,47 @@
+{
+   "AppDesc": {
+      "message": "It splits your browser windows into two by just 2 clicks"
+   },
+   "AppName": {
+      "message": "Dualless for Google Chrome™"
+   },
+   "DistributeTabs": {
+      "message": "Rozdeľte karty medzi nové Windows"
+   },
+   "HelpText": {
+      "message": "Vyberte, ako chcete usporiadať okná prehliadača"
+   },
+   "IdentifyScreens": {
+      "message": "Identifikujte obrazovky"
+   },
+   "MinimizeNote": {
+      "message": "\u003Cem>Poznámka:\u003C/em> Ak máte viac okien, ako je nastavenie, presahujúce okná budú minimalizované."
+   },
+   "MoreInSettings": {
+      "message": "Chcete viac nastavení? Pridajte ďalšie v Nastaveniach."
+   },
+   "OneScreen": {
+      "message": "1 Obrazovka"
+   },
+   "RateUs": {
+      "message": "Ohodnoť nás"
+   },
+   "ScreenMulti": {
+      "message": "{0} obrazoviek"
+   },
+   "ScreenPrimary": {
+      "message": "Primárny"
+   },
+   "Settings": {
+      "message": "nastavenie"
+   },
+   "SingleScreenCurrent": {
+      "message": "Použite aktuálne okno obrazovky"
+   },
+   "SingleScreenPrimary": {
+      "message": "Použite primárnu obrazovku (nakonfigurovanú vo vašom OS)"
+   },
+   "SingleScreenSelect": {
+      "message": "Pre nastavenie 1 obrazovky"
+   }
+}

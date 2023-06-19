@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "Millora els teus prompts de ChatGPT amb resultats rellevants de cerca web a través de la navegació web."
+   },
+   "appName": {
+      "message": "WebChatGPT: ChatGPT amb accés a internet"
+   },
+   "toggleWebAccess": {
+      "message": "Commuta l'accés a la web"
+   }
+}

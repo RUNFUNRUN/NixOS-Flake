@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "Uvećajte svoje ChatGPT upute s relevantnim rezultatima web pretrage putem web pregledavanja."
+   },
+   "appName": {
+      "message": "WebChatGPT: ChatGPT s pristupom internetu"
+   },
+   "toggleWebAccess": {
+      "message": "Prebacivanje pristupa webu"
+   }
+}

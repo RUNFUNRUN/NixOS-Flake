@@ -1,0 +1,62 @@
+﻿<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="libs/bootstrap.min.css">
+    <link rel="stylesheet" href="css/popup.min.css" />
+
+    <title></title>
+</head>
+
+<body>
+    <div class="p-2">
+        <a target="_blank" class="btn btn-outline-warning btn-rate me-3" data-loc="RateUs"></a>
+        <span class="lbl-next-reload">
+            <span data-loc="NextReload"></span>
+            <span class="lbl-next-reload-time"></span>
+        </span>
+    </div>
+
+    <hr class="my-1" />
+
+    <section class="p-2">
+        <p data-loc="AutoReload"></p>
+
+        <list-timer class="list-timer">
+            <template class="template-timer">
+                <div class="item-timer row align-items-center">
+                    <div class="col-auto text-success">
+                        <span class="active-mark invisible">✓</span>
+                    </div>
+                    <div class="col value"></div>
+                </div>
+            </template>
+            <template class="template-custom-input">
+                <form class="frm-custom">
+                    <div class="input-group">
+                        <input type="number" min="0" max="99999" value="0" class="form-control txt-min" />
+                        <span class="input-group-text">m</span>
+                        <input type="number" min="0" max="59" value="25" class="form-control txt-sec" />
+                        <span class="input-group-text">s</span>
+                        <button class="btn btn-outline-primary btn-sm btn-force-custom">
+                            ✓
+                        </button>
+                    </div>
+                </form>
+            </template>
+        </list-timer>
+
+        <button class="btn btn-primary btn-apply w-100" data-loc="Apply"></button>
+
+    </section>
+
+    <section class="page-cover" data-loc="Connecting"></section>
+
+    <script type="module" src="js/common.js"></script>
+    <script type="module" src="js/popup.js"></script>
+</body>
+
+</html>

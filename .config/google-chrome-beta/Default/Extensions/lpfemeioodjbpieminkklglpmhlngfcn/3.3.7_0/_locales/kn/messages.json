@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "ವೆಬ್ ಬ್ರೌಝಿಂಗ್ ಮೂಲಕ ಸಂಬಂಧಿತ ವೆಬ್ ಹುಡಿಕು ಫಲಿತಾಂಶಗಳನ್ನು ಹೊಂದಿಸಿ, ನಿಮ್ಮ ChatGPT ಪ್ರಾಂಪ್ಟ್‌ಗಳನ್ನು ಸುಧಾರಿಸಿ."
+   },
+   "appName": {
+      "message": "WebChatGPT: ChatGPT with internet access"
+   },
+   "toggleWebAccess": {
+      "message": "Toggle Web Access"
+   }
+}

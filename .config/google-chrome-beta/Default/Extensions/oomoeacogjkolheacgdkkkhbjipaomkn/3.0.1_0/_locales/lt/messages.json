@@ -1,0 +1,29 @@
+{
+   "Apply": {
+      "message": "Taikyti"
+   },
+   "AutoReload": {
+      "message": "Automatiškai iš naujo įkelti šį skirtuką kas:"
+   },
+   "Connecting": {
+      "message": "Prisijungiama prie skirtuko..."
+   },
+   "Inject_Error": {
+      "message": "Prisijungiant prie skirtuko įvyko klaida. Iš naujo įkelkite skirtuką ir vėl atidarykite šį iššokantįjį langą. Atminkite, kad negalime dirbti su keliais specialiais skirtukais, įskaitant „Chrome“ internetinę parduotuvę."
+   },
+   "NextReload": {
+      "message": "Kitas įkėlimas iš naujo:"
+   },
+   "NoReload": {
+      "message": "Nėra automatinio perkrovimo"
+   },
+   "RateUs": {
+      "message": "Įvertinkite mus"
+   },
+   "application_description": {
+      "message": "Nustatykite laiką, kada programa automatiškai iš naujo įkeltų „Chrome“ naršyklę"
+   },
+   "application_title": {
+      "message": "Skirtukas Automatinis atnaujinimas"
+   }
+}

@@ -1,0 +1,47 @@
+{
+   "AppDesc": {
+      "message": "It splits your browser windows into two by just 2 clicks"
+   },
+   "AppName": {
+      "message": "Dualless for Google Chrome™"
+   },
+   "DistributeTabs": {
+      "message": "Distribuera flikar bland nya Windows"
+   },
+   "HelpText": {
+      "message": "Välj hur du vill att dina webbläsarfönster ska organiseras"
+   },
+   "IdentifyScreens": {
+      "message": "Identifiera skärmar"
+   },
+   "MinimizeNote": {
+      "message": "\u003Cem>Obs:\u003C/em> Om du har fler fönster än vad som är inställt, kommer fler fönster att minimeras."
+   },
+   "MoreInSettings": {
+      "message": "Vill du ha fler inställningar? Lägg till mer i Inställningar."
+   },
+   "OneScreen": {
+      "message": "1 Skärm"
+   },
+   "RateUs": {
+      "message": "Gradera oss"
+   },
+   "ScreenMulti": {
+      "message": "{0} Skärmar"
+   },
+   "ScreenPrimary": {
+      "message": "Primär"
+   },
+   "Settings": {
+      "message": "inställningar"
+   },
+   "SingleScreenCurrent": {
+      "message": "Använd skärmen som det aktuella fönstret är i"
+   },
+   "SingleScreenPrimary": {
+      "message": "Använd den primära skärmen (konfigurerad i ditt operativsystem)"
+   },
+   "SingleScreenSelect": {
+      "message": "För 1 skärminställning"
+   }
+}

@@ -1,0 +1,29 @@
+{
+   "Apply": {
+      "message": "Aplikovat"
+   },
+   "AutoReload": {
+      "message": "Automaticky znovu načíst tuto kartu vždy:"
+   },
+   "Connecting": {
+      "message": "Připojování ke kartě..."
+   },
+   "Inject_Error": {
+      "message": "Při připojování ke kartě došlo k chybě. Znovu načtěte kartu a znovu otevřete toto vyskakovací okno. Upozorňujeme, že nemůžeme pracovat s několika speciálními kartami, včetně Internetového obchodu Chrome."
+   },
+   "NextReload": {
+      "message": "Další Znovu načíst za:"
+   },
+   "NoReload": {
+      "message": "Žádné automatické opětovné načítání"
+   },
+   "RateUs": {
+      "message": "Ohodnoťte nás"
+   },
+   "application_description": {
+      "message": "Nastavte čas, kdy má aplikace automaticky znovu načíst váš prohlížeč Chrome"
+   },
+   "application_title": {
+      "message": "Karta Automatické aktualizace"
+   }
+}

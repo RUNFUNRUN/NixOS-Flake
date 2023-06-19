@@ -1,0 +1,29 @@
+{
+   "Apply": {
+      "message": "应用"
+   },
+   "AutoReload": {
+      "message": "每次自动重新加载此选项卡："
+   },
+   "Connecting": {
+      "message": "正在连接到选项卡..."
+   },
+   "Inject_Error": {
+      "message": "连接到选项卡时出错。请重新加载选项卡并再次打开此弹出窗口。请注意，我们无法使用包括 Chrome Webstore 在内的一些特殊标签。"
+   },
+   "NextReload": {
+      "message": "下一次重新加载："
+   },
+   "NoReload": {
+      "message": "没有自动重新加载"
+   },
+   "RateUs": {
+      "message": "评价我们"
+   },
+   "application_description": {
+      "message": "设置您希望应用程序自动重新加载 Chrome 浏览器的时间"
+   },
+   "application_title": {
+      "message": "标签自动刷新"
+   }
+}

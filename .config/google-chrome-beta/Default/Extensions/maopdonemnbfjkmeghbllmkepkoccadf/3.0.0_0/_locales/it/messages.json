@@ -1,0 +1,47 @@
+{
+   "AppDesc": {
+      "message": "It splits your browser windows into two by just 2 clicks"
+   },
+   "AppName": {
+      "message": "Dualless for Google Chrome™"
+   },
+   "DistributeTabs": {
+      "message": "Distribuisci le schede tra le nuove finestre"
+   },
+   "HelpText": {
+      "message": "Scegli come vuoi che le finestre del tuo browser siano organizzate"
+   },
+   "IdentifyScreens": {
+      "message": "Identifica gli schermi"
+   },
+   "MinimizeNote": {
+      "message": "\u003Cem>Nota:\u003C/em> se hai più finestre di quelle impostate, le finestre in eccesso verranno ridotte a icona."
+   },
+   "MoreInSettings": {
+      "message": "Vuoi più configurazione? Aggiungi altro in Impostazioni."
+   },
+   "OneScreen": {
+      "message": "1 schermo"
+   },
+   "RateUs": {
+      "message": "Valutaci"
+   },
+   "ScreenMulti": {
+      "message": "{0} Schermi"
+   },
+   "ScreenPrimary": {
+      "message": "Primario"
+   },
+   "Settings": {
+      "message": "impostazioni"
+   },
+   "SingleScreenCurrent": {
+      "message": "Usa lo schermo in cui si trova la finestra corrente"
+   },
+   "SingleScreenPrimary": {
+      "message": "Usa la schermata principale (configurata nel tuo sistema operativo)"
+   },
+   "SingleScreenSelect": {
+      "message": "Per 1 configurazione dello schermo"
+   }
+}

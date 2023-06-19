@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "Mejora tus indicaciones de ChatGPT con resultados relevantes de búsqueda web a través de la navegación web."
+   },
+   "appName": {
+      "message": "WebChatGPT: ChatGPT con acceso a internet"
+   },
+   "toggleWebAccess": {
+      "message": "Alternar acceso web"
+   }
+}

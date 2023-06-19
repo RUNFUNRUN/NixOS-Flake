@@ -1,0 +1,47 @@
+{
+   "AppDesc": {
+      "message": "It splits your browser windows into two by just 2 clicks"
+   },
+   "AppName": {
+      "message": "Dualless for Google Chrome™"
+   },
+   "DistributeTabs": {
+      "message": "Izplatiet cilnes starp jaunajām Windows"
+   },
+   "HelpText": {
+      "message": "Izvēlieties, kā vēlaties sakārtot pārlūkprogrammas logus"
+   },
+   "IdentifyScreens": {
+      "message": "Identificējiet ekrānus"
+   },
+   "MinimizeNote": {
+      "message": "\u003Cem>Piezīme.\u003C/em> Ja jums ir vairāk logu nekā iestatīts, logu pārsniegšana tiks samazināta līdz minimumam."
+   },
+   "MoreInSettings": {
+      "message": "Vai vēlaties vairāk iestatīšanas? Pievienojiet vairāk sadaļā Iestatījumi."
+   },
+   "OneScreen": {
+      "message": "1 Ekrāns"
+   },
+   "RateUs": {
+      "message": "Novērtē mūs"
+   },
+   "ScreenMulti": {
+      "message": "{0} ekrāni"
+   },
+   "ScreenPrimary": {
+      "message": "Primārs"
+   },
+   "Settings": {
+      "message": "Iestatījumi"
+   },
+   "SingleScreenCurrent": {
+      "message": "Izmantojiet ekrāna pašreizējo logu"
+   },
+   "SingleScreenPrimary": {
+      "message": "Izmantojiet primāro ekrānu (konfigurēts jūsu operētājsistēmā)"
+   },
+   "SingleScreenSelect": {
+      "message": "1 ekrāna iestatīšanai"
+   }
+}

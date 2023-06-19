@@ -1,0 +1,47 @@
+{
+   "AppDesc": {
+      "message": "It splits your browser windows into two by just 2 clicks"
+   },
+   "AppName": {
+      "message": "Dualless for Google Chrome™"
+   },
+   "DistributeTabs": {
+      "message": "Jagage vahekaarte uute Windowsi vahel"
+   },
+   "HelpText": {
+      "message": "Valige, kuidas soovite oma brauseriaknaid korraldada"
+   },
+   "IdentifyScreens": {
+      "message": "Ekraanide tuvastamine"
+   },
+   "MinimizeNote": {
+      "message": "\u003Cem>Märkus.\u003C/em> Kui teil on rohkem aknaid kui seadistatud, minimeeritakse akende ületamine."
+   },
+   "MoreInSettings": {
+      "message": "Kas soovite rohkem seadistusi? Lisage seadetes rohkem."
+   },
+   "OneScreen": {
+      "message": "1 ekraan"
+   },
+   "RateUs": {
+      "message": "Hinda meid"
+   },
+   "ScreenMulti": {
+      "message": "{0} ekraanid"
+   },
+   "ScreenPrimary": {
+      "message": "Esmane"
+   },
+   "Settings": {
+      "message": "Seaded"
+   },
+   "SingleScreenCurrent": {
+      "message": "Kasuta ekraani praegune aken on sees"
+   },
+   "SingleScreenPrimary": {
+      "message": "Kasutage esmast ekraani (konfigureeritud teie OS-is)"
+   },
+   "SingleScreenSelect": {
+      "message": "1 ekraani seadistamiseks"
+   }
+}

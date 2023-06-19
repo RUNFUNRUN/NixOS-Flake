@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "زيادة حوافزك في ChatGPT مع نتائج بحث الويب ذات الصلة من خلال تصفح الويب."
+   },
+   "appName": {
+      "message": "WebChatGPT: ChatGPT مع وصول إلى الإنترنت"
+   },
+   "toggleWebAccess": {
+      "message": "تبديل الوصول إلى الويب"
+   }
+}

@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "Vahvista ChatGPT-kysymyksiäsi liittyvillä verkkohaun tuloksilla verkkoselailun kautta."
+   },
+   "appName": {
+      "message": "WebChatGPT: ChatGPT, jolla on internet-yhteys"
+   },
+   "toggleWebAccess": {
+      "message": "Vaihda verkkopääsy"
+   }
+}

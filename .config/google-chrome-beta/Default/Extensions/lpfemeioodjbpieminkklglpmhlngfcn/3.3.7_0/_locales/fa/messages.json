@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "از طریق مرور وب، دستورهای ChatGPT خود را با نتایج جستجوی وب مرتبط تقویت کنید."
+   },
+   "appName": {
+      "message": "WebChatGPT: ChatGPT با دسترسی به اینترنت"
+   },
+   "toggleWebAccess": {
+      "message": "Toggle Web Access"
+   }
+}

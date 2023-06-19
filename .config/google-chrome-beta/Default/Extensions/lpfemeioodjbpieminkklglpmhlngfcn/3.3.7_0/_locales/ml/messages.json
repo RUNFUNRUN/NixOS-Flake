@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "വെബ് ബ്രൗസിംഗ് വഴിയും പ്രസക്ത വെബ് സേർച്ച് ഫലങ്ങൾക്കും ആപ്പുകൾക്ക് നല്ല പരിഹാരം നൽകുക."
+   },
+   "appName": {
+      "message": "WebChatGPT: ChatGPT with internet access"
+   },
+   "toggleWebAccess": {
+      "message": "Toggle Web Access"
+   }
+}

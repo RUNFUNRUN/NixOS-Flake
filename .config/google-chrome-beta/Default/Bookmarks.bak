@@ -1,0 +1,383 @@
+{
+   "checksum": "11647874cbccc055926c73e30f325f42",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13272558401578322",
+            "date_last_used": "13331644477860095",
+            "guid": "57bc2f53-7c31-425b-b29c-ddd2ca4de7a3",
+            "id": "5",
+            "name": "ホーム / Twitter",
+            "type": "url",
+            "url": "https://twitter.com/home"
+         }, {
+            "date_added": "13227174033033129",
+            "date_last_used": "13331655912421754",
+            "guid": "3ba322da-a4da-4f5f-91d5-98995274ed8c",
+            "id": "6",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13275515031047064",
+            "date_last_used": "13331654975034161",
+            "guid": "ef33a5cf-12d5-4607-82c0-7559af31df54",
+            "id": "7",
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13330092738341578",
+            "date_last_used": "13331645318526635",
+            "guid": "22b2d5a8-73eb-4fe5-95c2-acaca4be165d",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ChatGPT",
+            "type": "url",
+            "url": "https://chat.openai.com/"
+         }, {
+            "date_added": "13278346541443875",
+            "date_last_used": "13331445423306633",
+            "guid": "c8fa9233-f341-436d-9599-c538d0b4b8c6",
+            "id": "9",
+            "name": "Slack",
+            "type": "url",
+            "url": "https://app.slack.com/client/"
+         }, {
+            "date_added": "13251204152501413",
+            "date_last_used": "13331586982657438",
+            "guid": "cb777f2e-d146-442d-aba1-f5ddb574f9e7",
+            "id": "10",
+            "name": "Black board",
+            "type": "url",
+            "url": "https://nuchs.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_1_1"
+         }, {
+            "date_added": "13251204160672839",
+            "date_last_used": "13330275327826542",
+            "guid": "caf0f097-7bef-44eb-9a8d-aff48ea1686b",
+            "id": "11",
+            "name": "ポータルサイト",
+            "type": "url",
+            "url": "http://portal.educ.chs.nihon-u.ac.jp/"
+         }, {
+            "date_added": "13239642485767508",
+            "date_last_used": "13331576849231384",
+            "guid": "02d7fe92-b9dc-44ad-bc25-129354c4a81d",
+            "id": "12",
+            "name": "DeepL",
+            "type": "url",
+            "url": "https://www.deepl.com/home"
+         }, {
+            "date_added": "13242766907509081",
+            "date_last_used": "13331644509776860",
+            "guid": "51c35882-0094-4b30-ad25-3382d143ef2b",
+            "id": "13",
+            "name": "文字数カウント",
+            "type": "url",
+            "url": "https://phonypianist.sakura.ne.jp/convenienttool/strcount.html"
+         }, {
+            "date_added": "13251237681387451",
+            "date_last_used": "0",
+            "guid": "cf94bb21-90d4-49ab-b65f-df6d3c74ddd1",
+            "id": "14",
+            "name": "アマゾン: Amazon | 本, ファッション, 家電から食品までwww.amazon.co.jp",
+            "type": "url",
+            "url": "https://www.amazon.co.jp/"
+         }, {
+            "date_added": "13244476586683571",
+            "date_last_used": "0",
+            "guid": "2e5c9bcc-3234-4294-8f62-2fd331714925",
+            "id": "15",
+            "name": "無料大容量 ファイル転送サービス GigaFile(ギガファイル)便",
+            "type": "url",
+            "url": "https://gigafile.nu/"
+         }, {
+            "date_added": "13272558458538391",
+            "date_last_used": "13331640097246291",
+            "guid": "c70154b9-8bb5-4294-a119-3e5185ae0243",
+            "id": "16",
+            "name": "Twitch",
+            "type": "url",
+            "url": "https://www.twitch.tv/"
+         }, {
+            "date_added": "13329933273962161",
+            "date_last_used": "0",
+            "guid": "a4608514-4ab3-4744-8979-e8c492c67eb2",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Tailwind CSS Cheat Sheet",
+            "type": "url",
+            "url": "https://tailwindcomponents.com/cheatsheet/"
+         }, {
+            "date_added": "13310405359032274",
+            "date_last_used": "13328484931537775",
+            "guid": "a15a1492-6e51-4221-95d6-89753178f4b9",
+            "id": "18",
+            "name": "Qiita",
+            "type": "url",
+            "url": "https://qiita.com/"
+         }, {
+            "date_added": "13330207547020600",
+            "date_last_used": "13331587376610364",
+            "guid": "1683ca7a-f034-4e3e-a680-fe3b870a479b",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Zenn",
+            "type": "url",
+            "url": "https://zenn.dev/"
+         }, {
+            "date_added": "13257100413038965",
+            "date_last_used": "0",
+            "guid": "f838b00b-1d26-4c3f-807c-478c2eb6f55b",
+            "id": "20",
+            "name": "dアニメストア | 初めての方は初月無料のアニメ見放題サイト！",
+            "type": "url",
+            "url": "https://anime.dmkt-sp.jp/animestore/tp_pc"
+         }, {
+            "date_added": "13242926576599892",
+            "date_last_used": "13329389583457923",
+            "guid": "df01f705-f06d-4daa-886f-708df3f20d27",
+            "id": "21",
+            "name": "miwa official website",
+            "type": "url",
+            "url": "https://www.miwa-web.com/"
+         }, {
+            "date_added": "13251204139543634",
+            "date_last_used": "0",
+            "guid": "5b517b2f-b626-4b18-b98a-19a6f2d5af4f",
+            "id": "22",
+            "name": "amazon prime video",
+            "type": "url",
+            "url": "https://www.amazon.co.jp/Prime-Video/b?ie=UTF8&node=3535604051"
+         }, {
+            "date_added": "13278162887244123",
+            "date_last_used": "13330207438586359",
+            "guid": "f3e64cff-869b-4fb6-967b-5e37a618a6e0",
+            "id": "23",
+            "name": "Instagram",
+            "type": "url",
+            "url": "https://www.instagram.com/"
+         }, {
+            "date_added": "13309715654150792",
+            "date_last_used": "13330207439404598",
+            "guid": "eabbcf67-a0a9-4616-8513-fad0143f11c4",
+            "id": "24",
+            "name": "AWS Management Console",
+            "type": "url",
+            "url": "https://ap-northeast-1.console.aws.amazon.com/"
+         }, {
+            "date_added": "13325220664914135",
+            "date_last_used": "0",
+            "guid": "4e6b2f19-8b1c-4cf1-84c4-c85cd2f7e2e5",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Code Translator",
+            "type": "url",
+            "url": "https://ai-code-translator.vercel.app/"
+         }, {
+            "date_added": "13286134059843746",
+            "date_last_used": "0",
+            "guid": "dc6860fb-db4f-4a31-a06b-3d567952b95e",
+            "id": "26",
+            "name": "インターネットでタイピング練習 イータイピング | e-typing ローマ字タイピング",
+            "type": "url",
+            "url": "https://www.e-typing.ne.jp/member/"
+         }, {
+            "date_added": "13251204165567396",
+            "date_last_used": "0",
+            "guid": "ab36efaf-f0dc-4743-ad82-4f17e0a5c81f",
+            "id": "27",
+            "name": "Disney +",
+            "type": "url",
+            "url": "https://disneyplus.disney.co.jp/view/#!/"
+         }, {
+            "date_added": "13251204133525042",
+            "date_last_used": "0",
+            "guid": "d41a0b56-24f3-4ab3-a1bc-8fb78d24d1ba",
+            "id": "28",
+            "name": "Netflix",
+            "type": "url",
+            "url": "https://www.netflix.com/"
+         }, {
+            "date_added": "13328462590039945",
+            "date_last_used": "0",
+            "guid": "492c7d49-995e-4db7-8d7d-56cc38a6b690",
+            "id": "29",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "microCMS",
+            "type": "url",
+            "url": "https://app.microcms.io/"
+         }, {
+            "date_added": "13262400269113557",
+            "date_last_used": "0",
+            "guid": "62a8c5f3-5a23-4f21-98c3-49628a264a48",
+            "id": "30",
+            "name": "Uniprove/AS:ログイン",
+            "type": "url",
+            "url": "https://www-as1.chs.nihon-u.ac.jp/uniasv2/UnSSOLoginControl2"
+         }, {
+            "date_added": "13240655439741491",
+            "date_last_used": "0",
+            "guid": "c90b5311-ac47-4fe7-bf8c-f08dee212fa7",
+            "id": "31",
+            "name": "Wolfram|Alpha 日本語版：計算知能",
+            "type": "url",
+            "url": "https://ja.wolframalpha.com/"
+         }, {
+            "date_added": "13249523149080710",
+            "date_last_used": "0",
+            "guid": "12149eb5-470b-45e8-95b4-59daed48acec",
+            "id": "32",
+            "name": "LaTeX",
+            "type": "url",
+            "url": "https://cloudlatex.io/projects"
+         }, {
+            "date_added": "13275490834391489",
+            "date_last_used": "0",
+            "guid": "3e14223f-b11e-434c-84ed-f0518122d44f",
+            "id": "33",
+            "name": "コース一覧 | プログラミングの入門なら基礎から学べるProgate[プロゲート]",
+            "type": "url",
+            "url": "https://prog-8.com/courses"
+         }, {
+            "date_added": "13275745984778131",
+            "date_last_used": "0",
+            "guid": "82e02854-6b8d-429c-a4c5-363a14e11bf9",
+            "id": "34",
+            "name": "Discord StreamKit Overlay",
+            "type": "url",
+            "url": "https://streamkit.discord.com/overlay"
+         }, {
+            "date_added": "13279340303618116",
+            "date_last_used": "0",
+            "guid": "e859ba3a-98ce-48ce-a872-8db9c2e98a87",
+            "id": "35",
+            "name": "Get Started - default (Workspace) - Visual Studio Code",
+            "type": "url",
+            "url": "https://vscode.dev/"
+         }, {
+            "date_added": "13280080561256019",
+            "date_last_used": "0",
+            "guid": "200dbad6-978a-4c1e-846f-a7102d8aa4a6",
+            "id": "36",
+            "name": "ポーカーチェイス",
+            "type": "url",
+            "url": "https://game.poker-chase.com/play/index.html"
+         }, {
+            "date_added": "13291524864017538",
+            "date_last_used": "0",
+            "guid": "bfc5bba0-932c-4aa4-98e9-183fa2c48782",
+            "id": "37",
+            "name": "JA.AliExpress | aliexpress Japan - 高品質で低価格の製品をオンラインで中国から購入しよう. - AliExpress",
+            "type": "url",
+            "url": "https://ja.aliexpress.com/"
+         }, {
+            "date_added": "13294124383020806",
+            "date_last_used": "0",
+            "guid": "47111568-520c-4dfe-8cc5-0430e366cc59",
+            "id": "38",
+            "name": "p5.js Web Editor",
+            "type": "url",
+            "url": "https://editor.p5js.org/"
+         }, {
+            "date_added": "13297307055502729",
+            "date_last_used": "0",
+            "guid": "7d02007e-95c7-440f-95d5-b701f9a94a45",
+            "id": "39",
+            "name": "概要 (Java SE 17 & JDK 17)",
+            "type": "url",
+            "url": "https://docs.oracle.com/javase/jp/17/docs/api/index.html"
+         }, {
+            "date_added": "13297974153882429",
+            "date_last_used": "0",
+            "guid": "c509e1a8-7847-4cf7-bc84-c5cd35f8a3fe",
+            "id": "40",
+            "name": "TikTok",
+            "type": "url",
+            "url": "https://www.tiktok.com/ja-JP?lang=ja-JP"
+         }, {
+            "date_added": "13311275986061683",
+            "date_last_used": "13328728753781899",
+            "guid": "fe6f3912-acac-41cb-b6e2-8e12f5564824",
+            "id": "41",
+            "name": "Reddit - Dive into anything",
+            "type": "url",
+            "url": "https://www.reddit.com/"
+         }, {
+            "date_added": "13306279906377959",
+            "date_last_used": "0",
+            "guid": "c51fa52c-dad6-4f6c-afc4-43e988faf82e",
+            "id": "42",
+            "name": "ダッシュボード | osu!",
+            "type": "url",
+            "url": "https://osu.ppy.sh/home"
+         }, {
+            "date_added": "13315244046265372",
+            "date_last_used": "0",
+            "guid": "3c9159f7-9f99-46be-8f78-9e13888762bd",
+            "id": "43",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Twitter Developers",
+            "type": "url",
+            "url": "https://developer.twitter.com/en/portal/register/welcome"
+         }, {
+            "date_added": "13302988524468862",
+            "date_last_used": "0",
+            "guid": "44c98988-d3de-4de4-96dc-42f862d01e4c",
+            "id": "44",
+            "name": "RUNFUNRUN#miwa's Valorant Stats - Valorant Tracker",
+            "type": "url",
+            "url": "https://tracker.gg/valorant/profile/riot/RUNFUNRUN%23miwa/overview"
+         }, {
+            "date_added": "13307833482277952",
+            "date_last_used": "13331621408595790",
+            "guid": "03c7bd46-33d2-4177-8ab1-e20f81740642",
+            "id": "45",
+            "name": "ValoPlant - Valorantの作戦とラインアップ",
+            "type": "url",
+            "url": "https://valoplant.gg/ja"
+         } ],
+         "date_added": "13331584439661629",
+         "date_last_used": "0",
+         "date_modified": "13330207547020600",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13331584439661630",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13331584439661633",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CoMCCuIBCIiBAhLbARJSCAISTgoGCgJibRABEDMaEgmAC29Je/4FACGAC29Je/4FACIUCeEXKlV7/gUAEAEZ6QcOeXDBSOgyGAoWCAIRWqQLWnv+BQAYACEAAAAAAAAAACAAkgF9CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCajcC1p7/gUAEajcC1p7/gUAKYPGDVp7/gUACkUKFmFubm90YXRpb25fY2hyb21lX3N5bmMSBTUxIWJkGhIJgKApVHv+BQARgKApVHv+BQAp/NkLWnv+BQAwgMGmobXP/wK6AQIIARIAKhg3bzRId0JzUU1yS0NoSms4dnY4dmxnPT1IAxLvAQgpEuoBChxtQWRvM2VqOHhOLzZRY01BTittc1BSVjNqOFE9EmZaOkFEcXRBWng4RjZRN2V1TzhiSE1vL1NyeStuendyWTJTWHc0SHJ3MkpmbGtEU0hIRFpUeUF5Y01yUWdzTkd2M3Y4YnFFVjBOT1hLbXZKWS9LWFNIMzBwWW16aE44dGd6MlJBPT0YACACKAIw4K+oqbXP/wI4jYmoqcEwQKClsJ6NMUocQVlrU1cwSEdoOFRmSkEzZTlsNWdpVllUWElVPVoiIiD///+AbHdLWVZVZzlWTjFsTnRadDdxZDhhQksvS2ZFPWUcsmhNEu4BCCcS6QEKHG9yUVFHazRXaUhQUDJnZXp5NnFVaHMwRjlybz0SZlo6QURxdEFaeDhGNlE3ZXVPOGJITW8vU3J5K256d2llQmtaWUVuVFh4V1B2Yk44L2dxd3dXMWU2R1lvc0tZUytaUkt2Ny9FS0VRbU5YYzZwYlRNamJucTdPa3BabUVQOWRab0E9PRgAIAAoADDDme2ilPT+AjiOm7SkjTBAjpu0pI0wShxNSkU4dWdZRW1hYlA0Ui9PSERzM0NNQUFBVk09WiEiH////np3SFA5UjkrRVQrdFhNanF0TWJvRjAzZCszbz1lfZdDhxLuAQgjEukBChwyeWYvZ1RKRlNieVlHM0lmVHY0bmtzOS9TaVU9EmZaOkFEcXRBWng4RjZRN2V1TzhiSE1vL1NyeStuend3bkQ5NkVhTGZmd1VQNnRjaGNmcHY5Qkh6WnpFZG02VVNObk90dFFNSU9FS29GVGlaUjlzRVIyQ21XSEErb1V0YktjQmd3PT0YACAAKAAww5ntopT0/gI4gtqYrcovQILamK3KL0ocSDJzaDA1MkFSS1hFNVhLUGJTMzR0dTg3cmVrPVohIh///+9kcHZ5M01wdXdOMlFyU2RBM2U4SG5lRGxLYU09ZesZ4YIS7gEIJhLpAQocUGRNYXBDLzNtRkpMVDI0aVRadWQ5NSsxZ2o0PRJmWjpBRHF0QVp4OEY2UTdldU84YkhNby9Tcnkrbnp3V1FyWXN6YnFhTFQzdmt3RFQrRTJFL3Q5MzNoZmMwa2x1eEsyQ1FEMmJ2VjBlblhxU3FlZU9jbXg0WXZYVkt0WU1CMUk5UT09GAAgACgAMMOZ7aKU9P4COKym5baBMECspuW2gTBKHEt3dHNRTmwrYUJQV3F3Vk5kRGdwWkNTcmpETT1aISIf///9RW05dFh6VG12QStjVXhQZnJTZHo3ZEJNMFNnPWXi37JUEu4BCCQS6QEKHGJORFh3WUk1NUdwcGNWdzZObzJySTZaNnZMQT0SZlo6QURxdEFaeDhGNlE3ZXVPOGJITW8vU3J5K256d2NYV2cwQVFPQWlGOElJb3crMjJ4UTJIVlo1ZlhFa0hhbkZJZGFOR3dXOHI4cHFZRlE5OElienBNK1NvQnJRaEdjYmdhL0E9PRgAIAAoADDDme2ilPT+AjjouJaOzS9A6LiWjs0vShxQWk5pdDllR0FpTUpFdjVmS1N6aWpjb3FpR1E9WiEiH///90FrK0xSSDBqbHBuMWpkTVMyckkvcmdQbzMxZz1lsot0ZxKuAgggEqkCChxCTyt6bkVvdUNjYVRBcFhwVVVlRUhGYU12YUE9EqYBWjpBRHF0QVp6QTNUREx6Y2ZtcmtvakZINjhFSHU0Mmo3SVZHS3hjN0t6Z1pWdnllU0ZGZUJDcTliVmJhc1IrQWtQb2dON0pFZUI1dnQwckFGYkRjc0Z4YSs0UWZXTmUxUXl2ME1XSnkydTVBNVBBS2IwWVBkUDRrUVkwckYzV2Vkd0hNVWpQY2J4VnFIVlhqZDBQRzQxUk5FWGVsNkI0cnRRUlE9PRgAIAAoADDDme2ilPT+AjiYgqKj2y5AmIKio9suShwwNXhGZmRwSndDbklFNFQxZWJ5U21qMk8yQlk9WiAiHv/8UFlRUW4vRG9zcHUrVUhWaEVRSVgzNFVqR1JFPWVOF1RZEu4BCCgS6QEKHE50RkQxeGtyTzl2dGFtVFhvWUkxNXUwUDlJZz0SZlo6QURxdEFaeDhGNlE3ZXVPOGJITW8vU3J5K256dzRuTElZZXRyRVFSRjJlbG55Rlk0bDVOa09BMFM3ekhxT2JqT0NaeVpvZWNtVCthVFRlTyswMmpnNHMzRWRSVUJrWU1ZQ3c9PRgAIAAoADDDme2ilPT+Ajia1cDijzBAmtXA4o8wShxqSXROaE5iZ2xHVlZGWG4reDhtWm15S1RoZG89WiEiH////24zZVMxOVFpUjUyZEFOUkJ5aHlaM1lwR0NLND1l8M5s0xLvAQgqEuoBChx3a2R3c1VSSjBLS1JpUGs3MytYdEVML28yQms9EmZaOkFEcXRBWng4RjZRN2V1TzhiSE1vL1NyeStuendVc0pIUEFEbWNqREk5U3AzRHQ5ZllWd3lHZ0QzYUJheFdiRFVXZmlYZnpueFJUVURCSWZNM1RaNXF2OEtwWkZOa0Y5TEFBPT0YACAAKAAww5ntopT0/gI4ysj/2q4wQMrI/9quMEocZ29Nbit1UVpxZEtRc0NtMnpRbmM4dWtzZGFNPVoiIiD///+SS0tQZVhMMnNjZGo1dzlPQjVxUE9HYk0vNXRJPWXV85t4Eu4BCCUS6QEKHFIvM1VtYTFFTFFsbmYwbVlCTUVJNnR5ZnhpRT0SZlo6QURxdEFaeDhGNlE3ZXVPOGJITW8vU3J5K256dzltNTJPWWMyc002N3BnSDVRaXpjQnFuMk04d1pOOFloc1gxUnhldEJpQWQ0aG0zNTRYYU0rWFU1SzgvU0RQVzYzdXh2eWc9PRgAIAAoADDDme2ilPT+AjiRoJ/f9y9AkaCf3/cvShxQQ2t2MW9jekRJcU5ESldNeUtucW8wT1loTnM9WiEiH///+01EcFlnRzlPK2pjMm5YeHRRc1A4S05HVzdmUT1lX5lctxKtAggbEqgCChxMdHNBdUZUTllkN3NzK09SRjhKV3dwSHlPbFU9EqYBWjpBRHF0QVp6QTNUREx6Y2ZtcmtvakZINjhFSHU0Mmo3SVZHS3hjN0t6Z1pWdnllU0ZGYVFLbjhWaFEwTXFwZzMrRDF0NHRqcHhkWVJOT3E4K2Vsc0NaSU5ZWW1GTzFJS20zL0ltUXRSNDBCMStmd0tjcG1DdXBwcXNYTk5uYkpOZHJQbGVJYjc0bnR3ak41bHh2eFd2eGR3Q0tlVndyTGtPdVE9PRgAIAAoADDDme2ilPT+Aji/j+vE4S5Av4/rxOEuShxKc3VSdExxMG0xdXR6VksvOEdUZGlhWjlrZjg9Wh8iHchIeDdyQ2lMWThySi9wT3pmN1BaMXM4aStXVW89ZRZ4bQwS7QEIGhLoAQocWHNrSkgzcXRXd2lYbk4yY0luUnVWNC9uN2hzPRJmWjpBRHF0QVp4OEY2UTdldU84YkhNby9Tcnkrbnp3ZDhROWlsMVRCcklPOEU5NjN2SVpSY0ljeFVTRWdUbTc3WEJJaVRWTjArcldVclo1Z0lmbGoyQldBS2VFbTN0c25kdVMwQT09GAAgACgAMMOZ7aKU9P4COMPW2tTjL0DD1trU4y9KHGZrcm9OdTR6U3hsdE1tdFMvZ3B4dDRRQUxKbz1aICIeyDFJVnV1VFF6WVB5eEpvSDkzazd1aDd2K09YYUE9ZeZ6FCQS7AEIGRLnAQocc0Fua05ZOERCdy9paHppTlRTbkNvcVVWT3dNPRJmWjpBRHF0QVp4OEY2UTdldU84YkhNby9Tcnkrbnp3dnVhWkhJbkFmVlBaeEZhRmlWKzN3eWhDNkFwRkc3eWJZbTVtcjhzb2xYY0VWTlVyZ2dHTTNwUVFiTkI1c3hZZFU0cUI1dz09GAAgACgAMJ6i+Ifon/8CONPc06L1MEDT3NOi9TBKHE9kZkxUZlcyWGQ1Z2FndE5hN3JmcmhTZGE1ND1aHyIdxitqcXE0VFRnTGc2MjU3UnA2b2tjNUk0Z1Eydz1l2FPijxKuAggVEqkCChxYRktLZU9XUHM0YWlaV2VhcUN6R2hnWjJLV1E9EqYBWjpBRHF0QVp6QTNUREx6Y2ZtcmtvakZINjhFSHU0Mmo3SVZHS3hjN0t6Z1pWdnllU0ZGYWtEWnZac3JRSCsybHJFQTZ4WUlGZ2RqZXYvbDlBRnNJekJqbUR0d3ZOYUFnUmxUdXZIcldtN1MrM0NpVHlmMm96WUl4d0NrRTlCNlpnMnU5UUp6SDlCajJrM0tQVjB4SGRpSzlhazBLR3l1eXRzWGc9PRgAIAAoADCro8CRoqz/AjjYl+PZwi5A2Jfj2cIuShwvTnhKaDdwbFBaYlQvNHltL29KK09QVEpFZVk9WiAiHsOyNG9EVTFXWjB2MDZnSmZGN1dCckZJc1cza204PWWC/u+REq4CCA4SqQIKHDlQK3dGNW93eDVtTjhmK1NNaC9JSDVESmYxYz0SpgFaOkFEcXRBWnpBM1RETHpjZm1ya29qRkg2OEVIdTQyajdJVkdLeGM3S3pnWlZ2eWVTRkZackhTUVpwaS9qOStqdTdQRnJjWXIvQU9EYlRMRDhQRmpibmdUUlBySVQ5b21YNzZoOHIzeFRObUMvY2tjN2lHVFBFQko1cmxBektEb2ZRZFZJVkZaNXBYSG9zT1dVcjRaa3M2ZlRNMU1sMXJpUWFyQT09GAAgACgAMKujwJGirP8COOvh6NThLkDr4ejU4S5KHE1WUVdYem9tZjRDaWtQUXpNdWp6TFBZZ0ZGZz1aICIev7lHdEppRkhLempJRVdaTHNsbTBDdEsvZjdFT2s9ZcN+NtQSrgIIFBKpAgocM3FLb3ZMSDh0YTZlTndZNXZCN2xFRnF4ejNzPRKmAVo6QURxdEFaekEzVERMemNmbXJrb2pGSDY4RUh1NDJqN0lWR0t4YzdLemdaVnZ5ZVNGRlZkL2ZDVEdDQkpqQTJ1SzIwQkVOMHJqOGlWa2MyT2F5eDdwUlVkZDlobkJqNnFCTmFLWTV5WVc1RTdia3kvbktVbDcrN29DOSs1dW1aQ1lLd0d0VDh5aU1nR09Eb2hZNjVJK0dVNnFyVSs4OUR1d2d3PT0YACAAKAAwq6PAkaKs/wI478CxwPcuQO/AscD3LkocbUYyWUNoaG9ieEZvK3dpUCtHNWdjVUFFMkdRPVogIh7Dp0NQZVpSWHo4VG90czlReXA2QkZQVEgxRnNZRT1lGFxQMBLuAQgiEukBChx1UG16QVFSM0pUT01lWGpnSGdLcnhaR0xsUEk9EmZaOkFEcXRBWng4RjZRN2V1TzhiSE1vL1NyeStuendwd256REYweExxclVnSzBxcHFGek11a1A5ejMyeEpIMUk0RitiK05OVVZqWjdzcDZYR0tlVmIxNUYyT1JqcWJpZ2h2alVRPT0YACAAKAAww5ntopT0/gI4ivKk+7wvQIrypPu8L0ocTkRmRklON1JaNmYwdGdWM3p1bGgyeFlDYlNnPVohIh///7w3NmlDTlhMZHg5QXNtOU1yaGpOWjlMbVNrbGc9ZedXz5QS7QEIGBLoAQocK1dkOHRlWUJndzdacnNibzZacmNLSzdJOS9vPRJmWjpBRHF0QVp4OEY2UTdldU84YkhNby9Tcnkrbnp3Unp4TDJkcSsxRVdTaENDMG5IeEs2UWFORWZpcVZFNVdZUi9DNjNhVmNzd2pqbmFVOStyM0lReFp3ZFRQN0kvS1BLZGxqZz09GAAgACgAMLKEjZWopf8COIb8pMG7MECG/KTBuzBKHGxFMndYQ3JMdGI2UFVoSy9pdG9FckQzMkxEQT1aICIew9NOMS83aDhJMmdQTEUycnNvYU1nVStjYXNPUWc9ZZtIoFYS7AEIEhLnAQocT1VtbVdUM2loL29MVGdoOVNhbUhNVFpYWGZvPRJmWjpBRHF0QVp4OEY2UTdldU84YkhNby9Tcnkrbnp3bFRZT0VmNG1MS3dhLzZwUTF2VXJRNlZ1SEVZS2w5amhTWjFwUVJWbTJwTTRhVlB3R0IrYlpRL0tYdDhPckpnVSs1WEI4UT09GAAgACgAMKujwJGirP8COLiblYq+MEC4m5WKvjBKHEFBUnhJOUlveGZtQzZJcXNFWGlwUzE5OXVZVT1aHyIdwjd5RzQ3Sy9DNlBaSUpWSkgxWUY4UjRPV2ZjWT1l4brkWxLsAQgTEucBChwzK2FDNlNpMmdjMy81K0k2TXd2STJ1elZNdWM9EmZaOkFEcXRBWng4RjZRN2V1TzhiSE1vL1NyeStuendUNmJtN2NRd0FtbzI3U3FjTWxGK0V2MlV6dzV3WUdXUU9BSTRnTjZKVFlBcGNrY0U1eGR4OUthVExpdW0za05oSE1VdjZnPT0YACAAKAAwq6PAkaKs/wI4jO3K7IcxQIztyuyHMUocYkx6a0tiS0gyRVNES0VHQXQzRXQyL25mRGFVPVofIh3CRkpZMldOMGZ6S3lMNmZrY2xvUFoybGVrSTRjPWWQHIieEu8BCCsS6gEKHGwvVk1RM1hUdjJIcXZneVNDTm5DSDVGSXM4UT0SZlo6QURxdEFaeDhGNlE3ZXVPOGJITW8vU3J5K256d2RhbUpjOEcyTERlSFo3K0NrSG5Da0dLMENiVmdJVC9oR3k3eUM1SzlKMG1BOUplRHhZWmVlMHJETUt0bnZvait6ZEJXeHc9PRgAIAAoADDDme2ilPT+Aji5n7eN0DBAuZ+3jdAwShxsSVBFbWJQWS9XQzYyQVErUDljellVQXlveGs9WiIiIP///6R0NjkrZWpmdWltbEF6OEdLN0toY1phNjFXQU09ZSHmdgASrQIIChKoAgocdTJLclVQeEUrU1VKNUFoN2lBcXBtWlRhOE9ZPRKmAVo6QURxdEFaekEzVERMemNmbXJrb2pGSDY4RUh1NDJqN0lWR0t4YzdLemdaVnZ5ZVNGRmVIZER4SHJvelluekhOdllLb21MYUMvbTNiMkV6N29ScUVySzUwV2ZUeUY0TUtQaWYyaCsxMXJNdDAzT3d5dG1qdks4OC9PdU1CTFEzeTZsWjZpMjBtbzAwemkyS0JHUUpzSVZ4dzk0cFBidHJycXNnPT0YACACKAIw0oaM/7HN/wI4tanqxOEuQMO1l/2MMUocRUQyc3gwTEtsYzlRUEovd3Ayb2ZSdTh2UDZ3PVofIh27d0RsdUd1WmY2WFNqTWJDWm45ekp4c3FlcnBJPWWgQpWSEuwBCAgS5wEKHHBNTStESnJhZFhqM0hIdWp2RUZ4SFNZdmlwbz0SZlo6QURxdEFaeDhGNlE3ZXVPOGJITW8vU3J5K256dzJTMlRhRExZeVVpWFdxSDhta2JhM1hSdzVIdXozdjRpWmVVSnVudGtuajljT3lkRmZZS1JMRWdYeWJPWTBrd0tPUGE0MXc9PRgAIAIoAjDShoz/sc3/Ajilvuu1hzFAsrWX/YwxShx2R1J5L29QVmZ0RnV4enYwOFUybFArNDVEYWs9Wh8iHbdPTi9XNWx0VGd0QWl1Njhzb1N5M2pSVFYwa3M9ZWkbIvMS7QEIIRLoAQocZkdQUnhQY0hQZlBYSzhzRUZEMkpjZlB4VURBPRJmWjpBRHF0QVp4OEY2UTdldU84YkhNby9Tcnkrbnp3NENPaHU5dHZUb1FzWmlidHJidDdBQTY5aDRFekMvekwrMWJsQkdvaUo0Wk1KZXhtVGlUZ2FqdnpHMCtPNUh1MmxiR0VvZz09GAAgACgAMMOZ7aKU9P4CONffz4G8L0DX38+BvC9KHEUvUGI5WVZ1SVdMQWFXMUtzVDkweXY5T2lYMD1aICIe//94QkMwQzBTRjgxWXREN2ZuZmQvVi92Wkp4S1E9ZWDqkWkSrQIIEBKoAgocZHZBRWYvMXlnUUlyMHhDTis1cktka1QwK1pVPRKmAVo6QURxdEFaekEzVERMemNmbXJrb2pGSDY4RUh1NDJqN0lWR0t4YzdLemdaVnZ5ZVNGRlZuemtGYldKUmhaMGtwSmxNSDdUVTJQbWdaaU9qeGN5WEg0Qk1SU0pQMEQwOXdtb1RYUlY1MWYrWGNUZTFFUFF3bmFqOWp2dUpzZWFwbmFDZ2p1dUZhODdhc0VLN1A0bmh1YzY0UUhGTDRPelZGTWFnPT0YACAAKAAwq6PAkaKs/wI4qt2ti7EvQKrdrYuxL0ocWWx4ZGJyZTJGT1hrSFU1Ky9wUWxzdEFKZXRVPVofIh3ARHpyMCszYS9kSjFBSnM1OFprdjJWQlUyL1hJPWXjgMpqEq0CCA0SqAIKHHlwY3cwenRTdWZpTDZERXpnanlRb0QxTlFqOD0SpgFaOkFEcXRBWnpBM1RETHpjZm1ya29qRkg2OEVIdTQyajdJVkdLeGM3S3pnWlZ2eWVTRkZaRFU2MnBBbFJabkFVZmxUa09DME9jTjRkOUM5bEIvUnZMN2x6dk5kSkxDYjVCY1RXZmtnN0lHMEliTmp0MC9LNWhJVmNUcXdoOC82eENIa0RLeXlnTlBRRlhCZ05FT29zanhONElmRnJnNWlnZjRuUT09GAAgAigCMNKGjP+xzf8COPXg0Y3CLkDDtZf9jDFKHGQ0ekpoR1hDbDMxVG1LWTU1QTZLeHZYd3gxTT1aHyIdv3JwbXdGN015NmxUV3N5UGgrQUxDRkpJV1N6VT1leIposRLsAQgREucBChxrNkZnYy9rMVNrK0ROdkdBMHV5YXFGRVRIN2s9EmZaOkFEcXRBWng4RjZRN2V1TzhiSE1vL1NyeStuendEdURqYWw4Y3MwcFpBRjhycm9BTnlFS1VhVHJhSWd3WTZiQnhZWEFPcFl3L2xyc2x3VU5wZ1dUK3RUQ0FrRjZrTlN5WXp3PT0YACAAKAAwq6PAkaKs/wI46sbm6YYxQOrG5umGMUocRjhva1orb1VCYXIvZlNvdmcrTklDaCszdnpjPVofIh3BWDRuTzFCNGxKcGdlRHBxWmx2LzJNUmJkd1pvPWViwwZrEu0BCB0S6AEKHFN0elB2aVRqZkE0dWpobUdIT2FjbHpKeEd4ND0SZlo6QURxdEFaeDhGNlE3ZXVPOGJITW8vU3J5K256d2YvdDdydFoyblBocFJHTllQUnVHUk5nQlBxenExcVZZbVhJdVVvcmtHZlhXZytmMWlLcXJERXJFVnpnTTJxc3o0cnFwM3c9PRgAIAAoADDDme2ilPT+AjjYkMOsgTFA2JDDrIExShxRMGMyR2xDTk0vdXoyUStlaE9vMjJzVm1Mc009WiAiHv/jbkszWDFwZ0YzMWxtVU9kNEpza1ArcWY0elJjPWUIvVmBEuwBCAkS5wEKHEh3aGlqUlBjQTBuT3FEUDZOaE55TkEzMG9sST0SZlo6QURxdEFaeDhGNlE3ZXVPOGJITW8vU3J5K256d2lGQ2NPT3JkZzNCeFZqYUwrNm9BMGxKSkFPMUsxdnlVR2JCR05BdElOS0tJVkVnazRFUnlkOCtvY21XUHZWa3RRZTA2elE9PRgAIAIoAjDShoz/sc3/AjiDo6rTxi9AwrWX/YwxShxJa1ovbTA0MkNNa09PanhwcUZNWElGWVNiT2s9Wh8iHbhiejJSdjBvdm40SVplNitsc1kveDhpamVFU1U9Ze66uTcSrQIICxKoAgocWldsL2tITG1tTGNSYTRPQkhJUHhFMEJXbHNBPRKmAVo6QURxdEFaekEzVERMemNmbXJrb2pGSDY4RUh1NDJqN0lWR0t4YzdLemdaVnZ5ZVNGRmVqQUhXSmUybUpMUHZnSHdKcWJlU3BMVmpRNTVza1dUYVBPdlU4QzBRejBEY2ZJQmZVZ2ZJQUREMkcwNUk1bE9OOE1qL0NkdGROMHNNRFM0emJaeXR0OFF2cElhZ3ptaW1kd3VWNVVqS1RYK0RKd3ZBPT0YACACKAIw0oaM/7HN/wI4oenqxOEuQMO1l/2MMUoceFRkZDNWcHdMdCswZFJ3eUNPb1owbHNDTy9JPVofIh28VXo4QXN0cjEwbWdGa2dITlFjU1J4anJRekZ3PWVR2UXeEq4CCBYSqQIKHDBBOTJtQytza1BtcURhV2h5Zk5oQXVGcGt1WT0SpgFaOkFEcXRBWnpBM1RETHpjZm1ya29qRkg2OEVIdTQyajdJVkdLeGM3S3pnWlZ2eWVTRkZieTZBeHRaRmZxZm1QSitDMDNsenRWQ3gyL1dVemc5TUswbzBwaGtQQXhGeStVQUlaQ1VWRFI4ekxVWkdCbnVzTUdscnlZRlNGNlJZRHBlMFdWQ1RLOWg0N1lQTm5qNlhjZ29Valo0UFJMY1Y2dm1aUT09GAAgACgAMKujwJGirP8COJfE6cThLkCXxOnE4S5KHE1FN082b2U0QU1uclB1MDR3MTdtU25vTy9rOD1aICIew7dCcms1NGozM2lCMEVvayt6OVk2ZFZBMnNBcmc9ZcN+NtQSrQIIDBKoAgocUDRyVytuR0MrNTlDMVB5OW1oNy9QZWcwOGQwPRKmAVo6QURxdEFaekEzVERMemNmbXJrb2pGSDY4RUh1NDJqN0lWR0t4YzdLemdaVnZ5ZVNGRlJEZVJEQUlZZ0p6VmdjVFRrUkpEWElSOGxtRHFvVDdvUlNuY01YZTZybWNRaXowWWZkSC9qYnNBYStSNzd4WXg0NVlSWWxBWktwb3BicWVLMzkyWGFrWGlKWEZhVEZIMXNXalViRDY2VTZGc01Ba0FRPT0YACACKAIw0oaM/7HN/wI4h5jmu7YuQMO1l/2MMUocZllqS0RpcWd1MlZGSnhuck5aQXNIWExSOUs4PVofIh2+TUxvV2pUVncxUkhYVmRiWSsrTXRxM2FGYUVZPWX77Je8Eu0BCBcS6AEKHDVoeDRGUjM4aU5YY0hkYi94ek13UUViRmJ6Zz0SZlo6QURxdEFaeDhGNlE3ZXVPOGJITW8vU3J5K256d3g2M3ZHNkp5Nnp5OEtURm1pRi90dFhESnpLUG1zRTJ2TXpSZHBPRmxub0VqUDNWc25OWDJXekFTMCttckpoREM2T25ma3c9PRgAIAAoADCUqZCXqKX/AjjM9OD7xS9AzPTg+8UvShxCMnUyTnlPS01hMmkxTXM1K2FSQ2RrY1FrS1E9WiAiHsO9WDZOZDdMRUtMTkhQa2hScTJNL0p0dVJHM2JjPWVIlFviEuwBCAcS5wEKHFFLaGd3aTJXZFVXMXF3Wko0WFVOREtJcjgxRT0SZlo6QURxdEFaeDhGNlE3ZXVPOGJITW8vU3J5K256d3F1dWtXRTdZMnp3OXRmSWNnWHAxNVkzU1BSb3o1WHM4M2YzMm4wbVNxcXRWWWZWbEdUNExHbzB0ZjNWeVpab251UmZaNEE9PRgAIAQoBDCY3bSq987/AjiHzJSNvC9Apb24lo0xShwvTk9aR1dURDQwOXB3ZnVZRVlleEtPaEdQTDA9Wh8iHbY2dW9PVW9pNjJvK0N0Qm50S0VnWXBBZFU0VUE9ZV1Hj4MSrAIIBRKnAgocUXBsNTRvb1Jrek4wR1JKVER1eG5SNFRiK3NRPRKmAVo6QURxdEFaekEzVERMemNmbXJrb2pGSDY4RUh1NDJqN0lWR0t4YzdLemdaVnZ5ZVNGRlJVYzRZeHg4a2RjWHZlYUdnTDkvb2N3OE5wM0lhWkdBTXhhMVlKUnJjK0hoWTNKRHFpdTg2eEl1QUg0MkRMVUU3WCsxRTlNdEg3OWUyNUU5ZU15emh6MGtNV2hWZ1hOaDUyUW0rWENqeVBVSnJlTkpRPT0YACAGKAYw1Ki01YjP/wI4qqCqi7EvQKjE1JiNMUocOFczM0JDTENCeGo3NURlWXFBQlZSZDZWVWJrPVoeIhxIdmszZmc2L0cyclU0MndwbnNSbzNUUWJEKzA9ZSqVJY8SrQIIDxKoAgoceTN0bGVqY1JWN3RyblF5QjJQMHVRSWI1eU9ZPRKmAVo6QURxdEFaekEzVERMemNmbXJrb2pGSDY4RUh1NDJqN0lWR0t4YzdLemdaVnZ5ZVNGRmVxdlNuMTdQTUc3TmloY1JGQ3lBQTkrSXN2amRsTkNXODlaSHVqTElXa25oYlhUUGJORHZ6Vk1Gbk9GcERUbEtjM21UbiswblpyM0FRZnFZS0I1VHR2ZFVOcDdYd001NkhCVmp2Mi9qc1hjZXppSFd3PT0YACAAKAAwq6PAkaKs/wI4u6XwvMguQLul8LzILkocRjU4bHQwOUY5ZENqcDBraHdmMUVVcXkvbzBVPVofIh3AMGIyUW4xbHB2M0xyZ3ZMaW90cGpFRnVmYVN3PWVIWDLJEu8BCCwS6gEKHDk1eUE2Uy9HM29SL0ZDN0RwWW93NTlQa0w3Zz0SZlo6QURxdEFaeDhGNlE3ZXVPOGJITW8vU3J5K256d0VMRGNDcnd2WmZWNmU1TVZIblQ5cEJFTWNzQWV5RklXaVJLNUQvL2Z0SmJOTllScHI0NjE3MDlpN1gxZlExU2YrcEI2Qmc9PRgAIAAoADDDme2ilPT+Aji0x8W5ojBAtMfFuaIwShx0Nk56VTdXbjNFZ1BZYVl1cmp0TjVuZk9QOFU9WiIiIP///7dIdUhWMVh4WGNoNVFnL1o2eEdQKzBzdFhQeDQ9Zd8fBuESrQIIHBKoAgocYXZWY3hjT0IwZHRZWlR3dS9WbWNzTStMMkFFPRKmAVo6QURxdEFaekEzVERMemNmbXJrb2pGSDY4RUh1NDJqN0lWR0t4YzdLemdaVnZ5ZVNGRlVuUnlXUisyUTBpdTVwWmdKdjB2UkNQeDVlY1FEV2NZeEFLSlIwcDlUMGpyampFMFc3U1VkZFlaWlh6N3FIdWVHNUo5RGRsTTZiZXRlR1NCMEZ5eUdyamZzWlVXQmdkT3JXTVNTMmxzRW1sK2Y4MTFnPT0YACAAKAAww5ntopT0/gI4lZXpxOEuQJWV6cThLkocYUcwdVFEclg4NHoxSDlEMmdSZ0NTUUZvaytRPVofIh3jb25yYVRVU1B2Qy9TT2lmZTNtaG9iNnVqSndrPWVZRck/Eq0CCAYSqAIKHGtLQmlzTEZXQnk5VGkrOW9qUXFPYkphVkdjRT0SpgFaOkFEcXRBWnpBM1RETHpjZm1ya29qRkg2OEVIdTRNV0MrdnhCejhNY2hTZUtsV3BybWQ1YUxCUzRPbVlmZHR4NElYYlRIK3dCaHFBMmtFU2JnNUNBQXF2c1dxS0JWdytiaFlsMEhZeGF1WEZrbXpLRnRmcUJXR2YzTTJQdGxuQjhnNnF2MENhZGI1K3plSnVpbmsweUJKS2llTGVhYjh6NjhkUT09GAAgAigCMNKGjP+xzf8COISysubLLkCxtZf9jDFKHGtmTmVzbVdHUXRabnFaYkd5ZzRTYkYySUw5Yz1aHyIdtWN6ZUhsdWJiKzNJN2dndkR3aTJtQ0JnVkhEOD1lOPk5MxKuAggfEqkCChxudU91bnBLamdMRlBwVVdsUURzMWg2WnIrajA9EqYBWjpBRHF0QVp6QTNUREx6Y2ZtcmtvakZINjhFSHU0Mmo3SVZHS3hjN0t6Z1pWdnllU0ZGVEdFRUFsb2c1M2pUSWQyb0w5dDlWNU1Cb0F6VFltRjB5Z1hZMm9nWkpQV1Fib3hJZnRVYUdlQlgyUVFKNVE3MzBOR2MzZ0QzcEFncWczOUZuNitYNmhLREp6clllb3gyWmhxS3BaMXF4TTNaL2UvRnc9PRgAIAAoADDDme2ilPT+Ajj9/ueeui5A/f7nnrouShxNMEJCdDVUQm9mODRoTWNIWTB2YkRuWE1ZNWs9WiAiHv/3R2VnT1pCK0FrSzRURjU4QTU0L3hOTm1URTVnPWV7Ufn+Eq8CCB4SqgIKHEltcTMwSWc3RFZiTGJFWVA1cmJlMTJUc0tmcz0SpgFaOkFEcXRBWnpBM1RETHpjZm1ya29qRkg2OEVIdTQyajdJVkdLeGM3S3pnWlZ2eWVTRkZlQm9jUUk5UHo2WFNxTHdRYisvZG9qaS9IVkJEdzBtN3NnZFdFSmdmaWpMdzBXZW9aLzg4Y0FPQ20zS0VlZjdPMDRzeHVhZldRa3Y4Z0JHcjFGUEFmT1NERmtTeHhUSm1KMjc2eW1XdkwxeEVXdzdtQT09GAAgACgAMMOZ7aKU9P4COLmGx5+LL0C5hsefiy9KHGcvR0NRTUxhYXVVTUpIVXdhY2c5WERnZDhybz1aISIf/+67WkovSm1razFaRjhHSTUzWDVBTUxmc2hiTFUwPWUAAAAAEu8BCC0S6gEKHFhBY1ZvTzNtcE5vTWZVZHk5N2pGZEFOUm8waz0SZlo6QURxdEFaeDhGNlE3ZXVPOGJITW8vU3J5K256dzlTek5HT1ptbnNnWmR3dnVWTWw5enpQNk9yeWM4S0pJQUhYVk90UU5mNWZzUVM3VVlKWitES1hpenlKR210MWVwdEtCTWc9PRgAIAAoADCk1Oavu87/AjimqOa/tDBA1aPijo0xShxCall2emQ4MnlqdWttakJneHVXRk5hQUgvaHM9WiIiIP///8ljS0VhVktLTVFHYy9teHRBRVdSNER6NVFXU2c9ZbsOWzwSwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp5NjhMZXc4N0FheXVQTmxHTml3cmQ3VVhTbUpRK0gzM3RTL25TS3NwdUtiSVltUUNqbGtPUy83YlpkaEVkUzdYS0FCbFhYbHlia0lvT2xoVFgyTUFiZ0d6dlArdz09GAAgACgAMPumnvyxzf8COABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp5RVUwRzhMUDFpcnFWSTJGcUNLZ082d21PaFRFUDBRMkdmYU5FbnFvWHhYb0RwV2hObzczbW04SnQ4UlRBbWdYbEQ5TlR6GAAgACgAMPumnvyxzf8COABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp5V3dRL3hjUXVSQ1BxdGo3eHR2eTFwTGdLdkNsdUwxV1NLankzVWluU1BrcG0zNnB5SkRZYldtQWpkZ3Z6eXJ3L0Z1cEpnU2JGR1lEaHBadjdSOTU5UHNzSDgzZz09GAAgACgAMPumnvyxzf8COABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAwATgA",
+   "version": 1
+}

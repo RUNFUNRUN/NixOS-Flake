@@ -1,0 +1,47 @@
+{
+   "AppDesc": {
+      "message": "It splits your browser windows into two by just 2 clicks"
+   },
+   "AppName": {
+      "message": "Dualless for Google Chrome™"
+   },
+   "DistributeTabs": {
+      "message": "새 Windows 간에 탭 배포"
+   },
+   "HelpText": {
+      "message": "브라우저 창 구성 방법 선택"
+   },
+   "IdentifyScreens": {
+      "message": "화면 식별"
+   },
+   "MinimizeNote": {
+      "message": "\u003Cem>참고:\u003C/em> 설정보다 창이 더 많은 경우 초과 창은 최소화됩니다."
+   },
+   "MoreInSettings": {
+      "message": "더 많은 설정을 원하십니까? 설정에서 더 추가하세요."
+   },
+   "OneScreen": {
+      "message": "1 화면"
+   },
+   "RateUs": {
+      "message": "평가"
+   },
+   "ScreenMulti": {
+      "message": "{0} 화면"
+   },
+   "ScreenPrimary": {
+      "message": "주요한"
+   },
+   "Settings": {
+      "message": "설정"
+   },
+   "SingleScreenCurrent": {
+      "message": "현재 창이 있는 화면 사용"
+   },
+   "SingleScreenPrimary": {
+      "message": "기본 화면 사용(OS에 구성됨)"
+   },
+   "SingleScreenSelect": {
+      "message": "1 화면 설정의 경우"
+   }
+}

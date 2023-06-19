@@ -1,0 +1,47 @@
+{
+   "AppDesc": {
+      "message": "It splits your browser windows into two by just 2 clicks"
+   },
+   "AppName": {
+      "message": "Dualless for Google Chrome™"
+   },
+   "DistributeTabs": {
+      "message": "Sekmeleri yeni Windows arasında dağıtın"
+   },
+   "HelpText": {
+      "message": "Tarayıcı pencerelerinizin nasıl düzenlenmesini istediğinizi seçin"
+   },
+   "IdentifyScreens": {
+      "message": "Ekranları Tanımla"
+   },
+   "MinimizeNote": {
+      "message": "\u003Cem>Not:\u003C/em> Kurulumdan daha fazla pencereniz varsa, pencere sayısını aşmak en aza indirilecektir."
+   },
+   "MoreInSettings": {
+      "message": "Daha fazla Kurulum ister misiniz? Ayarlar&#39;da daha fazlasını ekleyin."
+   },
+   "OneScreen": {
+      "message": "1 Ekran"
+   },
+   "RateUs": {
+      "message": "Bizi değerlendirin"
+   },
+   "ScreenMulti": {
+      "message": "{0} Ekranlar"
+   },
+   "ScreenPrimary": {
+      "message": "Öncelik"
+   },
+   "Settings": {
+      "message": "Ayarlar"
+   },
+   "SingleScreenCurrent": {
+      "message": "Geçerli pencerenin bulunduğu ekranı kullanın"
+   },
+   "SingleScreenPrimary": {
+      "message": "Birincil ekranı kullanın (işletim sisteminizde yapılandırılmıştır)"
+   },
+   "SingleScreenSelect": {
+      "message": "1 Ekran Kurulumu için"
+   }
+}

@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "Perkaya prompt ChatGPT Anda dengan hasil pencarian web yang relevan melalui penjelajahan web."
+   },
+   "appName": {
+      "message": "WebChatGPT: ChatGPT dengan akses internet"
+   },
+   "toggleWebAccess": {
+      "message": "Beralih Akses Web"
+   }
+}

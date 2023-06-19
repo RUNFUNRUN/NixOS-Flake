@@ -1,0 +1,29 @@
+{
+   "Apply": {
+      "message": "Aplique"
+   },
+   "AutoReload": {
+      "message": "Recarregue automaticamente esta guia a cada:"
+   },
+   "Connecting": {
+      "message": "Conectando à guia..."
+   },
+   "Inject_Error": {
+      "message": "Ocorreu um erro ao conectar-se à guia. Recarregue a guia e abra este pop-up novamente. Observe que não podemos trabalhar com algumas guias especiais, incluindo a Chrome Webstore."
+   },
+   "NextReload": {
+      "message": "Próxima Recarregue em:"
+   },
+   "NoReload": {
+      "message": "Sem recarga automática"
+   },
+   "RateUs": {
+      "message": "Nos avalie"
+   },
+   "application_description": {
+      "message": "Defina a hora em que você deseja que o aplicativo recarregue automaticamente seu navegador Chrome"
+   },
+   "application_title": {
+      "message": "Atualização automática da guia"
+   }
+}
