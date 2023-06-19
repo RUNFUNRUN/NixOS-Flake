@@ -50,8 +50,8 @@
               python3
               python3Packages.pip
               nodejs
-	      gnumake
-	      lazygit
+	            gnumake
+	            lazygit
               tree-sitter
               pkgs.nodePackages."typescript"
               pkgs.nodePackages."@githubnext/github-copilot-cli"
