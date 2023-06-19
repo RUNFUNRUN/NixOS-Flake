@@ -98,6 +98,8 @@
     gtk4
     zip
     unzip
+    openssl
+    pkg-config
   ];
   programs.zsh.enable = true;
   users.defaultUserShell = pkgs.zsh;
