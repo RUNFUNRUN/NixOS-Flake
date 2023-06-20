@@ -8,55 +8,68 @@
     description = "${user}";
     extraGroups = [ "networkmanager" "wheel" "qemu-libvirtd" "libvirtd" "kvm" ];
     packages = with pkgs; [
-     neovim
-     google-chrome
-     swaylock-effects swayidle wlogout swaybg  #Login etc..  
-     waybar                                    #topbar 
-     wayland-protocols
-     libsForQt5.qt5.qtwayland
-     kanshi                                    #laptop dncies
-     rofi mako rofimoji                        #Drawer + notifications
-     jellyfin-ffmpeg                           #multimedia libs
-     viewnior                                  #image viewr
-     pavucontrol                               #Volume control
-     xfce.thunar                               #filemanager
-     xfce.xfconf
-     gnome-text-editor
-     gnome.file-roller
-     gnome.gnome-font-viewer
-     gnome.gnome-calculator
-     vlc                                       #Video player
-     amberol                                   #Music player
-     cava                                      #Sound Visualized
-     wl-clipboard                              
-     wf-recorder                               #Video recorder
-     sway-contrib.grimshot                     #Screenshot
-     ffmpegthumbnailer                         #thumbnailer
-     playerctl                                 #play,pause..
-     pamixer                                   #mixer
-     brightnessctl                             #Brightness control
-     ####GTK Customization####
-     nordic
-     papirus-icon-theme
-     gtk3
-     glib
-     xcur2png
-     rubyPackages.glib2
-     libcanberra-gtk3                          #notification sound
-     #########System#########
-     kitty
-     gnome.gnome-system-monitor
-     libnotify
-     poweralertd
-     dbus
-     #gsettings-desktop-schemas
-     #wrapGAppsHook
-     #xdg-desktop-portal-hyprland
-     ####photoshop dencies####
-     gnome.zenity
-     wine64Packages.waylandFull
-     curl
-     #########################
+      neovim
+      swaylock-effects swayidle wlogout swaybg  #Login etc..  
+      waybar                                    #topbar 
+      wayland-protocols
+      libsForQt5.qt5.qtwayland
+      kanshi                                    #laptop dncies
+      rofi mako rofimoji                        #Drawer + notifications
+      jellyfin-ffmpeg                           #multimedia libs
+      viewnior                                  #image viewr
+      pavucontrol                               #Volume control
+      xfce.thunar                               #filemanager
+      xfce.xfconf
+      gnome-text-editor
+      gnome.file-roller
+      gnome.gnome-font-viewer
+      gnome.gnome-calculator
+      vlc                                       #Video player
+      amberol                                   #Music player
+      cava                                      #Sound Visualized
+      wl-clipboard                              
+      wf-recorder                               #Video recorder
+      sway-contrib.grimshot                     #Screenshot
+      ffmpegthumbnailer                         #thumbnailer
+      playerctl                                 #play,pause..
+      pamixer                                   #mixer
+      brightnessctl                             #Brightness control
+      ####GTK Customization####
+      nordic
+      papirus-icon-theme
+      gtk3
+      gtk4
+      glib
+      xcur2png
+      rubyPackages.glib2
+      libcanberra-gtk3                          #notification sound
+      #########System#########
+      kitty
+      gnome.gnome-system-monitor
+      libnotify
+      poweralertd
+      dbus
+      #gsettings-desktop-schemas
+      #wrapGAppsHook
+      #xdg-desktop-portal-hyprland
+      ####photoshop dencies####
+      gnome.zenity
+      wine64Packages.waylandFull
+      curl
+      #########################
+      gcc
+      rustup
+      python3
+      python3Packages.pip
+      nodejs
+	    gnumake
+	    lazygit
+      tree-sitter
+      pkgs.nodePackages."typescript"
+      pkgs.nodePackages."@githubnext/github-copilot-cli"
+      pkgs.nodePackages."@nestjs/cli"
+      pkgs.nodePackages."live-server"
+      pkgs.nodePackages."prisma"
     ];
   };
 
@@ -86,7 +99,7 @@
   };
   
   #DIRS
-    environment.etc."xdg/user-dirs.defaults".text= ''
+  environment.etc."xdg/user-dirs.defaults".text= ''
     DESKTOP=$HOME/Desktop
     DOWNLOAD=$HOME/Downloads
     TEMPLATES=$HOME/Templates
@@ -95,18 +108,16 @@
     MUSIC=$HOME/Music
     PICTURES=$HOME/Photos
     VIDEOS=$HOME/Video 
-    '';
+  '';
 
 
-   #Overlays
-    #Waybar wlr/Workspaces
-    nixpkgs.overlays = [
+  #Overlays
+  #Waybar wlr/Workspaces
+  nixpkgs.overlays = [
     (self: super: {
       waybar = super.waybar.overrideAttrs (oldAttrs: {
         mesonFlags = oldAttrs.mesonFlags ++ [ "-Dexperimental=true" ];
       });
     })
-    ];
-
-
+  ];
 }

@@ -1,23 +1,19 @@
 { config, pkgs, lib, inputs, ... }:
+
 {
-
-
-
-
-#Nix Virtualisation
+  #Nix Virtualisation
   virtualisation.spiceUSBRedirection.enable = true;
   virtualisation.libvirtd.enable = true;
   virtualisation.libvirtd.qemu.ovmf.enable = true;
   virtualisation.libvirtd.qemu.swtpm.enable = true;
   environment.sessionVariables.LIBVIRT_DEFAULT_URI = [ "qemu:///system" ];
 
-#pci-passthroughnix
-
-      pciPassthrough = {
+  #pci-passthroughnix
+  pciPassthrough = {
     enable = true;
     pciIDs = "10de:1ba1,10de:10f0";
     cpuType = "intel";
-    libvirtUsers = [ "nomad" ];[
+    libvirtUsers = [ "runfunrun" ];
   };
 
 

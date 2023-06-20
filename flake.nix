@@ -17,7 +17,6 @@
     inherit system;
     config.allowUnfree = true;
   };
-  lib = nixpkgs.lib;
   in {
     nixosConfigurations = {
       ${user} = nixpkgs.lib.nixosSystem {
@@ -41,23 +40,11 @@
           {
             nixpkgs.overlays = [ powercord-overlay.overlay ];  # add this
             environment.systemPackages = with pkgs; [ 
+              google-chrome
               discord 
               obs-studio 
               spotify 
               vscode
-              gcc
-              rustup
-              python3
-              python3Packages.pip
-              nodejs
-	            gnumake
-	            lazygit
-              tree-sitter
-              pkgs.nodePackages."typescript"
-              pkgs.nodePackages."@githubnext/github-copilot-cli"
-              pkgs.nodePackages."@nestjs/cli"
-              pkgs.nodePackages."live-server"
-              pkgs.nodePackages."prisma"
             ];
           }
         ];

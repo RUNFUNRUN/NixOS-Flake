@@ -95,7 +95,6 @@
     neofetch
     gh
     zsh
-    gtk4
     zip
     unzip
     openssl
