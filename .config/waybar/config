@@ -3,7 +3,7 @@
     "layer": "top", // Waybar at top layer
     "modules-left": ["custom/launcher","temperature", "cpu", "memory", "custom/weather", "wlr/workspaces"],
     "modules-center": ["mpris"],
-    "modules-right": [ "network", "pulseaudio",  "backlight", "battery", "clock", "custom/wallpaper","tray","custom/power-menu"],
+    "modules-right": [ "network", "pulseaudio", "clock", "custom/wallpaper","tray","custom/power-menu"],
     "wlr/workspaces": {
       "format": "{icon}",
       "all-outputs": true,
@@ -66,17 +66,17 @@
         "format-icons": ["󰤯","󰤟","󰤢","󰤥","󰤨"],
         
     },
-           "bluetooth": {
-                "format": "{icon}",
-                "format-alt": "bluetooth: {status}",
-                "interval": 30,
-                "format-icons": {
-                     "enabled": "",
-                     "disabled": "󰂲"
-                  
-                },
-                "tooltip-format": "{status}"
-           },
+    "bluetooth": {
+         "format": "{icon}",
+         "format-alt": "bluetooth: {status}",
+         "interval": 30,
+         "format-icons": {
+              "enabled": "",
+              "disabled": "󰂲"
+           
+         },
+         "tooltip-format": "{status}"
+    },
 
     "pulseaudio": {
         "format": "{icon}",
@@ -87,7 +87,7 @@
         "on-click": "pamixer -t",
         "on-scroll-up": "pamixer -i 1",
         "on-scroll-down": "pamixer -d 1",
-	"on-click-right": "exec pavucontrol",
+	      "on-click-right": "exec pavucontrol",
         "tooltip-format" : "Volume {volume}%",
     },
 

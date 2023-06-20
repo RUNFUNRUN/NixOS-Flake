@@ -140,7 +140,11 @@ window#waybar.hidden {
 
 #pulseaudio {
   color: #81A1C1;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
   padding-left: 9px;
+  padding-right: 18px;
+  margin-right: 4px;
   font-size: 22px;
 }
 
