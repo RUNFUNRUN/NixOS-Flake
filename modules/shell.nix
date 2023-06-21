@@ -2,7 +2,7 @@
 {
 
 #shellAliases
-  programs.bash.shellAliases = {
+  programs.zsh.shellAliases = {
     switch = "sudo nixos-rebuild switch --flake .#runfunrun";
     switchu = "sudo nixos-rebuild switch --upgrade --flake .#runfunrun";
     clean = "sudo nix-collect-garbage -d";
