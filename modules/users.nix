@@ -37,7 +37,6 @@
       ####GTK Customization####
       nordic
       papirus-icon-theme
-      gtk3
       gtk4
       glib
       xcur2png
@@ -51,7 +50,7 @@
       dbus
       #gsettings-desktop-schemas
       #wrapGAppsHook
-      #xdg-desktop-portal-hyprland
+      xdg-desktop-portal-hyprland
       ####photoshop dencies####
       gnome.zenity
       wine64Packages.waylandFull
