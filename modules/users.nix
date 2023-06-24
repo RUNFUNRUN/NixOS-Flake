@@ -57,7 +57,8 @@
       curl
       #########################
       gcc
-      rustup
+      rustc
+      cargo
       python3
       python3Packages.pip
       nodejs
