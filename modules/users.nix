@@ -70,6 +70,7 @@
       pkgs.nodePackages."@nestjs/cli"
       pkgs.nodePackages."live-server"
       pkgs.nodePackages."prisma"
+      pkgs.texlive.combined.scheme-full
     ];
   };
 
