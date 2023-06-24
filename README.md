@@ -1,6 +1,6 @@
 # NixOS-Flake
 
-this flake is forked by [https://github.com/nomadics9/NixOS-Flake](https://github.com/nomadics9/NixOS-Flake)
+This flake is forked by [https://github.com/nomadics9/NixOS-Flake](https://github.com/nomadics9/NixOS-Flake)
 
 ## How to install?
 
