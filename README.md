@@ -4,7 +4,7 @@ This flake is forked by [https://github.com/nomadics9/NixOS-Flake](https://githu
 
 ## How to install?
 
-### Install NixOS
+- Install NixOS
 
 [https://channels.nixos.org/nixos-23.05/latest-nixos-gnome-x86_64-linux.iso](https://channels.nixos.org/nixos-23.05/latest-nixos-gnome-x86_64-linux.iso)
 
@@ -15,31 +15,31 @@ recommend: GNOME desktop
 If you want to use Dark mode(ex chrome), now set the dark mode in GNOME settings.
 Hyprland does not have a section for dark theme. (probably)
 
-### Install git and vim
+- Install git and vim
 
 ```
 nix-env -i git vim
 ```
 
-### clone
+- Clone
 
 ```
 git clone https://github.com/RUNFUNRUN/NixOS-Flake.git
 ```
 
-### cd to cloned dir
+- cd to cloned dir
 
 ```
 cd NixOS-Flake
 ```
 
-### copy hardware-configuration.nix from /etc/nixos/hardware-configuration.nix
+- Copy hardware-configuration.nix from /etc/nixos/hardware-configuration.nix
 
 ```
 sudo cp /etc/nixos/hardware-configuration.nix .
 ```
 
-### copy .config and wallpaper
+- Copy .config and wallpaper
 
 ```
 cp -r .config ~/
@@ -48,9 +48,9 @@ cp -r wallpaper ~/Desktop
  
 You can add your favorite wallpapers.(`~/Desktop/wallpapers/`)
 
-### change username to your user in `flake.nix` and `modules/shell.nix`
+- Change username to your user in `flake.nix` and `modules/shell.nix`
 
-### change `boot.loader.efi.efiSysMountPoint` in `configuration.nix`
+- Change `boot.loader.efi.efiSysMountPoint` in `configuration.nix`
 
 Set the following directories under /boot in the following locations.
 
@@ -60,7 +60,11 @@ Set the following directories under /boot in the following locations.
 ```
 It may also be `/boot/efi`.
 
-### switch the flake
+- Change timezone in `configuration.nix`
+
+Line 52.
+
+- Switch the flake
 
 ```
 sudo nixos-rebuild switch --flake .#YOURUSERNAME
@@ -68,7 +72,7 @@ sudo nixos-rebuild switch --flake .#YOURUSERNAME
 
 The alias allows you to execute `switch` from next time.
 
-### reboot
+- reboot
 
 ```
 reboot
@@ -90,7 +94,7 @@ Also, there is an input method setting in `configuration.nix`.
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
-#### plugin
+- plugin
 
 ```
 # zsh-syntax-highlighting
