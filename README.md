@@ -1,69 +1,118 @@
 # NixOS-Flake
-My NixOS Flake + dotfiles
 
-NixOS with personal packages running on HyprlandWM + Waybar
+this flake is forked by [https://github.com/nomadics9/NixOS-Flake](https://github.com/nomadics9/NixOS-Flake)
 
+## How to install?
 
-![ScreenShot](https://i.ibb.co/26rqbc2/Untitled.png)
+### Install NixOS
 
-![ScreenShot](https://i.ibb.co/FHh8QZM/2023-05-22-T23-05-59-807197950-03-00.png)
+[https://channels.nixos.org/nixos-23.05/latest-nixos-gnome-x86_64-linux.iso](https://channels.nixos.org/nixos-23.05/latest-nixos-gnome-x86_64-linux.iso)
 
-![ScreenShot](https://i.ibb.co/fDZ2hSk/Untitled1.png)
+recommend: GNOME desktop
 
-Added some more features in waybar
-![ScreenShot](https://i.ibb.co/6HRpPHX/screenshot.jpg)
+**Attention**
 
-[![waybar hyprland](https://i.ibb.co/sw1Cc2R/youtube.png)](https://www.youtube.com/watch?v=PjE-PTNWwqs)
+If you want to use Dark mode(ex chrome), now set the dark mode in GNOME settings.
+Hyprland does not have a section for dark theme. (probably)
 
+### Install git and vim
 
+```
+nix-env -i git vim
+```
 
-<b>Usage:</b><br>
-First Install NixOS with any GUI you like to proceed from there<br>
-    👣Gnome NixOS<br>
-    🔗https://channels.nixos.org/nixos-23.05/latest-nixos-gnome-x86_64-linux.iso
-<br>
+### clone
 
-INSTALLER:
-<br>
-1. clone
-    > gh repo clone nomadics9/NixOS-Flake
-2. cd to cloned dir
-3. follow the installer
-    > sudo bash install.sh
+```
+git clone https://github.com/RUNFUNRUN/NixOS-Flake.git
+```
 
-MANUAL:
-<br> 
-1. clone
-    > gh repo clone nomadics9/NixOS-Flake
-2. cd to cloned dir 
-3. overwrite your ./hardware-configuration.nix from /etc/nixos/hardware-configuration.nix
-    > sudo cp ~/etc/nixos/hardware-configuration.nix .
-4. change username to your user in <b>flake.nix</b>
-    > ![ScreenShot](https://i.ibb.co/wsgSdcZ/2023-06-06-T23-01-40-950960816-03-00.png)
-5. update and switch or boot the flake
-    > nix flake update
-    - switch or boot
-    > sudo nixos-rebuild switch --flake .#YOURUSERNAME
-6. copy .config to ~/
-    > cp -r .config ~/
+### cd to cloned dir
 
-Extras:
-For GTK theming:<br>
-<s>nwg-look is required. not in nix repo.
-Will upload my nwg-look built pkg here later.</s><br>
+```
+cd NixOS-Flake
+```
 
-<b>NO NEED FOR NWG ANYMORE ALL THROUGH HOME MANAGER</b> 🙋<br>
+### copy hardware-configuration.nix from /etc/nixos/hardware-configuration.nix
 
-for wallpapers to work place all wallpapers in <b>~/Desktop/wallpapers</b>
+```
+sudo cp /etc/nixos/hardware-configuration.nix .
+```
 
+### copy .config and wallpaper
 
+```
+cp -r .config ~/
+cp -r wallpaper ~/Desktop
+```
+ 
+You can add your favorite wallpapers.(`~/Desktop/wallpapers/`)
 
-todo:
-dotfiles in homemanager aswell<br>
-<s>script to install </s><br>
+### change username to your user in `flake.nix` and `modules/shell.nix`
 
+### change `boot.loader.efi.efiSysMountPoint` in `configuration.nix`
 
-SUPER + F1 for all keybinds!<br>
+Set the following directories under /boot in the following locations.
 
-Enjoy~
+```
+/boot $ ls            
+ EFI   loader  'System Volume Information'
+```
+It may also be `/boot/efi`.
 
+### switch the flake
+
+```
+sudo nixos-rebuild switch --flake .#YOURUSERNAME
+```
+
+The alias allows you to execute `switch` from next time.
+
+### reboot
+
+```
+reboot
+```
+
+SUPER + F1 for all keybinds!
+
+Configure the .config as you wish.
+
+In particular, we recommend changing Hyprland's monitor settings.
+
+Also, there is an input method setting in `configuration.nix`.
+
+## Additional
+
+### oh-my-zsh
+
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+#### plugin
+
+```
+# zsh-syntax-highlighting
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+
+# zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+```
+
+### LunarVim
+
+[Installation](https://www.lunarvim.org/docs/installation)
+
+### `.zshrc` example
+
+```
+export PATH="$HOME/.local/bin":$PATH
+export ZSH="$HOME/.oh-my-zsh"
+
+eval "$(github-copilot-cli alias -- "$0")"
+
+plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
+
+source $ZSH/oh-my-zsh.sh
+```
