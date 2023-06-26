@@ -43,7 +43,7 @@ sudo cp /etc/nixos/hardware-configuration.nix .
 
 ```
 cp -r .config ~/
-cp -r wallpaper ~/Desktop
+cp -r wallpapers ~/Desktop
 ```
  
 You can add your favorite wallpapers.(`~/Desktop/wallpapers/`)
@@ -94,7 +94,7 @@ Also, there is an input method setting in `configuration.nix`.
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
-- plugin
+- plugins
 
 ```
 # zsh-syntax-highlighting
