@@ -62,6 +62,7 @@
       python3
       python3Packages.pip
       nodejs
+      deno
 	    gnumake
 	    lazygit
       tree-sitter
